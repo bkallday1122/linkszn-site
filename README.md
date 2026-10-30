@@ -15,11 +15,11 @@ python3 -m unittest discover -s tests
 
 Connect this repository with production branch `main`, build command `npm run build`, output directory `dist`, and Node.js 22. Configure both `linkszn.com` and `www.linkszn.com` as custom domains. Do not use the GitHub Pages A records with Cloudflare Pages. Copy existing DNS records before changing nameservers, including mail and verification records.
 
-Hosting/domain setup is not yet complete. The CNAME file records the intended domain; it does not configure DNS or certificates by itself.
+Cloudflare Pages is deployed at https://linkszn-site.pages.dev. Custom-domain certificate activation is in progress. The CNAME file records the intended domain; it does not configure DNS or certificates by itself.
 
 ## Publish a verified deal
 
-Use an isolated clean checkout on `main`. Authenticate Git with a fine-grained personal access token limited to this repository, with Contents read/write and Metadata read. Never put a token in a remote URL, JSON file, command argument, or repository. Credential provisioning is not yet complete.
+Use an isolated clean checkout on `main`. Authenticate Git with a fine-grained personal access token limited to this repository, with Contents read/write and Metadata read. Never put a token in a remote URL, JSON file, command argument, or repository. The local checkout uses `git_credential_linkszn.py`, which reads `.git/linkszn-publisher.token` (mode 600). The fine-grained token expires November 29, 2026 and is scoped to this repository only. It is not committed. Other machines need their own securely provisioned credential.
 
 ```sh
 python3 publish_deal.py /absolute/path/to/deal.json --dry-run
