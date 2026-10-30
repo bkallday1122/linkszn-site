@@ -1,0 +1,33 @@
+{
+  "title": "TriggerPoint GRID 1.0 Foam Roller — Camo",
+  "woot_url": "https://sport.woot.com/offers/triggerpoint-the-grid-foam-roller-camo",
+  "image": "https://d3gqasl9vmjfd8.cloudfront.net/fe02ac41-baae-4b03-a5b4-3bc6f40402f1.png",
+  "price": 9.99,
+  "category": "Fitness",
+  "comparisons": [
+    {
+      "store": "TriggerPoint",
+      "price": 39.99,
+      "url": "https://tptherapy.com/products/grid-1-0-foam-roller?variant=43086037745779",
+      "notes": "Camo selected on manufacturer’s live page; Add to cart enabled. Single-item price; multi-item promotions require additional purchases.",
+      "checked_at": "2026-10-30T22:20:11.563953+00:00",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walmart Marketplace",
+      "price": 34.99,
+      "url": "https://www.walmart.com/ip/45613771",
+      "notes": "Camo 13-inch model in publicly indexed listing. This lower comparison is retained conservatively; its price and shipping were not revalidated in checkout.",
+      "checked_at": "2026-10-30T22:20:11.563953+00:00",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "The GRID uses a hollow core and textured foam exterior, giving it a different feel from a solid smooth foam roller. Woot’s $9.99 is 71% below the lower $34.99 public comparison we found, while the manufacturer’s live Camo selection was $39.99. This is the compact original GRID, so check its size before choosing it over a longer roller.",
+  "notes": "The manufacturer comparison was checked directly with Camo selected. Walmart’s lower indexed price is included to avoid overstating the savings, but may have changed. Woot lists a 90-day limited warranty; shipping and taxes are excluded.",
+  "condition": "New",
+  "posted_at": "2026-10-30T22:20:11.563953+00:00",
+  "checked_at": "2026-10-30T22:20:11.563953+00:00",
+  "pct_below": 71
+}

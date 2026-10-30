@@ -1,0 +1,24 @@
+{
+  "title": "ACDelco PF64 Engine Oil Filter",
+  "woot_url": "https://tools.woot.com/offers/gm-genuine-parts-gm-ac-delco-pf64-oil-filter-5",
+  "image": "https://d3gqasl9vmjfd8.cloudfront.net/5fb36276-b326-4016-905d-a49bb15699e4.jpg",
+  "price": 2.99,
+  "category": "Automotive",
+  "comparisons": [
+    {
+      "store": "AutoZone",
+      "price": 10.99,
+      "url": "https://www.autozone.com/p/acdelco-engine-oil-filter-pf64/527737",
+      "notes": "PF64, SKU 527737. Public product page retrieved October 30 displayed $10.99 and Add to Cart; store-level inventory depends on location.",
+      "checked_at": "2026-10-30T22:20:11.563953+00:00",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "For a vehicle that calls for this exact filter, Woot’s $2.99 offers a low-cost way to prepare for a future oil change. AutoZone’s public PF64 listing showed $10.99 when checked, making the item price 72% lower. Fitment is the deciding factor here: confirm the PF64 specification for your vehicle rather than buying solely on price.",
+  "notes": "One filter, new condition; Woot limits the offer to three per customer and lists a 90-day warranty. AutoZone’s price came from its search-accessible product page, not a completed local-store availability check. Lower listings at AutoBuffy and FinditParts were excluded because their live pages said out of stock. Check current part-number supersessions and vehicle fitment with the retailer.",
+  "condition": "New",
+  "posted_at": "2026-10-30T22:20:11.563953+00:00",
+  "checked_at": "2026-10-30T22:20:11.563953+00:00",
+  "pct_below": 72
+}

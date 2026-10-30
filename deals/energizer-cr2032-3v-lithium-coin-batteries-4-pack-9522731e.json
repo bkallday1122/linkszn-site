@@ -1,0 +1,33 @@
+{
+  "title": "Energizer CR2032 3V Lithium Coin Batteries — 4 Pack",
+  "woot_url": "https://electronics.woot.com/offers/energizer-e300653210-energizer-2032-4-pack-0",
+  "image": "https://d3gqasl9vmjfd8.cloudfront.net/b0989d8a-9514-4378-8b74-8beb18bae726.jpg",
+  "price": 3.49,
+  "category": "Household",
+  "comparisons": [
+    {
+      "store": "ShopRite",
+      "price": 6.99,
+      "url": "https://www.shoprite.com/sm/delivery/rsid/118/product/energizer-2032-batteries-4-pack-3v-lithium-coin-batteries-id-00039800117274",
+      "notes": "Four CR2032 batteries, UPC 039800117274. Public product page retrieved October 30 showed $6.99 and Add to Cart; location-specific pricing and fulfillment may vary.",
+      "checked_at": "2026-10-30T22:20:11.563953+00:00",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Target",
+      "price": 6.99,
+      "url": "https://www.target.com/p/-/A-14568091",
+      "notes": "Four-pack CR2032, same UPC. Search-accessible listing shows $6.99 and In Stock; browser checkout was not verified.",
+      "checked_at": "2026-10-30T22:20:11.563953+00:00",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "This four-pack costs about 87 cents per battery, making it a useful restock for devices that specifically require CR2032 cells. Woot’s $3.49 is 50% below the $6.99 four-pack listed by ShopRite and Target. Shipping matters on a small purchase, so the item-price savings are most useful with Woot’s free Prime shipping.",
+  "notes": "Verify the battery code required by your device; CR2025 and CR2016 are different sizes. Packaging may vary. Keep coin batteries away from children and pets. Comparison prices come from public retailer pages retrieved through search, and fulfillment depends on location.",
+  "condition": "New",
+  "posted_at": "2026-10-30T22:20:11.563953+00:00",
+  "checked_at": "2026-10-30T22:20:11.563953+00:00",
+  "pct_below": 50
+}

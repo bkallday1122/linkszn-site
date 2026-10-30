@@ -15,7 +15,7 @@ python3 -m unittest discover -s tests
 
 Connect this repository with production branch `main`, build command `npm run build`, output directory `dist`, and Node.js 22. Configure both `linkszn.com` and `www.linkszn.com` as custom domains. Do not use the GitHub Pages A records with Cloudflare Pages. Copy existing DNS records before changing nameservers, including mail and verification records.
 
-Cloudflare Pages is deployed at https://linkszn-site.pages.dev. Custom-domain certificate activation is in progress. The CNAME file records the intended domain; it does not configure DNS or certificates by itself.
+Cloudflare Pages is deployed at https://linkszn-site.pages.dev. Both custom domains serve the site over HTTPS; Cloudflare Always Use HTTPS is enabled. GoDaddy delegates DNS to chris.ns.cloudflare.com and jacqueline.ns.cloudflare.com. Cloudflare CNAME records for @ and www point to linkszn-site.pages.dev. The CNAME file records the intended domain; it does not configure DNS or certificates by itself.
 
 ## Publish a verified deal
 
@@ -38,4 +38,4 @@ The external Woot alert process can call this script after its own verification 
 
 ## Review readiness
 
-About, Contact, Affiliate Disclosure, Privacy, Terms, sitemap and robots are included. Affiliate approval remains a decision of each program. Current seed content is incomplete: three verified offers, with a target of 10–15. Do not submit the unfinished site as fully launched.
+About, Contact, Affiliate Disclosure, Privacy, Terms, sitemap and robots are included. Affiliate approval remains a decision of each program. The site includes ten researched recent Woot offers. Comparison notes distinguish direct checks from public search-accessible retailer listings and disclose shipping, variant and warranty differences. Prices and stock can change. The HealthSmart diffuser was published with publish_deal.py and its public deal page was verified live on October 30, 2026.
