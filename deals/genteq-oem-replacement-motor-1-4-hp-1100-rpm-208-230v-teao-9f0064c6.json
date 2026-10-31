@@ -1,0 +1,30 @@
+{
+  "title": "GENTEQ OEM Replacement Motor, 1/4 HP, 1100 RPM, 208-230V, TEAO",
+  "woot_url": "https://sellout.woot.com/offers/genteq-oem-replacement-motor-1-4-hp-1100z-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/7ac422cf-1824-4e23-b30d-bc8adf70f80e._AC_SR882,441_.png",
+  "price": 81.99,
+  "comparisons": [
+    {
+      "store": "KTool",
+      "price": 169.06,
+      "url": "https://www.ktool.net/genteq-3905-1-4-hp-oem-replacement-motor-1100-rpm-208-230v-48-frame/",
+      "checked_at": "2026-10-31T01:35:42-04:00",
+      "notes": "Genteq 3905, 1/4 HP, 1100 RPM, 208-230V, 48 frame TEAO, new, listed in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Global Industrial",
+      "price": 269.95,
+      "url": "https://www.globalindustrial.com/p/oem-replacement-motor-1-4-hp-1100-rpm-208-230v-teao-exyended-studs",
+      "checked_at": "2026-10-31T01:35:42-04:00",
+      "notes": "Same Genteq 3905 TEAO extended-studs listing title, new",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 51,
+  "posted_at": "2026-10-31T01:35:42-04:00",
+  "checked_at": "2026-10-31T01:35:42-04:00",
+  "writeup": "A new Genteq OEM direct-replacement HVAC motor (1/4 HP, 1100 RPM, 208-230V, totally enclosed air-over with extended studs) for $81.99 at Woot. HVAC supply shops list the same Genteq 3905 motor at $169.06 to $269.95. It needs a 5 MFD/370V capacitor, which isn't included, so check your old motor's specs before buying."
+}
