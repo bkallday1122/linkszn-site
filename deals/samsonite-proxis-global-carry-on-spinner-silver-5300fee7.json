@@ -21,5 +21,8 @@
   "notes": "Check your airline’s size rules, including wheels and handles. The TREAT10 comparison is an advertised coupon calculation, not a completed checkout; eligibility or expiration may change.",
   "category": "Travel",
   "condition": "New",
-  "expires_at": "2026-10-31T05:00:00Z"
+  "expires_at": "2026-10-31T05:00:00Z",
+  "amazon_asin": "B0DT4MX1YT",
+  "amazon_match_notes": "Proxis Global Carry-On, Silver, International Carry-On size.",
+  "amazon_match_checked_at": "2026-10-30"
 }

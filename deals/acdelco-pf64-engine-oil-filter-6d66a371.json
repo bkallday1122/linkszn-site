@@ -20,5 +20,8 @@
   "condition": "New",
   "posted_at": "2026-10-30T22:20:11.563953+00:00",
   "checked_at": "2026-10-30T22:20:11.563953+00:00",
-  "pct_below": 72
+  "pct_below": 72,
+  "amazon_asin": "B07BHZDTP1",
+  "amazon_match_notes": "ACDelco PF64, single filter; confirm vehicle fitment.",
+  "amazon_match_checked_at": "2026-10-30"
 }

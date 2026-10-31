@@ -39,3 +39,7 @@ The external Woot alert process can call this script after its own verification 
 ## Review readiness
 
 About, Contact, Affiliate Disclosure, Privacy, Terms, sitemap and robots are included. Affiliate approval remains a decision of each program. The site includes ten researched recent Woot offers. Comparison notes distinguish direct checks from public search-accessible retailer listings and disclose shipping, variant and warranty differences. Prices and stock can change. The HealthSmart diffuser was published with publish_deal.py and its public deal page was verified live on October 30, 2026.
+
+### Amazon comparison links
+
+Optional `amazon_asin` and `amazon_match_notes` fields add a clearly disclosed “Check price on Amazon” link on the deal page. Verify the exact model, color, size and pack quantity before supplying the ASIN; record the match date in `amazon_match_checked_at`. The template uses public Associates tag `linksznn-20` centrally in `src/lib/affiliates.ts`. Do not put Amazon prices in this field or the write-up; approved price-data integration is required before displaying Amazon prices. Amazon links do not affect the existing savings calculation. `publish_deal.py` preserves these fields and rejects malformed ASINs.

@@ -8,6 +8,13 @@ class ValidationTests(unittest.TestCase):
   stamp=dt.datetime.now(dt.timezone.utc).isoformat()
   self.d=dict(title='A useful product',woot_url='https://sellout.woot.com/offers/example',image='https://example.com/photo.jpg',price=20,comparisons=[dict(store='Retailer',price=50,url='https://example.com/product',checked_at=stamp,notes='Matching model',available=True,matching=True)],pct_below=60,posted_at=stamp,checked_at=stamp,writeup=' '.join(['Original']*35))
  def test_valid_and_deterministic(self): self.assertEqual(p.validate(self.d),p.validate(copy.deepcopy(self.d)))
+ def test_amazon_product_identifier(self):
+  self.d['amazon_asin']='B00D8P5T0U'
+  self.d['amazon_match_notes']='Energizer CR2032 four-pack'
+  p.validate(self.d)
+  for bad in ('https://example.com', 'B00D8P5T0U?tag=other', '', None):
+   self.d['amazon_asin']=bad
+   with self.assertRaises(ValueError): p.validate(self.d)
  def test_wrong_savings(self):
   self.d['pct_below']=80
   with self.assertRaises(ValueError): p.validate(self.d)

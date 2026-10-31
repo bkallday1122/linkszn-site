@@ -42,6 +42,11 @@ def validate(d):
     for k in ('title','writeup','image','woot_url','posted_at','checked_at'):
         if not isinstance(d[k],str) or not d[k].strip(): raise ValueError(f'Invalid {k}')
     url(d['woot_url'], True); url(d['image']); price(d['price'])
+    if 'amazon_asin' in d:
+        if not isinstance(d['amazon_asin'], str) or not re.fullmatch(r'[A-Z0-9]{10}', d['amazon_asin']):
+            raise ValueError('amazon_asin must be a 10-character Amazon product identifier')
+        if not isinstance(d.get('amazon_match_notes'), str) or not d['amazon_match_notes'].strip():
+            raise ValueError('Describe the verified Amazon model, variant and quantity in amazon_match_notes')
     now = dt.datetime.now(dt.timezone.utc)
     for k in ('posted_at','checked_at'):
         t=timestamp(d[k])

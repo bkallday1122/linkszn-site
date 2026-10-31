@@ -29,5 +29,8 @@
   "condition": "New",
   "posted_at": "2026-10-30T22:20:11.563953+00:00",
   "checked_at": "2026-10-30T22:20:11.563953+00:00",
-  "pct_below": 50
+  "pct_below": 50,
+  "amazon_asin": "B00D8P5T0U",
+  "amazon_match_notes": "Energizer CR2032 3V lithium batteries, four-pack.",
+  "amazon_match_checked_at": "2026-10-30"
 }
