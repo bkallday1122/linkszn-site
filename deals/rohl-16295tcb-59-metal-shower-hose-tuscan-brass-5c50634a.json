@@ -1,15 +1,19 @@
 {
-  "title": "ROHL 16295TCB 59\" Metal Shower Hose (Tuscan Brass)",
+  "title": "ROHL 16295TCB 59\" Metal Shower Hose, Tuscan Brass",
   "woot_url": "https://sellout.woot.com/offers/rohl-16295tcb-59-metal-shower-hose-assembly-1",
   "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/3121624e-50e9-46e1-9929-272d662244a6._AC_SR882,441_.png",
   "price": 88.99,
+  "pct_below": 50,
+  "posted_at": "2026-10-31T01:40:22-04:00",
+  "checked_at": "2026-10-31T01:40:22-04:00",
+  "writeup": "ROHL's 16295TCB is a 59-inch double-spiral metal hand shower hose with 1/2-inch female connections, in the Tuscan Brass living finish that develops a patina over time. Dealers sell it for $178, and Woot has it at $88.99.",
   "comparisons": [
     {
       "store": "Kitchen and Bath Authority",
       "price": 178.0,
       "url": "https://www.kbauthority.com/rohl-16295tcb-spa-shower-59-inch-metal-shower-hose-tuscan-brass.html",
-      "checked_at": "2026-10-31T01:35:24-04:00",
-      "notes": "Same model 16295TCB Tuscan Brass, 3 in stock",
+      "checked_at": "2026-10-31T01:40:22-04:00",
+      "notes": "Same 16295TCB Tuscan Brass 59-inch hose",
       "available": true,
       "matching": true
     },
@@ -17,17 +21,13 @@
       "store": "GN Kitchen and Bath",
       "price": 178.0,
       "url": "https://gnkitchenandbath.com/products/rohl-16295tcb",
-      "checked_at": "2026-10-31T01:35:24-04:00",
-      "notes": "Same model 16295TCB Tuscan Brass, 2 left in stock",
+      "checked_at": "2026-10-31T01:40:22-04:00",
+      "notes": "Same 16295TCB, Tuscan Brass",
       "available": true,
       "matching": true
     }
   ],
-  "pct_below": 50,
-  "posted_at": "2026-10-31T01:35:24-04:00",
-  "checked_at": "2026-10-31T01:35:24-04:00",
-  "writeup": "ROHL's 59-inch double-spiral metal shower hose in Tuscan Brass (16295TCB) is $88.99 new on Woot. Kitchen and Bath Authority and GN Kitchen and Bath both sell the same finish for $178. It has 1/2-inch female connections and is made in Italy; the handshower is sold separately.",
   "amazon_asin": "B003E620LE",
-  "amazon_match_notes": "Woot offer data lists this ASIN; Amazon listing is ROHL 16295TCB Tuscan Brass 59 inch, UPC 824438052208 matches",
-  "amazon_match_checked_at": "2026-10-31T01:35:24-04:00"
+  "amazon_match_notes": "Woot offer data lists ASIN B003E620LE; Amazon listing is ROHL 16295TCB 59-inch metal shower hose, Tuscan Brass, UPC 824438052208",
+  "amazon_match_checked_at": "2026-10-31T01:40:22-04:00"
 }
