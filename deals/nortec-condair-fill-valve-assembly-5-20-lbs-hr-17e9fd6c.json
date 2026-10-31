@@ -1,0 +1,39 @@
+{
+  "title": "Nortec (Condair) Fill Valve Assembly, 5-20 lbs/hr",
+  "woot_url": "https://sellout.woot.com/offers/nortec-condair-fill-valve-5-20lbs-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/13e05a88-cff3-4b67-8cc4-354ea00747b1._AC_SR882,441_.png",
+  "price": 105.99,
+  "comparisons": [
+    {
+      "store": "HVAC Brain",
+      "price": 195.15,
+      "url": "https://www.hvacbrain.com/nortec-condair-2573515-sp-fill-valve-assembly-005-020-lbs/",
+      "checked_at": "2026-10-31T01:35:26-04:00",
+      "notes": "Condair 2573515 SP fill valve 5-20 lbs, replaces older part 1312344 like the Woot item",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Long Parts Pros",
+      "price": 222.55,
+      "url": "https://longpartspros.com/condair-nortec-fill-valve-2573515/",
+      "checked_at": "2026-10-31T01:35:26-04:00",
+      "notes": "Condair 2573515, 5-20 lbs, replaces 1312344; 17 in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Condair Parts US",
+      "price": 258.0,
+      "url": "https://condairparts.com/products/fill-valve-05-20-lbs",
+      "checked_at": "2026-10-31T01:35:26-04:00",
+      "notes": "Official Condair parts store, PN 2573515, 5-20 lbs",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 45,
+  "posted_at": "2026-10-31T01:35:26-04:00",
+  "checked_at": "2026-10-31T01:35:26-04:00",
+  "writeup": "This is the Nortec (Condair) fill valve for 5-20 lb/hr electrode steam humidifiers, the replacement for older part 1312344 used in Condair EL and Nortec NH-series units. Woot has it new for $105.99, while HVAC parts sellers charge $195 to $258 for the same 2573515 assembly. A niche part, but a real saving if your humidifier needs one."
+}
