@@ -1,0 +1,33 @@
+{
+  "title": "Mountain Hardwear Men's Threshold Jacket (S, Black)",
+  "woot_url": "https://sellout.woot.com/offers/mountain-hardwear-men-s-threshold-jacket",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/e99cc49d-3666-43c5-abec-fdfef5f92324._AC_SR882,441_.png",
+  "price": 41.99,
+  "pct_below": 79,
+  "posted_at": "2026-11-01T16:12:59-05:00",
+  "checked_at": "2026-11-01T16:12:59-05:00",
+  "comparisons": [
+    {
+      "store": "Vermont Gear - Farm-Way",
+      "price": 200,
+      "url": "https://www.vermontgear.com/2146651.html",
+      "checked_at": "2026-11-01T16:12:59-05:00",
+      "notes": "Model 2146651; Black size S UPC 190423124534; DrySpell 3L shell",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Zappos",
+      "price": 220,
+      "url": "https://www.zappos.com/p/mens-mountain-hardwear-threshold-jacket-black-1/product/9921714/color/125647/size/5",
+      "checked_at": "2026-11-01T16:12:59-05:00",
+      "notes": "SKU 9921714; Black / size S; same Threshold 3-layer packable shell",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B0F8RGT8L9",
+  "amazon_match_notes": "Woot offer ASIN for the same Threshold shell",
+  "amazon_match_checked_at": "2026-11-01T16:12:59-05:00",
+  "writeup": "Woot has the Mountain Hardwear Threshold jacket in men's small, black, for $41.99. It's a three-layer DrySpell waterproof shell with pit zips that packs into its own pocket. Vermont Gear sells the same model 2146651 for $200 and Zappos charges $220, so this is about 79% below the cheapest store. Woot caps it at 10 per customer."
+}
