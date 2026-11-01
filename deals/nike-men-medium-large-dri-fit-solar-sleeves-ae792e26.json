@@ -3,31 +3,31 @@
   "woot_url": "https://sellout.woot.com/offers/nike-men-medium-large-dri-fit-solar-sleeves",
   "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/c98a66c0-2da7-4123-bfc6-06f9a41efdc7._AC_SR882,441_.png",
   "price": 5.99,
-  "pct_below": 78,
+  "pct_below": 71,
   "posted_at": "2026-11-01T16:34:35-05:00",
-  "checked_at": "2026-11-01T16:34:35-05:00",
+  "checked_at": "2026-11-01T16:45:40-05:00",
   "comparisons": [
     {
-      "store": "Team Nike",
-      "price": 27.99,
-      "url": "https://teamnike.myshopify.com/products/nike-dri-fit-solar-sleeves-medium-large-white-black",
-      "checked_at": "2026-11-01T16:34:35-05:00",
-      "notes": "Exact match: Nike Dri-FIT Solar Golf Sleeve style 619399, Medium/Large White/Black; add-to-cart verified",
+      "store": "Golfmastershoppro",
+      "price": 21,
+      "url": "https://www.golfmastershoppro.com/nike-men-s-dri-fit-solar-golf-arm-sleeves/",
+      "checked_at": "2026-11-01T16:45:40-05:00",
+      "notes": "Nike Men's Dri-FIT Solar Golf Arm Sleeves, White/Black, M/L offered; page schema InStock at $21.00",
       "available": true,
       "matching": true
     },
     {
-      "store": "Niky's Sports",
-      "price": 28,
-      "url": "https://www.nikys-sports.com/products/nike-solar-sleeve-black",
-      "checked_at": "2026-11-01T16:34:35-05:00",
-      "notes": "Nike Solar Sleeve size M/L (N.100.0763.010) with Dri-FIT UV pouch; add-to-cart verified",
+      "store": "Team Nike",
+      "price": 27.99,
+      "url": "https://teamnike.myshopify.com/products/nike-dri-fit-solar-sleeves-medium-large-white-black",
+      "checked_at": "2026-11-01T16:45:40-05:00",
+      "notes": "Exact title match: Nike Dri-Fit Solar Sleeves (Medium/Large, White/Black), style 619399; available at $27.99",
       "available": true,
       "matching": true
     }
   ],
-  "writeup": "Woot has Nike's Dri-FIT Solar sleeves in men's Medium/Large for $5.99. These are Nike style 619399 UV arm sleeves that come with a mesh zip pouch. Team Nike sells the same pair for $27.99 and Niky's Sports for $28, so Woot is about 78% cheaper, though stock looked very thin when we checked.",
-  "amazon_asin": "B0059L39FI",
-  "amazon_match_notes": "ASIN verified by price checker as exact match",
-  "amazon_match_checked_at": "2026-11-01T16:34:35-05:00"
+  "writeup": "Woot has Nike's Dri-FIT Solar sleeves in men's Medium/Large, White/Black, for $5.99. These are Nike style 619399 UV arm sleeves with no-slip grip tape and a mesh carry pouch. Golfmastershoppro sells them for $21 and Team Nike for $27.99, so Woot is about 71% cheaper, and only 1 was left when we checked.",
+  "amazon_asin": "B0059L37RS",
+  "amazon_match_notes": "Woot offer ASIN, verified by price checker as exact match (style 619399, White/Black M/L)",
+  "amazon_match_checked_at": "2026-11-01T16:45:40-05:00"
 }
