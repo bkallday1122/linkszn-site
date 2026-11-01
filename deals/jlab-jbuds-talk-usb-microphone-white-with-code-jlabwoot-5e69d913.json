@@ -1,0 +1,27 @@
+{
+  "title": "JLab JBuds Talk USB Microphone White (with code JLABWOOT)",
+  "woot_url": "https://computers.woot.com/offers/jlab-buds-talk-usb-gaming-streaming-microphone-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/8defab3e-2715-4d53-8766-a0bfa8ce2e53._AC_SR882,441_.png",
+  "price": 19.99,
+  "promo_code": "JLABWOOT",
+  "woot_price": 24.99,
+  "promo_expires": "2026-11-06T23:58:00-06:00",
+  "comparisons": [
+    {
+      "store": "JLab",
+      "price": 99.99,
+      "url": "https://www.jlab.com/products/jbuds-talk-usb-microphone-white",
+      "checked_at": "2026-11-01T01:09:36-04:00",
+      "notes": "JBuds Talk USB Microphone White, brand store, in stock at $99.99 (Woot Asin B0BFL1S9FP is the White JBuds Talk)",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 80,
+  "posted_at": "2026-11-01T01:09:36-04:00",
+  "checked_at": "2026-11-01T01:09:36-04:00",
+  "writeup": "JLab's JBuds Talk USB mic is new on Woot for $24.99, and code JLABWOOT takes another $5 off to $19.99 (new customers save $10). It records at 96kHz/24-bit with four pickup patterns, gain and quick mute, plus a 3.5mm monitoring jack. JLab's own store sells it for $99.99.",
+  "amazon_asin": "B0BFL1S9FP",
+  "amazon_match_notes": "Woot page Asin B0BFL1S9FP; Amazon title 'JLab JBuds Talk USB-C Microphone ... White' matches product",
+  "amazon_match_checked_at": "2026-11-01T01:09:36-04:00"
+}
