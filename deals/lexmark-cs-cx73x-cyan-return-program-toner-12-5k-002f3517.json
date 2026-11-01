@@ -1,0 +1,39 @@
+{
+  "title": "Lexmark CS/CX73x Cyan Return Program Toner 12.5K",
+  "woot_url": "https://computers.woot.com/offers/lexmark-lxk-cs-x73x-cyan-rtn-12-5k-crtg-8",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/c8a8697b-e6c1-44e8-bc4c-40abee2523b2._AC_SR882,441_.png",
+  "price": 199.99,
+  "comparisons": [
+    {
+      "store": "NextWarehouse",
+      "price": 346.02,
+      "url": "https://www.nextwarehouse.com/item/?4482013_g10e=",
+      "checked_at": "2026-11-01T01:09:39-04:00",
+      "notes": "Lexmark 71C1XC0 cyan return program toner, 12,500-page yield for CS/CX73x, new, free shipping",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Office Depot",
+      "price": 378.99,
+      "url": "https://www.officedepot.com/a/products/3497530/Lexmark-Unison-Original-Laser-Toner-Cartridge/",
+      "checked_at": "2026-11-01T01:09:39-04:00",
+      "notes": "Same Lexmark 71C1XC0 cyan 12.5K return program cartridge, free shipping",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Best Buy",
+      "price": 390.63,
+      "url": "https://www.bestbuy.com/product/lexmark-lxk-cs-x73x-rtn-12-5k-crtg-cyan/JXZYCZQQL8/sku/11234447",
+      "checked_at": "2026-11-01T01:09:39-04:00",
+      "notes": "Listing titled 'Lexmark LXK CS/X73x RTN 12.5K CRTG Cyan', identical item, marketplace seller",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 42,
+  "posted_at": "2026-11-01T01:09:39-04:00",
+  "checked_at": "2026-11-01T01:09:39-04:00",
+  "writeup": "This is Lexmark's genuine cyan Return Program cartridge for the CS730, CS735 and CX730 color lasers, rated for about 12,500 pages. Woot has it at $199.99, while the same cartridge runs $346.02 at NextWarehouse, $378.99 at Office Depot and $390.63 at Best Buy. Return Program cartridges are meant to go back to Lexmark for recycling after use."
+}
