@@ -1,0 +1,39 @@
+{
+  "title": "Chef Works Men's Springfield Chef Coat (M, Brick)",
+  "woot_url": "https://sellout.woot.com/offers/chef-works-men-m-springfield-chef-coat",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/5babefe2-8f6d-4a79-910c-fe739720b611._AC_SR882,441_.png",
+  "price": 14.99,
+  "pct_below": 62,
+  "posted_at": "2026-11-01T16:41:59-05:00",
+  "checked_at": "2026-11-01T16:41:59-05:00",
+  "writeup": "Woot Sellout has the Chef Works Springfield chef coat in men's medium for $14.99, new. The product photo shows the Brick color, which matches Chef Works model BCSZ009-BRI-M. Restaurant suppliers sell that exact coat for $39.59 at REW Online and $40.61 at ChefsDeal, so this is about 62% under the going rate. Limit 10 per customer.",
+  "comparisons": [
+    {
+      "store": "REW Online",
+      "price": 39.59,
+      "url": "https://www.rewonline.com/restaurant-equipment-new/Chef-Works-BCSZ009BRIM-Chef-s-Coat/CHW-BCSZ009BRIM.html",
+      "checked_at": "2026-11-01T16:41:59-05:00",
+      "notes": "Chef Works BCSZ009BRIM, Springfield, brick, size M, exact variant; buyable, no out-of-stock flag.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "ChefsDeal",
+      "price": 40.61,
+      "url": "https://www.chefsdeal.com/p/chef-coats-and-jackets/chef-works-bcsz009-bri-m",
+      "checked_at": "2026-11-01T16:41:59-05:00",
+      "notes": "Model BCSZ009-BRI-M, Springfield, brick, Medium, exact variant; buyable.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Direct Supply",
+      "price": 63.99,
+      "url": "https://store.directsupply.com/Product/mens-springfield-brick-chef-coat-m-14248137?quantity=1",
+      "checked_at": "2026-11-01T16:41:59-05:00",
+      "notes": "Manufacturer model BCSZ009BRIM, Mens Springfield Brick Chef Coat - M; Add to Cart available.",
+      "available": true,
+      "matching": true
+    }
+  ]
+}
