@@ -1,0 +1,42 @@
+{
+  "title": "Joe's Jeans Men (32W x 34L) Brixton Straight Jean - Mahrez",
+  "woot_url": "https://sellout.woot.com/offers/joes-jeans-men-32w-x-34l-brixton-straight-jean",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1b391a7c-aeaa-430b-a9da-2121b167d0ea._AC_SR882,441_.png",
+  "price": 12.99,
+  "pct_below": 77,
+  "posted_at": "2026-11-01T16:35:07-05:00",
+  "checked_at": "2026-11-01T16:35:07-05:00",
+  "comparisons": [
+    {
+      "store": "Joe's Jeans Outlet",
+      "price": 58.8,
+      "url": "https://joesjeanswear.com/products/the-brixton-tdfmaz8225-4057",
+      "checked_at": "2026-11-01T16:35:07-05:00",
+      "notes": "Mahrez wash, style TDFMAZ8225, size 32 / 34 inseam, SKU TDFMAZ8225-MAHREZ-32",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Zappos",
+      "price": 113.92,
+      "url": "https://www.zappos.com/p/mens-joes-jeans-the-brixton-straight-and-narrow-in-mahrez/product/9320654",
+      "checked_at": "2026-11-01T16:35:07-05:00",
+      "notes": "Mahrez Brixton Straight and Narrow, size 32 with 34 inseam",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Joe's Jeans",
+      "price": 168,
+      "url": "https://www.joesjeans.com/products/the-brixton-tdfmaz8225-4057",
+      "checked_at": "2026-11-01T16:35:07-05:00",
+      "notes": "Mahrez TDFMAZ8225, size 32 variant available",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B07SD195RC",
+  "amazon_match_notes": "ASIN from Woot offer listing, verified by price checker",
+  "amazon_match_checked_at": "2026-11-01T16:35:07-05:00",
+  "writeup": "Woot has the Joe's Jeans Brixton straight and narrow jean in the Mahrez wash, size 32W x 34L, for $12.99. The same style TDFMAZ8225 in this size runs $58.80 at Joe's own outlet store and $113.92 at Zappos, so this is about 77% below the cheapest store we found. Woot shows about 10 left with a limit of 10 per customer."
+}
