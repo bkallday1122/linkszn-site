@@ -1,0 +1,33 @@
+{
+  "title": "HUK Men (L) Standard Icon Crew",
+  "woot_url": "https://sellout.woot.com/offers/huk-men-l-standard-icon-crew-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/e6fe872d-2c7d-4449-bd14-fb26475038bd._AC_SR882,441_.png",
+  "price": 15.99,
+  "pct_below": 58,
+  "posted_at": "2026-11-01T17:10:19-05:00",
+  "checked_at": "2026-11-01T17:10:19-05:00",
+  "writeup": "HUK's Icon Performance Crew long-sleeve shirt in Seagull, men's size L (MPN H1200573-059-L), is new on Woot for $15.99. It's a UPF 50+ fishing shirt with a mesh back panel for hot days on the water. Great Lakes Outpost sells the same UPC for $38.50 and HUK.com charges $55, so this is about 58% below the cheapest store we found.",
+  "comparisons": [
+    {
+      "store": "Great Lakes Outpost",
+      "price": 38.5,
+      "url": "https://www.greatlakesoutpost.com/product/variations/2798889/huk-icon-long-sleeve-crew-mens-tech-shirt?fl=22554920",
+      "checked_at": "2026-11-01T17:10:19-05:00",
+      "notes": "Huk Icon Long Sleeve Crew, Seagull, Large. MPN H1200573-059-L, GTIN 0190840759067. New, in stock, $7 shipping.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "HUK (huk.com)",
+      "price": 55,
+      "url": "https://huk.com/products/icon-ls-crew-seagull",
+      "checked_at": "2026-11-01T17:10:19-05:00",
+      "notes": "Icon Performance Crew, Seagull / L, SKU H1200573-059-L, barcode 190840759067, available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B0FHMD5HBK",
+  "amazon_match_notes": "Same UPC 190840759067 as the Woot listing ASIN.",
+  "amazon_match_checked_at": "2026-11-01T17:10:19-05:00"
+}
