@@ -1,0 +1,42 @@
+{
+  "title": "JLab Go Talk USB Gaming Streaming Microphone (with code JLABWOOT)",
+  "woot_url": "https://computers.woot.com/offers/jlab-go-talk-usb-gaming-streaming-microphone-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/272b65e2-dbfd-40dc-99a1-8941cfde80e4._AC_SR882,441_.png",
+  "price": 14.99,
+  "woot_price": 19.99,
+  "promo_code": "JLABWOOT",
+  "promo_expires": "2026-11-06T23:58:00-06:00",
+  "comparisons": [
+    {
+      "store": "Walmart",
+      "price": 28.99,
+      "url": "https://www.walmart.com/ip/JLab-Audio-MTALKGO2RBLK4-GO-Talk-USB-Desktop-Microphone/230365658",
+      "checked_at": "2026-11-01T01:09:39-04:00",
+      "notes": "Same JLab GO Talk USB mic (MTALKGO2RBLK4), black, new, sold by Walmart; plus $6.99 shipping",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Target",
+      "price": 49.0,
+      "url": "https://www.target.com/p/jlab-go-talk-usb-microphone-black/-/A-1009821139",
+      "checked_at": "2026-11-01T01:09:39-04:00",
+      "notes": "Same JLab GO Talk USB microphone, black, new, free shipping",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "JLab",
+      "price": 49.99,
+      "url": "https://www.jlab.com/products/go-talk-usb-microphone-black",
+      "checked_at": "2026-11-01T01:09:39-04:00",
+      "notes": "Manufacturer store, same GO Talk USB microphone, black, in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 48,
+  "posted_at": "2026-11-01T01:09:39-04:00",
+  "checked_at": "2026-11-01T01:09:39-04:00",
+  "writeup": "JLab's GO Talk is a plug-and-play USB-C condenser mic that records at 96kHz/24-bit and switches between cardioid and omnidirectional pickup, with a quick mute and a 3.5mm monitoring jack. Woot has it for $19.99, and code JLABWOOT takes another $5 off (new customers save $10) through Nov 6, versus $28.99 plus shipping at Walmart and $49 at Target."
+}
