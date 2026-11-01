@@ -1,0 +1,21 @@
+{
+  "title": "HIKVISION PCI-T18F6S 8MP Fixed Turret Camera",
+  "woot_url": "https://sellout.woot.com/offers/hikvision-pci-t18f6s-8mp-fixed-turret-camera-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/08399ad6-d9cf-4405-9edf-cfe916550451._AC_SR882,441_.png",
+  "price": 97.99,
+  "comparisons": [
+    {
+      "store": "DSG.direct",
+      "price": 430.0,
+      "url": "https://dsg.direct/products/hik-pci-t18f6s",
+      "checked_at": "2026-11-01T11:25:51-05:00",
+      "notes": "Exact PCI-T18F6S 6mm lens, UPC 842571134056, in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 77,
+  "posted_at": "2026-11-01T11:26:55-05:00",
+  "checked_at": "2026-11-01T11:25:51-05:00",
+  "writeup": "Woot has the Hikvision PCI-T18F6S 8MP AcuSense fixed turret camera with a 6mm lens and up to 131 ft of IR night vision for $97.99. The only in-stock store we found carrying this exact model, DSG.direct, charges $430. Woot lists it as new, but the sale notes mention open box, so expect possibly rough packaging. Limit 3 per order; the sale runs up to 8 days or until sold out."
+}
