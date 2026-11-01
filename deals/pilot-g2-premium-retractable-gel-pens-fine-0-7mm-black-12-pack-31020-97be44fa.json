@@ -5,6 +5,15 @@
   "price": 6.99,
   "comparisons": [
     {
+      "store": "Walmart",
+      "price": 12.19,
+      "url": "https://www.walmart.com/search?q=pilot+g2+31020",
+      "checked_at": "2026-11-01T01:20:00-04:00",
+      "notes": "Same Pilot G2 31020 0.7mm black 12-pack; lowest verified store price",
+      "available": true,
+      "matching": true
+    },
+    {
       "store": "Staples",
       "price": 14.99,
       "url": "https://www.staples.com/pilot-g2-retractable-gel-pens-fine-point-black-ink-dozen-31020/product_429174",
@@ -14,11 +23,11 @@
       "matching": true
     }
   ],
-  "pct_below": 53,
+  "pct_below": 42,
   "writeup": "The Pilot G2 Premium retractable gel pen 12-pack (model 31020, fine 0.7mm, black ink) is $6.99 at Woot, about 58 cents a pen. G2s are refillable and have a comfort grip and clip. Staples sells the same dozen for $14.99. Limit 5 per customer.",
   "amazon_asin": "B001GAOTSW",
   "amazon_match_notes": "Amazon listing: PILOT G2 Premium Refillable & Retractable Rolling Ball Gel Pens, Fine Point 0.7mm, Black, 12 Count, model 31020 - same as Woot",
   "posted_at": "2026-11-01T01:11:20-04:00",
-  "checked_at": "2026-11-01T01:11:20-04:00",
+  "checked_at": "2026-11-01T01:20:00-04:00",
   "amazon_match_checked_at": "2026-11-01T01:11:20-04:00"
 }
