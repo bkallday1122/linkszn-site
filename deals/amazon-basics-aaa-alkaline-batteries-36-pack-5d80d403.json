@@ -1,0 +1,33 @@
+{
+  "title": "Amazon Basics AAA Alkaline Batteries, 36-Pack",
+  "woot_url": "https://sellout.woot.com/offers/amazon-basics-aaa-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/fbf5889a-bf2f-4381-9d91-affed49da778._AC_SR882,441_.jpg",
+  "price": 6,
+  "comparisons": [
+    {
+      "store": "DGX Tech",
+      "price": 18.09,
+      "url": "https://dgxtech.com/sales/amazon-basics-36-pack-aaa-high-performance-alkaline-batteries-10-year-shelf-life-easy-to-open-value-pack",
+      "checked_at": "2026-11-01T11:03:07-05:00",
+      "notes": "UPC 697003831139, model ALK AAA36FFP-U AMZ, 36-count Amazon Basics AAA alkaline",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Grelly",
+      "price": 18,
+      "url": "https://www.grelly.com/itm/amazon-basics-aaa-long-lasting-alkaline-batteries-36-count-15-volt-reliable-298448901250",
+      "checked_at": "2026-11-01T11:03:07-05:00",
+      "notes": "UPC 697003831139, model ALK AAA36FFP-U AMZ, 36-count new sealed",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 66,
+  "posted_at": "2026-11-01T11:52:47-05:00",
+  "checked_at": "2026-11-01T11:03:07-05:00",
+  "writeup": "Woot has the 36-count Amazon Basics AAA alkaline value pack (model ALK AAA36FFP-U AMZ) for $6, which works out to under 17 cents a battery. These 1.5V cells carry a 10-year shelf life, and other stores charge about $18 for the same UPC pack. Woot limits it to one per customer.",
+  "amazon_asin": "B00LH3DMUO",
+  "amazon_match_notes": "ASIN verified by checker as exact 36-count Amazon Basics AAA pack",
+  "amazon_match_checked_at": "2026-11-01T11:03:07-05:00"
+}
