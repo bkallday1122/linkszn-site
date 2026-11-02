@@ -1,0 +1,24 @@
+{
+  "title": "Campbell's Ready to Serve Low Sodium Chicken Noodle Soup, 24 x 7.25 oz cans",
+  "woot_url": "https://www.woot.com/offers/campbells-low-sodium-chicken-noodle",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/ee607420-2813-4005-8fd3-70bd6eef9590._AC_SR882,441_.png",
+  "price": 25.91,
+  "comparisons": [
+    {
+      "store": "FoodServiceDirect",
+      "price": 43.95,
+      "url": "https://www.foodservicedirect.com/campbell-s-classic-low-sodium-chicken-noodle-soup---ready-to-serve--7-25-ounce----24-per-case-8715.html",
+      "checked_at": "2026-11-02T01:10:00-05:00",
+      "notes": "Same Campbell's Classic Low Sodium Chicken Noodle, Ready To Serve, 7.25 oz, 24 per case (case code 00614, GTIN 10051000006148). Page says stocked, ships within 1 day.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 41,
+  "posted_at": "2026-11-02T01:09:00-05:00",
+  "checked_at": "2026-11-02T01:10:00-05:00",
+  "amazon_asin": "B00CF5EPD6",
+  "amazon_match_notes": "Exact ASIN from the Woot offer data, verified by the price checker as the same 24-can low sodium case.",
+  "amazon_match_checked_at": "2026-11-02T01:10:00-05:00",
+  "writeup": "Woot has a full case of Campbell's Ready to Serve Low Sodium Chicken Noodle soup, 24 cans at 7.25 oz each, new, for $25.91. That works out to about $1.08 a can. FoodServiceDirect sells the same foodservice case (code 00614) for $43.95, so this is about 41% less. Woot limits it to 3 per customer."
+}
