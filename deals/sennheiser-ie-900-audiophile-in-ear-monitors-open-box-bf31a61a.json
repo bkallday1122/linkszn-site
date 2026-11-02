@@ -1,0 +1,42 @@
+{
+  "title": "Sennheiser IE 900 Audiophile In-Ear Monitors (Open Box)",
+  "woot_url": "https://sellout.woot.com/offers/sennheiser-ie-900-audiophile-in-ear-monitors-trueresponse-transducers-with-x3r-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/e7b4b61b-437d-4fdc-9431-0503ef3ca965._AC_SR882,441_.png",
+  "price": 699.99,
+  "comparisons": [
+    {
+      "store": "Moon Audio",
+      "price": 1299.95,
+      "url": "https://www.moon-audio.com/products/sennheiser-ie900",
+      "checked_at": "2026-11-02T11:02:00-05:00",
+      "notes": "Sennheiser IE 900, new, in stock, now $1,299.95 (regular $1,699.95).",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "B&H Photo Video",
+      "price": 1699.95,
+      "url": "https://www.bhphotovideo.com/c/product/1644956-REG/sennheiser_508949_ie_900_in_ear_headphones.html",
+      "checked_at": "2026-11-02T11:02:00-05:00",
+      "notes": "Sennheiser IE 900, MPN 508949, new, in stock, with 2.5/3.5/4.4mm cables.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Audio46",
+      "price": 1699.95,
+      "url": "https://audio46.com/products/sennheiser-ie-900-high-fidelity-earphones",
+      "checked_at": "2026-11-02T11:02:00-05:00",
+      "notes": "Sennheiser IE 900, new and factory sealed, ships today.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 46,
+  "posted_at": "2026-11-02T11:07:38-05:00",
+  "checked_at": "2026-11-02T11:02:00-05:00",
+  "amazon_asin": "B094DP3177",
+  "amazon_match_notes": "ASIN from Woot feed, matched by ASIN, UPC 615104349728 and model IE 900 by the price checker.",
+  "amazon_match_checked_at": "2026-11-02T11:02:00-05:00",
+  "writeup": "Woot has Sennheiser's flagship IE 900 in-ear monitors open box for $699.99. Moon Audio sells them new for $1,299.95, and B&H and Audio46 charge $1,699.95, so this saves about $600 versus the cheapest store. They use a single 7mm dynamic driver with X3R resonator chambers and come with 2.5mm, 3.5mm and 4.4mm balanced cables. Only 1 was left at posting, limit 2 per customer."
+}
