@@ -1,0 +1,87 @@
+{
+  "title": "Logitech H390 Wired Headset",
+  "woot_url": "https://computers.woot.com/offers/logitech-h390-wired-headset-42",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/cf043c56-abd3-44b5-a44a-0234037c0003._AC_SR882,441_.jpg",
+  "price": 9.99,
+  "pct_below": 52,
+  "posted_at": "2026-11-02T12:27:07-05:00",
+  "checked_at": "2026-11-02T12:25:45-05:00",
+  "writeup": "Logitech's H390 USB-A wired headset (MPN 981-000014), new, is $9.99 at Woot. Target sells the same black H390 for $20.99, while Walmart asks $24.88 and B&H, Staples, Office Depot and Logitech itself all charge $24.99. It's a plug-and-play USB headset with a noise-canceling boom mic, and Woot showed just one left at posting with a limit of one per customer.",
+  "comparisons": [
+    {
+      "store": "Target",
+      "price": 20.99,
+      "url": "https://www.target.com/p/logitech-h390-usb-wired-headset/-/A-10806492",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "Logitech H390 USB-A black; in stock at $20.99; MPN 981-000014 / 981-000310",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walmart",
+      "price": 24.88,
+      "url": "https://www.walmart.com/ip/Logitech-H390-Wired-USB-Headset-Stereo-Headphones-with-Noise-Cancelling-Microphone-USB-In-Line-Controls-Black-981-000310/43841325",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "H390 black USB-A MPN 981-000310; sold by Walmart; low stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "B&H Photo",
+      "price": 24.99,
+      "url": "https://www.bhphotovideo.com/c/product/1021622-REG/logitech_h390_usb_a_headset_black_.html",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "H390 USB-A Headset Black; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Staples",
+      "price": 24.99,
+      "url": "https://www.staples.com/logitech-h390-computer-headset-over-the-head-black-981-000014/product_710265",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "Exact MPN 981-000014 black USB-A",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Office Depot",
+      "price": 24.99,
+      "url": "https://www.officedepot.com/a/products/607890/Logitech-H390-On-Ear-USB-Headset/",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "Manufacturer # 981-000014; UPC 097855046871; black USB",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Logitech",
+      "price": 24.99,
+      "url": "https://www.logitech.com/en-us/shop/p/h390-usb-headset",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "Official H390 USB-A computer headset listing",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 25.0,
+      "url": "https://www.newegg.com/logitech-h390-black-supra-aural/p/N82E16826104214",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "Part Number 981-000014 black USB-A; third-party seller",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CDW",
+      "price": 29.99,
+      "url": "https://www.cdw.com/product/logitech-h390-binaural-wired-headset-usb-a-noise-canceling-mic-black/1304366",
+      "checked_at": "2026-11-02T12:25:45-05:00",
+      "notes": "H390 USB-A black MPN 981-000014",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B000UXZQ42",
+  "amazon_match_notes": "Woot offer ASIN B000UXZQ42 = Logitech H390 USB headset black (981-000014), verified by price checker",
+  "amazon_match_checked_at": "2026-11-02T12:25:45-05:00"
+}
