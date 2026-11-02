@@ -1,0 +1,33 @@
+{
+  "title": "NETGEAR C6250-AC1600 WiFi Modem Router Combo (Open Box)",
+  "woot_url": "https://sellout.woot.com/offers/netgear-c6250-ac1600-wifi-modem-router-combo-open-box-34",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/28db2d5a-456f-4aad-9ee1-687711dd94b3._AC_SR882,441_.jpg",
+  "price": 25.63,
+  "comparisons": [
+    {
+      "store": "ServersFit",
+      "price": 96.15,
+      "url": "https://serversfit.com/c6250-100nas-netgear-ac1600-wifi-cable-modem-router.html",
+      "checked_at": "2026-11-02T11:13:52-05:00",
+      "notes": "Mfr Part# C6250-100NAS, refurbished, 39 in stock, free US ground shipping.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CompuDevices",
+      "price": 166.26,
+      "url": "https://www.compudevices.com/c6250-100nas-netgear-ac1600-nighthawk-cable-modem-router-802-11ac-dual-band-gigabit",
+      "checked_at": "2026-11-02T11:13:52-05:00",
+      "notes": "Mfr Part# C6250-100NAS, refurbished, listed in stock, 30-day warranty.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 73,
+  "posted_at": "2026-11-02T11:13:52-05:00",
+  "checked_at": "2026-11-02T11:13:52-05:00",
+  "writeup": "The NETGEAR C6250 (C6250-100NAS) is an AC1600 dual-band WiFi router with a built-in DOCSIS 3.0 cable modem, so it can replace a rented cable company box. Woot has it open box for $25.63, while ServersFit sells the same model refurbished for $96.15 and CompuDevices asks $166.26. Stock is very low with a limit of 2 per customer.",
+  "amazon_asin": "B07PBNLH6D",
+  "amazon_match_notes": "Exact ASIN verified by price check (NETGEAR C6250-100NAS, UPC 034722608091)",
+  "amazon_match_checked_at": "2026-11-02T11:13:52-05:00"
+}
