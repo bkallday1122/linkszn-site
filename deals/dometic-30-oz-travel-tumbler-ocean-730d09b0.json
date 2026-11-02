@@ -1,0 +1,33 @@
+{
+  "title": "Dometic 30 oz Travel Tumbler, Ocean",
+  "woot_url": "https://sellout.woot.com/offers/dometic-30-oz-travel-tumbler-ocean-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/5a193be8-5c94-43c1-bace-917c9aa20409._AC_SR882,441_.png",
+  "price": 19.99,
+  "comparisons": [
+    {
+      "store": "Dometic",
+      "price": 44.99,
+      "url": "https://www.dometic.com/en-us/product/dometic-travel-tumbler-900ml-4",
+      "checked_at": "2026-11-02T16:31:01-05:00",
+      "notes": "Official Dometic US page for the Travel Tumbler 900ml / 30 oz with Ocean as a color option; in stock at $44.99 with free shipping",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Nomadic Supply",
+      "price": 44.99,
+      "url": "https://nomadicsupply.com/dometic-travel-tumbler-900ml-ocean-97000071471/",
+      "checked_at": "2026-11-02T16:31:01-05:00",
+      "notes": "Exact match Dometic Travel Tumbler 900ml Ocean, MPN 97000071471; special order, 3-5 week lead time",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 55,
+  "posted_at": "2026-11-02T16:37:17-05:00",
+  "checked_at": "2026-11-02T16:31:01-05:00",
+  "writeup": "Woot has the Dometic 30 oz Travel Tumbler in the Ocean color, new, for $19.99. Dometic's own site and Nomadic Supply both sell the exact same Ocean tumbler (MPN 97000071471) for $44.99, so you save about $25. It's copper-lined, double-wall vacuum insulated steel with a leakproof straw lid and a carry handle. Only three were left when we checked, with a limit of three per customer.",
+  "amazon_asin": "B0H3Y6WCCM",
+  "amazon_match_notes": "ASIN from verified price check payload; exact Ocean variant, MPN 97000071471, UPC 034223714710",
+  "amazon_match_checked_at": "2026-11-02T16:31:01-05:00"
+}
