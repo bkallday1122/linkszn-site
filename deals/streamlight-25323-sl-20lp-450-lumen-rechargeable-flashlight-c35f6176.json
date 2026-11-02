@@ -1,0 +1,33 @@
+{
+  "title": "Streamlight 25323 SL-20LP 450-Lumen Rechargeable Flashlight",
+  "woot_url": "https://sellout.woot.com/offers/streamlight-25323-sl-450-lumen-flashlight",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/3310ec7b-8331-41f6-8d59-331aa48d190b._AC_SR882,441_.png",
+  "price": 49.99,
+  "comparisons": [
+    {
+      "store": "Battery Products",
+      "price": 128.75,
+      "url": "https://www.batteryproducts.com/P/4058/StreamlightSLLP1V2SleevesYellowNiMH25323",
+      "checked_at": "2026-11-02T16:56:39-05:00",
+      "notes": "Streamlight 25323 SL-20LP Yellow, UPC 080926253230, with 120V AC/12V DC charger and 2 sleeves; lowest verified price.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "SupplyHouse",
+      "price": 181.1,
+      "url": "https://www.supplyhouse.com/Streamlight-25323-SL-20LP-Nylon-Handheld-Flashlight-LED-50-Hr-Max-Run-Time-3-Light-Modes-Yellow-25323",
+      "checked_at": "2026-11-02T16:56:39-05:00",
+      "notes": "MPN/SKU 25323, SL-20LP Yellow, includes 120V AC/12V DC charger and 2 sleeves. In stock, delivery Nov 6-9.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 61,
+  "posted_at": "2026-11-02T17:02:40-05:00",
+  "checked_at": "2026-11-02T16:56:39-05:00",
+  "writeup": "Streamlight's SL-20LP rechargeable flashlight (model 25323, yellow) is $49.99 new at Woot. The kit includes both the 120V AC and 12V DC chargers plus 2 sleeves. Battery Products sells the same kit for $128.75 and SupplyHouse for $181.10, so this is about 61% below the lowest store price. Limit 3 per order.",
+  "amazon_asin": "B007FX5VWM",
+  "amazon_match_notes": "Matched by UPC 080926253230 and model 25323, verified by price checker.",
+  "amazon_match_checked_at": "2026-11-02T16:56:39-05:00"
+}
