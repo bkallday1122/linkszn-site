@@ -1,0 +1,24 @@
+{
+  "title": "The Show Grill- For all things BBQ, skewers and grilling!",
+  "woot_url": "https://tools.woot.com/offers/the-show-grill-for-all-things-bbq-skewers-and-grilling-13",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/d0c5e56c-6c9b-4321-898f-4a2eaeb15c76._AC_SR882,441_.png",
+  "price": 42.99,
+  "comparisons": [
+    {
+      "store": "Tanga",
+      "price": 93.99,
+      "url": "https://www.tanga.com/deals/b797eac755e8/the-show-grill-for-all-things-bbq-skewers-and-grilling",
+      "checked_at": "2026-11-02T01:22:00-05:00",
+      "notes": "Same product title, new, buyable with Nov 7-11 estimated delivery.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 54,
+  "posted_at": "2026-11-02T01:23:23-05:00",
+  "checked_at": "2026-11-02T01:22:00-05:00",
+  "writeup": "The Show Grill is a stainless charcoal barrel grill that hangs 22 skewers at once over the coals, with a 34x38cm cooking area. Woot has it new for $42.99, while Tanga sells the same grill for $93.99, about 54% less here. Stock is very limited, with a limit of 3 per customer.",
+  "amazon_asin": "B0FD3CFV34",
+  "amazon_match_notes": "Spec-identical 22-skewer barrel grill matched by image and spec block.",
+  "amazon_match_checked_at": "2026-11-02T01:22:00-05:00"
+}
