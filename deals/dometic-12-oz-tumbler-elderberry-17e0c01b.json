@@ -1,0 +1,33 @@
+{
+  "title": "Dometic 12 oz Tumbler, Elderberry",
+  "woot_url": "https://sellout.woot.com/offers/dometic-12-oz-tumbler-elderberry-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/9bd998d1-5697-4eab-b840-5f24c164e61e._AC_SR882,441_.png",
+  "price": 14.99,
+  "comparisons": [
+    {
+      "store": "Dometic",
+      "price": 24.99,
+      "url": "https://www.dometic.com/en-us/product/dometic-tumbler-12oz-97000071430?v=97000071430",
+      "checked_at": "2026-11-02T16:31:01-05:00",
+      "notes": "Official Dometic 12 oz Tumbler 350 page; Elderberry color listed at $24.99, in stock, new condition",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Nomadic Supply",
+      "price": 24.99,
+      "url": "https://nomadicsupply.com/dometic-tumbler-350-elderberry-97000071876/",
+      "checked_at": "2026-11-02T16:31:01-05:00",
+      "notes": "Exact match Dometic Tumbler 350 Elderberry, MPN 97000071876; special order, 3-5 week lead time",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 40,
+  "posted_at": "2026-11-02T16:35:59-05:00",
+  "checked_at": "2026-11-02T16:31:01-05:00",
+  "writeup": "Woot has the Dometic 12 oz Tumbler in Elderberry, new, for $14.99. Dometic's own site and Nomadic Supply both sell the exact same Elderberry tumbler (MPN 97000071876) for $24.99, so you save $10, or 40%. It's a copper-lined double-wall steel tumbler with Dometic's Swig Lid and magnetic flip cap. Only one was left when we checked, with a limit of three per customer.",
+  "amazon_asin": "B0H42B7QT7",
+  "amazon_match_notes": "ASIN from verified price check payload; exact Elderberry 12 oz variant, MPN 97000071876",
+  "amazon_match_checked_at": "2026-11-02T16:31:01-05:00"
+}
