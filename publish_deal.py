@@ -123,7 +123,7 @@ def main():
         extra=[]
         try:
             import make_og_images; make_og_images.make(slug)
-            if (ROOT/'public'/'img'/f"{slug}.jpg").exists(): extra=[f"public/img/{d['slug']}.jpg"]
+            if (ROOT/'public'/'img'/f"{slug}.jpg").exists(): extra=[f"public/img/{slug}.jpg"]
         except Exception as e: print('Card image skipped:',type(e).__name__)
         run('git','add','--',rel,'shortlinks.json',*extra)
         run('git','commit','-m',f'Publish deal: {d["title"]}','--',rel,'shortlinks.json',*extra)
