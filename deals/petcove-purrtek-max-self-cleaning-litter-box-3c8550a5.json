@@ -1,0 +1,33 @@
+{
+  "title": "Petcove PurrTek Max Self Cleaning Litter Box",
+  "woot_url": "https://sellout.woot.com/offers/petcove-purrtek-max-self-cleaning-litter-box",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/99a07120-e8a5-45a0-af79-a46edbc6d34b._AC_SR882,441_.png",
+  "price": 179.99,
+  "pct_below": 58,
+  "posted_at": "2026-11-02T13:05:50-05:00",
+  "checked_at": "2026-11-02T13:02:23-05:00",
+  "writeup": "The Petcove PurrTek Max self-cleaning litter box (model PC-PRRTKMX-GRY), brand new, is $179.99 at Woot. Petcove's own store and Walmart (sold by Petcove Shop) both charge $429.99 for the same unit, so Woot is about $250 cheaper. It's the XL 65L drum version built for up to 3 cats and cats up to 22 lbs, and Woot showed only a small batch at posting.",
+  "comparisons": [
+    {
+      "store": "Petcove (official store)",
+      "price": 429.99,
+      "url": "https://petcoveshop.com/products/purrtek%e2%84%a2-max-smart-self-cleaning-litterbox",
+      "checked_at": "2026-11-02T13:02:23-05:00",
+      "notes": "Exact match: SKU PC-PRRTKMX-GRY, barcode 810164501042, in stock, new",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walmart",
+      "price": 429.99,
+      "url": "https://www.walmart.com/ip/18181760587",
+      "checked_at": "2026-11-02T13:02:23-05:00",
+      "notes": "Petcove PurrTek Max XL 65L sold by Petcove Shop, in stock, free shipping",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B0DL7G6S53",
+  "amazon_match_notes": "Woot offer ASIN B0DL7G6S53 = Petcove PurrTek Max (MPN PC-PRRTKMX-GRY, UPC 810164501042), verified by price checker",
+  "amazon_match_checked_at": "2026-11-02T13:02:23-05:00"
+}
