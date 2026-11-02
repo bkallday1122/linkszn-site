@@ -5,29 +5,29 @@
   "price": 71.99,
   "comparisons": [
     {
-      "store": "Kay",
-      "price": 240,
-      "url": "https://www.kay.com/armani-exchange-mens-watch-gift-set-ax7160set/p/V-313114807",
-      "checked_at": "2026-11-01T21:32:50-05:00",
-      "notes": "Model AX7160SET; 42mm black stainless case, black sunray dial, black bracelet, matching black chain necklace. Ship-to-home available, no sold-out notice.",
+      "store": "Jomashop",
+      "price": 132,
+      "url": "https://www.jomashop.com/armani-exchange-quartz-black-dial-mens-watch-and-chain-necklace-set-ax7160set.html",
+      "checked_at": "2026-11-01T21:43:00-05:00",
+      "notes": "Exact match: MPN AX7160SET, UPC 723763327251, 42mm black watch plus black curb chain necklace. In stock with Add to Bag.",
       "available": true,
       "matching": true
     },
     {
-      "store": "Zales",
-      "price": 240,
-      "url": "https://www.zales.com/men-s-armani-exchange-black-ip-chronograph-watch-curb-chain-necklace-set-model-ax7160set/p/V-20593197",
-      "checked_at": "2026-11-01T21:32:50-05:00",
-      "notes": "Model AX7160SET; 42mm black IP case, black link bracelet, 20in black curb chain necklace; authorized dealer. Ship-to-you available.",
+      "store": "Macy's",
+      "price": 183.6,
+      "url": "https://www.macys.com/shop/product/ax-armani-exchange-mens-quartz-multifunction-black-stainless-steel-42mm?ID=18257241",
+      "checked_at": "2026-11-01T21:42:46-05:00",
+      "notes": "Same gift set (Web ID 18257241): 42mm black sunray dial, black stainless bracelet and chain necklace. $183.60 after code FRIEND, $216 before the code.",
       "available": true,
       "matching": true
     }
   ],
-  "pct_below": 70,
+  "pct_below": 45,
   "posted_at": "2026-11-01T21:37:47-05:00",
-  "checked_at": "2026-11-01T21:32:50-05:00",
-  "writeup": "Armani Exchange's AX7160SET gift set pairs a 42mm black watch with a sunray dial, 50m water resistance and removable bracelet links with a matching black chain necklace. Kay and Zales both list the exact set at $240, while Woot has it for $71.99. Woot's page showed very limited stock when checked.",
+  "checked_at": "2026-11-01T21:43:00-05:00",
+  "writeup": "Armani Exchange's AX7160SET gift set pairs a 42mm black watch with a sunray dial and black stainless steel bracelet with a matching black chain necklace. Jomashop sells the exact set for $132 and Macy's for $183.60 after its FRIEND code, while Woot has it for $71.99, about 45% below the lowest in-stock store. Woot's page showed very limited stock when checked.",
   "amazon_asin": "B0D857YJ2T",
   "amazon_match_notes": "ASIN from the Woot offer page data, confirmed as the exact AX7160SET set by the price checker.",
-  "amazon_match_checked_at": "2026-11-01T21:32:50-05:00"
+  "amazon_match_checked_at": "2026-11-01T21:43:00-05:00"
 }
