@@ -1,0 +1,33 @@
+{
+  "title": "Dometic 22 oz Insulated Sip Bottle, Lichen",
+  "woot_url": "https://sellout.woot.com/offers/dometic-22-oz-insulated-sip-bottle-lichen-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/e88454d0-73b8-411d-99c2-7de47e52c8e8._AC_SR882,441_.png",
+  "price": 17.99,
+  "comparisons": [
+    {
+      "store": "Dometic",
+      "price": 39.99,
+      "url": "https://www.dometic.com/en-us/product/dometic-sip-bottle-22oz-97000071446?v=97000071446",
+      "checked_at": "2026-11-02T16:31:01-05:00",
+      "notes": "Official Dometic Sip Bottle 650 (22 oz), Lichen SKU 97000071446, in stock, live price $39.99",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Nomadic Supply",
+      "price": 39.99,
+      "url": "https://nomadicsupply.com/dometic-sip-bottle-650-lichen-97000071446/",
+      "checked_at": "2026-11-02T16:31:01-05:00",
+      "notes": "Exact match Dometic Sip Bottle 650 Lichen 97000071446; special order, 3-5 week lead time",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 55,
+  "posted_at": "2026-11-02T16:33:41-05:00",
+  "checked_at": "2026-11-02T16:31:01-05:00",
+  "writeup": "Woot has the Dometic 22 oz Sip Bottle in the Lichen color, new, for $17.99. Dometic's own site and Nomadic Supply both sell the exact same Lichen bottle (MPN 97000071446) for $39.99, so this is about 55% less. Only one was left when we checked, with a limit of three per customer.",
+  "amazon_asin": "B0GQDDPLT3",
+  "amazon_match_notes": "ASIN from verified price check payload; exact Lichen variant, UPC 034223714468 / MPN 97000071446",
+  "amazon_match_checked_at": "2026-11-02T16:31:01-05:00"
+}
