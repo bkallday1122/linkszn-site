@@ -9,7 +9,16 @@ def make(slug):
     out=OUT/f'{slug}.jpg'
     if out.exists(): return False
     d=json.loads((ROOT/'deals'/f'{slug}.json').read_text())
-    for u in (src(d['image']),d['image']):
+    img=d.get('image') or d.get('image_url') or d.get('img') or ''
+    cands=[src(img),img] if img else []
+    if d.get('woot_url'):
+        try:
+            h=urllib.request.urlopen(urllib.request.Request(d['woot_url'],headers={'User-Agent':'Mozilla/5.0'}),timeout=20).read().decode('utf8','ignore')
+            m=re.search(r'property=["\']og:image["\'][^>]*content=["\']([^"\']+)',h) or re.search(r'content=["\']([^"\']+)["\'][^>]*property=["\']og:image',h)
+            if m: cands.append(m.group(1))
+        except Exception: pass
+    b=None
+    for u in cands:
         try:
             b=urllib.request.urlopen(urllib.request.Request(u,headers={'User-Agent':'Mozilla/5.0'}),timeout=20).read(); break
         except Exception: b=None
