@@ -1,0 +1,51 @@
+{
+  "title": "(NEW) Apple 96W USB-C Power Adapter",
+  "woot_url": "https://computers.woot.com/offers/new-apple-96w-usb-c-power-adapter-15",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/3af06ef5-8b70-4e1a-8e47-91a107f7d8a8._AC_SR882,441_.jpg",
+  "price": 23.97,
+  "pct_below": 69,
+  "posted_at": "2026-11-02T12:25:12-05:00",
+  "checked_at": "2026-11-02T12:22:40-05:00",
+  "writeup": "Apple's official 96W USB-C Power Adapter, brand new, is $23.97 at Woot while Apple and Walmart both charge $79 and B&H and Micro Center ask $79.99. It's the same 96W USB-C brick Apple sells today as MW2L3AM/A, enough to fast-charge a 14-inch MacBook Pro. The cable is sold separately, and Woot showed only one left at posting.",
+  "comparisons": [
+    {
+      "store": "Apple",
+      "price": 79,
+      "url": "https://www.apple.com/shop/product/mw2l3am/a/96w-usb-c-power-adapter",
+      "checked_at": "2026-11-02T12:22:40-05:00",
+      "notes": "Current Apple 96W USB-C Power Adapter MW2L3AM/A (replacement for MX0J2AM/A); cable sold separately",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walmart",
+      "price": 79,
+      "url": "https://www.walmart.com/ip/Apple-96W-USB-C-Power-Adapter/5728963701",
+      "checked_at": "2026-11-02T12:22:40-05:00",
+      "notes": "Apple 96W USB-C Power Adapter model A2166; sold and shipped by Walmart",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "B&H",
+      "price": 79.99,
+      "url": "https://www.bhphotovideo.com/c/product/1830614-REG/apple_mw2l3am_a_96w_usb_c_power_adapter.html",
+      "checked_at": "2026-11-02T12:22:40-05:00",
+      "notes": "Apple MW2L3AM/A; listed as replacement for MX0J2AM/A; UPC 195949376764; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Micro Center",
+      "price": 79.99,
+      "url": "https://www.microcenter.com/product/680401/apple-96w-usb-c-power-adapter",
+      "checked_at": "2026-11-02T12:22:40-05:00",
+      "notes": "Mfr Part MW2L3AM/A; UPC 195949376764; shippable",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B081FVQCHQ",
+  "amazon_match_notes": "Woot offer ASIN B081FVQCHQ = Apple 96W USB-C Power Adapter MX0J2AM/A, verified by price checker",
+  "amazon_match_checked_at": "2026-11-02T12:22:40-05:00"
+}
