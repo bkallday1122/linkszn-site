@@ -1,0 +1,34 @@
+{
+  "title": "Twisted Wares \"Let's Get Baked\" Funny Oven Mitt",
+  "woot_url": "https://home.woot.com/offers/wisted-wares-funny-oven-mitts-with-sayings-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/b45ab621-c771-4f3b-b1a5-e8771b0e1e11._AC_SR882,441_.png",
+  "price": 6.99,
+  "pct_below": 53,
+  "posted_at": "2026-11-02T14:09:26-05:00",
+  "checked_at": "2026-11-02T14:04:47-05:00",
+  "condition": "New",
+  "writeup": "The Twisted Wares \"Let's Get Baked\" oven mitt (model 420603, UPC 815415026947) is $6.99 new at Woot. What The Soap and So Slanty both sell the exact same mitt for $14.99, so this is more than half off. It is cotton canvas with thick batting and a hanging loop. Only 3 were left when we checked, limit 3 per order.",
+  "comparisons": [
+    {
+      "store": "What The Soap",
+      "price": 14.99,
+      "url": "https://whatthesoap.com/products/lets-get-baked-oven-mitt",
+      "checked_at": "2026-11-02T14:04:47-05:00",
+      "notes": "Exact UPC 815415026947 and SKU 420603 match, 'Let's Get Baked' design; variant shown as available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "So Slanty",
+      "price": 14.99,
+      "url": "https://soslanty.com/products/twisted-wares-baked-oven-mitt",
+      "checked_at": "2026-11-02T14:04:47-05:00",
+      "notes": "Exact UPC 815415026947 match, 'Let's Get Baked oven mitt by Twisted Wares'; variant shown as available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B084T78R6W",
+  "amazon_match_notes": "ASIN verified by the price checker as the exact same mitt (model 420603, UPC 815415026947).",
+  "amazon_match_checked_at": "2026-11-02T14:04:47-05:00"
+}
