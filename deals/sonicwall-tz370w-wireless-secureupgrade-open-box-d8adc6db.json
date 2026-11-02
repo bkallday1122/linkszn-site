@@ -1,0 +1,42 @@
+{
+  "title": "SonicWall TZ370W Wireless SecureUpgrade (Open Box)",
+  "woot_url": "https://sellout.woot.com/offers/sonicwall-tz370w-wireless-secureupgrade-open-box-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/52a78879-fc2d-4c1e-bb12-f23cc67bcf01._AC_SR882,441_.png",
+  "price": 911.94,
+  "comparisons": [
+    {
+      "store": "1Stop",
+      "price": 2259.65,
+      "url": "https://www.1stop.com/sonicwall-tz370-wireless-ac-secure-upgrade-plus-advanced-edition-3-years.html",
+      "checked_at": "2026-11-02T16:30:00-05:00",
+      "notes": "Model 02-SSC-6835, TZ370 Wireless-AC Secure Upgrade Plus Advanced Edition 3 Years, new, in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "RetailMarket",
+      "price": 2761.49,
+      "url": "https://www.retailmarket.net/products/sonicwall-tz370w-secure-upgrade-plus-3yr-advanced-edition-02-ssc-6835-tz370w-wireless-network-security-appliance-with-3-year-advanced-protection-service-suite-next-generation-firewall/",
+      "checked_at": "2026-11-02T16:30:00-05:00",
+      "notes": "02-SSC-6835, UPC 758479268352, 3YR Advanced Edition, in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Server Blink",
+      "price": 2875.03,
+      "url": "https://www.serverblink.com/02-ssc-6835-sonicwall-tz370w-network-security-firewall-appliance/",
+      "checked_at": "2026-11-02T16:30:00-05:00",
+      "notes": "SKU/MPN 02-SSC-6835, TZ370W, new, in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 59,
+  "posted_at": "2026-11-02T16:30:04-05:00",
+  "checked_at": "2026-11-02T16:30:00-05:00",
+  "writeup": "Woot has an open-box SonicWall TZ370W wireless firewall bundled with the 3-year Secure Upgrade Plus Advanced Edition license (02-SSC-6835) for $911.94. The same new bundle runs $2,259.65 at 1Stop and $2,761.49 at RetailMarket, so this is about 59% less. Note that Secure Upgrade Plus requires a qualifying trade-in device, and an open-box license may already be registered, so confirm with SonicWall before relying on the 3-year subscription. Only one was left when we checked.",
+  "amazon_asin": "B08PNJQ2WN",
+  "amazon_match_notes": "ASIN from verified price check payload; exact match by ASIN, MPN 02-SSC-6835, UPC 758479268352",
+  "amazon_match_checked_at": "2026-11-02T16:30:00-05:00"
+}
