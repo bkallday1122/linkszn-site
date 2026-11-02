@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate a verified deal, commit just its JSON file, and push main."""
+"""Validate a verified deal, commit its JSON file plus the short-link map, and push main."""
 import argparse
 import datetime as dt
 import fcntl
@@ -14,6 +14,25 @@ import sys
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent
+SHORT_ALPHA='abcdefghjkmnpqrstuvwxyz23456789'
+
+def short_code(slug, mapping):
+    """Stable 5-char code for a slug; existing codes never change."""
+    if slug in mapping: return mapping[slug]
+    used=set(mapping.values()); n=0
+    while True:
+        h=int(hashlib.sha256(f'{slug}:{n}'.encode()).hexdigest(),16); c=''
+        for _ in range(5): h,r=divmod(h,len(SHORT_ALPHA)); c+=SHORT_ALPHA[r]
+        if c not in used: return c
+        n+=1
+
+def load_short(root=None):
+    f=(root or ROOT)/'shortlinks.json'
+    return json.loads(f.read_text()) if f.exists() else {}
+
+def save_short(mapping, root=None):
+    f=(root or ROOT)/'shortlinks.json'; t=f.with_suffix('.json.tmp')
+    t.write_text(json.dumps(dict(sorted(mapping.items())),indent=1)+'\n'); t.replace(f)
 
 def run(*args, capture=True):
     return subprocess.run(args, cwd=ROOT, check=True, text=True,
@@ -88,19 +107,25 @@ def main():
             if run('git','branch','--show-current').strip() != 'main': raise ValueError('Publisher requires main branch')
             if run('git','status','--porcelain').strip(): raise ValueError('Checkout must be clean; preserve existing work before publishing')
             run('git','pull','--ff-only','origin','main')
-        if target.exists() and target.read_text()==text:
+        mapping=load_short(); had=slug in mapping; code=short_code(slug,mapping); mapping[slug]=code
+        same=target.exists() and target.read_text()==text
+        if same and had:
             if not args.write_only: run('git','push','origin','main')
-            print(f'Already present: https://linkszn.com/deals/{slug}/'); return
+            print(f'Already present: https://linkszn.com/deals/{slug}/')
+            print(f'Short link: https://linkszn.com/d/{code}'); return
         target.parent.mkdir(exist_ok=True)
-        temp=target.with_suffix('.json.tmp'); temp.write_text(text); temp.replace(target)
+        if not same:
+            temp=target.with_suffix('.json.tmp'); temp.write_text(text); temp.replace(target)
+        save_short(mapping)
         if args.write_only:
-            print(f'Written: {target}'); return
+            print(f'Written: {target}'); print(f'Short link: https://linkszn.com/d/{code}'); return
         rel=target.relative_to(ROOT).as_posix()
-        run('git','add','--',rel)
-        run('git','commit','-m',f'Publish deal: {d["title"]}','--',rel)
+        run('git','add','--',rel,'shortlinks.json')
+        run('git','commit','-m',f'Publish deal: {d["title"]}','--',rel,'shortlinks.json')
         run('git','push','origin','main')
         print(f'Pushed {run("git","rev-parse","HEAD").strip()}')
         print(f'Deployment queued; verify https://linkszn.com/deals/{slug}/ before calling it live.')
+        print(f'Short link: https://linkszn.com/d/{code} (live once the deploy finishes)')
 
 if __name__=='__main__':
     try: main()

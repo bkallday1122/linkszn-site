@@ -1,0 +1,12 @@
+---
+import fs from 'node:fs';
+import {deals,money} from '../../lib/deals';
+export function getStaticPaths(){
+  const map=fs.existsSync('shortlinks.json')?JSON.parse(fs.readFileSync('shortlinks.json','utf8')):{};
+  const by=new Map(deals.map(d=>[d.slug,d]));
+  return Object.entries(map).filter(([s])=>by.has(s)).map(([slug,code])=>({params:{code},props:{deal:by.get(slug)}}));
+}
+const {deal:d}=Astro.props; const to=`https://linkszn.com/deals/${d.slug}/`;
+const img=new URL(d.image,'https://linkszn.com').href; const title=`${d.title} – ${money(d.price)} at Woot`;
+---
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><title>{title} | LINKSZN</title><meta name="description" content={d.writeup}/><meta name="robots" content="noindex"/><link rel="canonical" href={to}/><meta property="og:type" content="website"/><meta property="og:site_name" content="LINKSZN"/><meta property="og:title" content={title}/><meta property="og:description" content={d.writeup}/><meta property="og:url" content={to}/><meta property="og:image" content={img}/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@LINKSZN"/><meta name="twitter:title" content={title}/><meta name="twitter:description" content={d.writeup}/><meta name="twitter:image" content={img}/><meta http-equiv="refresh" content={`0; url=${to}`}/><script is:inline define:vars={{to}}>location.replace(to)</script></head><body><p><a href={to}>Continue to the deal</a></p></body></html>
