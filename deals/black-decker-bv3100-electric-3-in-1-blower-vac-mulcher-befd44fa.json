@@ -1,0 +1,42 @@
+{
+  "title": "BLACK+DECKER BV3100 Electric 3-in-1 Blower/Vac/Mulcher",
+  "woot_url": "https://tools.woot.com/offers/blackdecker-bv3100-electric-3-in-1-tool-5",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/9025fbed-d359-42f1-a9b7-1f74572289a5._AC_SR882,441_.png",
+  "price": 39.99,
+  "comparisons": [
+    {
+      "store": "The Home Depot",
+      "price": 72.0,
+      "url": "https://www.homedepot.com/p/BLACK-DECKER-12-AMP-210-MPH-300-CFM-Corded-Electric-3-in-1-Handheld-Leaf-Blower-Vacuum-Mulcher-BV3100/304155029",
+      "checked_at": "2026-11-02T01:06:42-05:00",
+      "notes": "Model BV3100, Internet # 304155029; includes blow tube, vacuum tube and bag",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "ICR Supply",
+      "price": 72.99,
+      "url": "https://shop.icrsupply.com/p/d796dce7-1fe1-4f86-8d13-ac694bd557ed/3891140",
+      "checked_at": "2026-11-02T01:06:42-05:00",
+      "notes": "Model BV3100, UPC 885911293501",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Pine Mountain Hardware",
+      "price": 77.99,
+      "url": "https://www.pinemountainhardware.com/p/d796dce7-1fe1-4f86-8d13-ac694bd557ed/3891140/",
+      "checked_at": "2026-11-02T01:06:42-05:00",
+      "notes": "Model BV3100, UPC 885911293501",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 44,
+  "posted_at": "2026-11-02T01:13:06-05:00",
+  "checked_at": "2026-11-02T01:06:42-05:00",
+  "amazon_asin": "B00TQN06YW",
+  "amazon_match_notes": "Exact model BV3100 / UPC 885911293501 matched by the Woot offer data ASIN.",
+  "amazon_match_checked_at": "2026-11-02T01:06:42-05:00",
+  "writeup": "Woot has the BLACK+DECKER BV3100 corded 3-in-1 leaf blower, vacuum and mulcher new for $39.99 with a 90-day Woot warranty. The 12-amp unit blows at up to 210 MPH and mulches about 10 bags of leaves down to one. Home Depot lists the same model at $72, so this is roughly 44% less, and Woot shows only a few left with a limit of 3."
+}
