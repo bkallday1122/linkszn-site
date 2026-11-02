@@ -120,8 +120,13 @@ def main():
         if args.write_only:
             print(f'Written: {target}'); print(f'Short link: https://linkszn.com/d/{code}'); return
         rel=target.relative_to(ROOT).as_posix()
-        run('git','add','--',rel,'shortlinks.json')
-        run('git','commit','-m',f'Publish deal: {d["title"]}','--',rel,'shortlinks.json')
+        extra=[]
+        try:
+            import make_og_images; make_og_images.make(d['slug'])
+            if (ROOT/'public'/'img'/f"{d['slug']}.jpg").exists(): extra=[f"public/img/{d['slug']}.jpg"]
+        except Exception as e: print('Card image skipped:',type(e).__name__)
+        run('git','add','--',rel,'shortlinks.json',*extra)
+        run('git','commit','-m',f'Publish deal: {d["title"]}','--',rel,'shortlinks.json',*extra)
         run('git','push','origin','main')
         print(f'Pushed {run("git","rev-parse","HEAD").strip()}')
         print(f'Deployment queued; verify https://linkszn.com/deals/{slug}/ before calling it live.')
