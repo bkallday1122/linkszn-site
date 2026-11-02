@@ -1,0 +1,24 @@
+{
+  "title": "Clean Simple Eats Vanilla Whey Protein",
+  "woot_url": "https://www.woot.com/offers/clean-simple-eats-vanilla-whey-protein",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/03841c2e-4917-4bc7-8f15-2c0a941e9352._AC_SR882,441_.png",
+  "price": 38.91,
+  "comparisons": [
+    {
+      "store": "Clean Simple Eats (official)",
+      "price": 64.99,
+      "url": "https://cleansimpleeats.com/products/vanilla-protein-powder",
+      "checked_at": "2026-11-02T01:20:00-05:00",
+      "notes": "Simply Vanilla 30 Serving Bag, SKU 1630VAN1, barcode 810093784837; store product data shows available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 40,
+  "posted_at": "2026-11-02T01:21:09-05:00",
+  "checked_at": "2026-11-02T01:20:00-05:00",
+  "writeup": "Clean Simple Eats Simply Vanilla whey isolate comes in a 30-serving bag with 20g of grass-fed whey per scoop. Woot has it new for $38.91, while Clean Simple Eats' own store charges $64.99 for the same bag, about 40% more. Stock is very limited at 3 units with a limit of 3 per customer, and non-Prime buyers pay $6 shipping.",
+  "amazon_asin": "B0GSV9FZXW",
+  "amazon_match_notes": "Same UPC 810093784837 as official store listing, verified by price checker.",
+  "amazon_match_checked_at": "2026-11-02T01:20:00-05:00"
+}
