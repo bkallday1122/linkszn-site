@@ -1,0 +1,42 @@
+{
+  "title": "HP 280 Silent Wireless Mouse",
+  "woot_url": "https://computers.woot.com/offers/hp-280-silent-wireless-mouse-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/d3251175-701b-494e-ae99-5c3291dd8cb7._AC_SR882,441_.png",
+  "price": 9.99,
+  "comparisons": [
+    {
+      "store": "HP",
+      "price": 27.99,
+      "url": "https://www.hp.com/us-en/shop/pdp/hp-wireless-silent-280m-mouse",
+      "checked_at": "2026-11-03T01:08:20-05:00",
+      "notes": "HP product 19U64AA#ABL, UPC 195122197483, new, $27.99 with Add to Cart shown.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walmart",
+      "price": 27.99,
+      "url": "https://www.walmart.com/ip/HP-280-Silent-Wireless-Mouse/515751592",
+      "checked_at": "2026-11-03T01:08:20-05:00",
+      "notes": "HP 280 Silent Wireless Mouse, black, sold and shipped by HP, $27.99 with Add to cart shown.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Micro Center",
+      "price": 27.99,
+      "url": "https://www.microcenter.com/product/668284/hp-280-silent-wireless-mouse",
+      "checked_at": "2026-11-03T01:08:20-05:00",
+      "notes": "SKU 589523, Mfr Part 19U64AA#ABL, UPC 195122197483; in-store pickup only.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 64,
+  "posted_at": "2026-11-03T01:11:33-05:00",
+  "checked_at": "2026-11-03T01:08:20-05:00",
+  "writeup": "Woot has the HP 280 Silent Wireless Mouse (19U64AA#ABL) for $9.99. HP's own store, Walmart and Micro Center all charge $27.99 for the same mouse, so this is about 64% less. Woot doesn't list the condition on this one, and an earlier Woot run of it was Grade A refurbished. Limit 3 per customer.",
+  "amazon_asin": "B08MKXVNZQ",
+  "amazon_match_notes": "ASIN from the Woot listing, verified by the price checker against MPN 19U64AA#ABL and UPC 195122197483.",
+  "amazon_match_checked_at": "2026-11-03T01:08:20-05:00"
+}
