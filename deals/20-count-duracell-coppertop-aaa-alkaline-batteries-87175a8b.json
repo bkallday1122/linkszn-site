@@ -1,0 +1,34 @@
+{
+  "title": "(20 Count) Duracell CopperTop AAA Alkaline Batteries",
+  "woot_url": "https://sellout.woot.com/offers/20-count-duracell-coppertop-aaa-alkaline-batteries-5",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1c9d2a57-05cf-4c53-9cb1-5393e652cc0a._AC_SR882,441_.jpg",
+  "price": 8.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Walmart",
+      "price": 18.99,
+      "url": "https://www.walmart.com/ip/Duracell-Coppertop-AAA-Battery-Long-Lasting-Triple-A-Batteries-20-Pack/14301880",
+      "checked_at": "2026-11-03T10:30:40-05:00",
+      "notes": "MPN MN2400B20, 20-count CopperTop AAA, in stock, sold by My Battery Supplier and fulfilled by Walmart",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "P.C. Richard & Son",
+      "price": 21.99,
+      "url": "https://www.pcrichard.com/duracell-aaa-20-pack-coppertop-battery/MN2400B20.html",
+      "checked_at": "2026-11-03T10:30:40-05:00",
+      "notes": "Model MN2400B20, Duracell AAA 20-pack CopperTop, in stock, ships by Nov 4 with $4.99 shipping",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 52,
+  "posted_at": "2026-11-03T10:34:37-05:00",
+  "checked_at": "2026-11-03T10:30:40-05:00",
+  "writeup": "Woot has a new 20-pack of Duracell CopperTop AAA alkaline batteries (MN2400B20) for $8.99. Walmart charges $18.99 for the same 20-pack and P.C. Richard & Son asks $21.99, so this is about half the going rate. Duracell guarantees these for 12 years in storage, and Woot limits it to 2 per order.",
+  "amazon_asin": "B002UXRXE6",
+  "amazon_match_notes": "ASIN from the Woot offer data, confirmed as the same Duracell CopperTop AAA 20-pack (MN2400B20) by the price checker",
+  "amazon_match_checked_at": "2026-11-03T10:30:40-05:00"
+}
