@@ -89,6 +89,11 @@ def validate(d):
     if not slug: raise ValueError('Title must produce a valid slug')
     return slug+'-'+hashlib.sha256(d['woot_url'].split('?')[0].encode()).hexdigest()[:8]
 
+def schedule_push():
+    """Hand the commit to the debounced pusher (one push per ~45s burst = one Cloudflare build)."""
+    subprocess.Popen([sys.executable,str(ROOT/'push_pending.py')],cwd=ROOT,start_new_session=True,
+                     stdin=subprocess.DEVNULL,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('json_file', type=Path)
@@ -106,11 +111,14 @@ def main():
         if not args.write_only:
             if run('git','branch','--show-current').strip() != 'main': raise ValueError('Publisher requires main branch')
             if run('git','status','--porcelain').strip(): raise ValueError('Checkout must be clean; preserve existing work before publishing')
-            run('git','pull','--ff-only','origin','main')
+            # local unpushed deal commits may exist (debounced pusher); rebase keeps them
+            subprocess.run(['git','fetch','-q','origin','main'],cwd=ROOT)
+            if subprocess.run(['git','rev-list','--count','origin/main..main'],cwd=ROOT,text=True,capture_output=True).stdout.strip()=='0':
+                run('git','pull','--ff-only','origin','main')
         mapping=load_short(); had=slug in mapping; code=short_code(slug,mapping); mapping[slug]=code
         same=target.exists() and target.read_text()==text
         if same and had:
-            if not args.write_only: run('git','push','origin','main')
+            if not args.write_only: schedule_push()
             print(f'Already present: https://linkszn.com/deals/{slug}/')
             print(f'Short link: https://linkszn.com/d/{code}'); return
         target.parent.mkdir(exist_ok=True)
@@ -127,8 +135,8 @@ def main():
         except Exception as e: print('Card image skipped:',type(e).__name__)
         run('git','add','--',rel,'shortlinks.json',*extra)
         run('git','commit','-m',f'Publish deal: {d["title"]}','--',rel,'shortlinks.json',*extra)
-        run('git','push','origin','main')
-        print(f'Pushed {run("git","rev-parse","HEAD").strip()}')
+        schedule_push()
+        print(f'Pushed {run("git","rev-parse","HEAD").strip()} (committed; batched push within ~45s)')
         print(f'Deployment queued; verify https://linkszn.com/deals/{slug}/ before calling it live.')
         print(f'Short link: https://linkszn.com/d/{code} (live once the deploy finishes)')
 
@@ -136,3 +144,4 @@ if __name__=='__main__':
     try: main()
     except (ValueError,KeyError,TypeError,json.JSONDecodeError,subprocess.CalledProcessError) as e:
         print(f'Publish failed: {e}',file=sys.stderr); sys.exit(1)
+
