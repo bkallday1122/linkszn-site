@@ -1,0 +1,51 @@
+{
+  "title": "Cherry MX 3.0 S Mechanical Gaming Keyboard (RGB, White, MX Red)",
+  "woot_url": "https://sellout.woot.com/offers/cherry-mx-3-0-s-mechanical-gaming-keyboard-5",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/7ffd8325-67b6-47f0-8c3c-67e8e5d29810._AC_SR882,441_.png",
+  "price": 44.99,
+  "comparisons": [
+    {
+      "store": "Cherry (official US store)",
+      "price": 99.99,
+      "url": "https://cherryxtrfy.com/keyboards/cherry-mx-board-3-0s-rgb-white/",
+      "checked_at": "2026-11-03T10:10:45-05:00",
+      "notes": "MX Board 3.0S RGB White product page, $99.99, US layout, MX Red option, no sold-out flag.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "A5 IT",
+      "price": 100.25,
+      "url": "https://a5it.com/product/cherry-americas-cherry-white-wired-keyboard/G80-3874HYAUS-0",
+      "checked_at": "2026-11-03T10:10:45-05:00",
+      "notes": "MPN G80-3874HYAUS-0, MX 3.0S wired RGB, MX Red, white, 8 left.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Aztek Computers",
+      "price": 109.41,
+      "url": "https://www.aztekcomputers.com/g80-3874hyaus-0-rgb-mechanical-keyboard-white-housing-cherry/p",
+      "checked_at": "2026-11-03T10:10:45-05:00",
+      "notes": "Part G80-3874HYAUS-0, UPC 840183605629, new, 8 available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CompSource",
+      "price": 112.56,
+      "url": "https://www.compsource.com/buy/G803874HYAUS0/Cherry-1007/CHERRY-MX-30S-Wired-RGB-Keyboard-MX-RED-SWITCH--For-Office-And-Gaming-White--Removeable-cable--G803874HYAUS0/",
+      "checked_at": "2026-11-03T10:10:45-05:00",
+      "notes": "MPN G80-3874HYAUS-0, UPC 840183605629, new, 8 in stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 55,
+  "posted_at": "2026-11-03T10:10:45-05:00",
+  "checked_at": "2026-11-03T10:10:45-05:00",
+  "writeup": "The Cherry MX 3.0S is a wired full-size mechanical keyboard with genuine Cherry MX Red linear switches, per-key RGB and a white housing (model G80-3874HYAUS-0). Cherry's own US store charges $99.99 and A5 IT $100.25. Woot has it for $44.99 with only 1 showing left, limit 10 per customer.",
+  "amazon_asin": "B0BV3T6FSV",
+  "amazon_match_notes": "ASIN matches MPN G80-3874HYAUS-0 and UPC 840183605629 per verified check.",
+  "amazon_match_checked_at": "2026-11-03T10:10:45-05:00"
+}
