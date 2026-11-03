@@ -1,0 +1,30 @@
+{
+  "title": "SteelSeries Aerox 3 Wireless Gaming Mouse",
+  "woot_url": "https://sellout.woot.com/offers/steelseries-aerox-3-wireless-gaming-mouse-6",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/b25b88c1-fbca-4824-8238-74c2a1658e76._AC_SR882,441_.jpg",
+  "price": 29.99,
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 73.89,
+      "url": "https://www.newegg.com/steelseries-62608-aerox-3-wireless-2022-edition-2-4ghz-bluetooth-5-0/p/N82E16826249262",
+      "checked_at": "2026-11-03T10:12:15-05:00",
+      "notes": "Aerox 3 Wireless 2022 Edition, model 62608, same MPN; lowest offer from a marketplace seller.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Micro Center",
+      "price": 109.99,
+      "url": "https://www.microcenter.com/product/643176/steelseries-aerox-3-wireless-ultra-lightweight-gaming-mouse-snow",
+      "checked_at": "2026-11-03T10:12:15-05:00",
+      "notes": "Mfr part 62608, UPC 850014119522 exact match; can be shipped.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 59,
+  "posted_at": "2026-11-03T10:18:34-05:00",
+  "checked_at": "2026-11-03T10:12:15-05:00",
+  "writeup": "The SteelSeries Aerox 3 Wireless is a 68g ultralight gaming mouse with a perforated shell, dual 2.4GHz and Bluetooth connectivity, and up to 200 hours of battery life. Woot has it for $29.99, while Newegg sellers ask $73.89 and Micro Center lists it at $109.99. Condition wasn't confirmed on the offer page, and Woot limits it to one per customer."
+}
