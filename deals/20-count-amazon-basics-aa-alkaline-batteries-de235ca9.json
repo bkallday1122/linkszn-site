@@ -1,0 +1,33 @@
+{
+  "title": "(20 Count) Amazon Basics AA Alkaline Batteries",
+  "woot_url": "https://sellout.woot.com/offers/20-count-amazon-basics-aa-alkaline-batteries-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/9074d9e0-ab3a-40b8-827c-1fbd8b4a9a72._AC_SR882,441_.png",
+  "price": 4.99,
+  "comparisons": [
+    {
+      "store": "eBay (Mom and Pop Wholesale)",
+      "price": 11.99,
+      "url": "https://www.ebay.com/p/9012055249",
+      "checked_at": "2026-11-03T10:33:32-05:00",
+      "notes": "eBay catalog listing for AmazonBasics LR6G0720FFPABUS AA 20-pack, same UPC 0841710106404, new. US shipping cost not confirmed.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "eBay (saveymore)",
+      "price": 17.99,
+      "url": "https://www.ebay.com/itm/318731145587",
+      "checked_at": "2026-11-03T10:33:32-05:00",
+      "notes": "New Amazon Basics 20-pack AA alkaline, same title and pack size, 4 available, free USPS Ground Advantage to US.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 58,
+  "posted_at": "2026-11-03T10:33:25-05:00",
+  "checked_at": "2026-11-03T10:33:25-05:00",
+  "writeup": "Woot has a sealed 20-pack of Amazon Basics AA alkaline batteries (MPN LR6G0720FFPABUS) for $4.99, which works out to about 25 cents per cell. eBay sellers list the same UPC pack at $11.99 and $17.99. These carry a 10-year leak-free shelf life, and Woot limits it to one per customer with very little stock left.",
+  "amazon_asin": "B00NTCH52W",
+  "amazon_match_notes": "Woot offer ASIN matches the Amazon Basics AA 20-pack, same MPN and UPC.",
+  "amazon_match_checked_at": "2026-11-03T10:33:25-05:00"
+}
