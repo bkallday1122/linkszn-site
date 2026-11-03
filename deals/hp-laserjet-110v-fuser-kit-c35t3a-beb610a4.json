@@ -1,0 +1,51 @@
+{
+  "title": "HP LaserJet 110V Fuser Kit (C35T3A)",
+  "woot_url": "https://computers.woot.com/offers/hp-hp-laserjet-110v-fuser-kit-c35t3a-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1c156c07-5cce-40eb-a4db-27a8dfce46c7._AC_SR882,441_.png",
+  "price": 199.99,
+  "pct_below": 41,
+  "posted_at": "2026-11-03T12:06:37-05:00",
+  "checked_at": "2026-11-03T12:06:37-05:00",
+  "writeup": "Woot has the genuine HP LaserJet 110V Fuser Kit (C35T3A, UPC 199485467597), new and sold by Woot, for $199.99. It fits LaserJet Enterprise MFP 6600 and X62757 series printers. The cheapest verified store, Arlington Computer Products, charges $340.12, with A Network Integrators at $369.37, CDW at $386.99 and Newegg at $390.17, so this is about 41% below the lowest price. Limit 3 per customer.",
+  "comparisons": [
+    {
+      "store": "Arlington Computer Products (PEPPM catalog)",
+      "price": 340.12,
+      "url": "https://global.channelonline.com/arlingtoncp/peppm/Products/overview/M026900985",
+      "checked_at": "2026-11-03T12:06:37-05:00",
+      "notes": "Part # C35T3A, HP 110V fuser kit, new, 6 available",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "A Network Integrators",
+      "price": 369.37,
+      "url": "https://anetworkintegrators.com/hp-laserjet-110v-fuser-kit-c35t3a.html",
+      "checked_at": "2026-11-03T12:06:37-05:00",
+      "notes": "SKU C35T3A, UPC 199485467597 exact match; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CDW",
+      "price": 386.99,
+      "url": "https://www.cdw.com/product/hp-laserjet-110v-fuser-kit/9204164",
+      "checked_at": "2026-11-03T12:06:37-05:00",
+      "notes": "Mfg # C35T3A, CDW # 9204164; add to cart available",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 390.17,
+      "url": "https://www.newegg.com/hp-c35t3a-fuser-kit/p/14S-002Y-05PT3",
+      "checked_at": "2026-11-03T12:06:37-05:00",
+      "notes": "Part C35T3A 110V fuser kit; marketplace seller NothingButSavings",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B0H2NN7BYK",
+  "amazon_match_notes": "ASIN from Woot offer data; checker verified exact-ASIN match for HP C35T3A 110V fuser kit",
+  "amazon_match_checked_at": "2026-11-03T12:06:37-05:00"
+}
