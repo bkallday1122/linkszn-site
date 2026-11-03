@@ -1,0 +1,51 @@
+{
+  "title": "HP 206A Magenta Toner Cartridge (W2113A)",
+  "woot_url": "https://sellout.woot.com/offers/hp-206a-magenta-toner-cartridge-5",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/724d901a-cc19-4ffe-9310-89b2b25bcb5f._AC_SR882,441_.png",
+  "price": 44.99,
+  "comparisons": [
+    {
+      "store": "Genuine Ink",
+      "price": 83.0,
+      "url": "https://genuineink.com/w2113a-hp-206a-original-hp-laserjet-toner-cartridge-magenta/",
+      "checked_at": "2026-11-03T14:59:00-05:00",
+      "notes": "SKU W2113A, UPC 193905265084, genuine HP magenta single pack, in stock, free shipping. $83.00 is the lowest box-condition tier (range $83.00-$101.95).",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Office Depot",
+      "price": 102.89,
+      "url": "https://www.officedepot.com/a/products/6774704/HP-206A-Magenta-Toner-Cartridge-W2113A/",
+      "checked_at": "2026-11-03T14:59:00-05:00",
+      "notes": "Item 6774704, manufacturer # W2113A, UPC 193905265084, new original HP single pack.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 102.99,
+      "url": "https://www.newegg.com/hp-w2113a-magenta/p/N82E16828413808",
+      "checked_at": "2026-11-03T14:59:00-05:00",
+      "notes": "HP 206A W2113A original LaserJet toner, magenta, free shipping.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "4inkjets",
+      "price": 104.99,
+      "url": "https://www.4inkjets.com/oem-hp-w2113a-magenta-toner-cartridge",
+      "checked_at": "2026-11-03T14:59:00-05:00",
+      "notes": "OEM HP 206A W2113A magenta, 1,250-page yield, in stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 45,
+  "posted_at": "2026-11-03T14:59:38-05:00",
+  "checked_at": "2026-11-03T14:59:00-05:00",
+  "writeup": "This is the genuine HP 206A magenta LaserJet toner (part W2113A), rated for about 1,250 pages. Woot has it new for $44.99, while Office Depot and Newegg charge around $103 for the same cartridge and even the cheapest tier we found elsewhere was $83. Stock looked very thin, with just one left when we checked.",
+  "amazon_asin": "B0843HQX6R",
+  "amazon_match_notes": "Exact match per verified check: HP 206A Magenta, MPN W2113A, UPC 193905265084.",
+  "amazon_match_checked_at": "2026-11-03T14:59:00-05:00"
+}
