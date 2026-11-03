@@ -1,0 +1,33 @@
+{
+  "title": "Sunny Health & Fitness Mountain Climb Stair Stepper (SF-S021001)",
+  "woot_url": "https://sellout.woot.com/offers/sunny-health-fitness-mountain-climb-stair-stepper-9",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/26f29ada-4843-4516-b9c0-c87dfe2901a9._AC_SR882,441_.png",
+  "price": 49.99,
+  "comparisons": [
+    {
+      "store": "Sunny Health & Fitness",
+      "price": 199.99,
+      "url": "https://sunnyhealthfitness.com/products/climber-stepper-with-handlebar-sf-s021001",
+      "checked_at": "2026-11-03T11:05:00-05:00",
+      "notes": "Brand's own store, SKU SF-S021001, barcode 815749014900, in stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Staples",
+      "price": 268.39,
+      "url": "https://www.staples.com/sunny-health-fitness-climber-stepper-black-sf-s021001/product_24683972",
+      "checked_at": "2026-11-03T11:05:00-05:00",
+      "notes": "Climber Stepper, Black (SF-S021001), final price $268.39 with free delivery dates shown.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 75,
+  "posted_at": "2026-11-03T11:06:55-05:00",
+  "checked_at": "2026-11-03T11:05:00-05:00",
+  "writeup": "The Sunny Health & Fitness Mountain Climb Stair Stepper (model SF-S021001), the 16.9-inch climber with a handlebar, is $49.99 at Woot. Sunny's own store sells the same model for $199.99 and Staples charges $268.39, so that's about $150 less than the cheapest store. Woot didn't list a condition, and it showed only 1 left.",
+  "amazon_asin": "B0C833W5C3",
+  "amazon_match_notes": "Exact ASIN verified by price checker (model SF-S021001, UPC 815749014900).",
+  "amazon_match_checked_at": "2026-11-03T11:05:00-05:00"
+}
