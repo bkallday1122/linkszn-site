@@ -1,0 +1,33 @@
+{
+  "title": "Thermaltake Smart BM3 750W 80 Plus Bronze Power Supply",
+  "woot_url": "https://sellout.woot.com/offers/thermaltake-smart-bm3-750w-80plus-supply-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/77b34f13-25b9-4e97-99e5-fe1679b2f98a._AC_SR882,441_.png",
+  "price": 32.9,
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 81.99,
+      "url": "https://www.newegg.com/thermaltake-atx-3-0-compatible-750-w-meet-80-plus-bronze-at-115vac-input-power-supply-spd-750ah2clb/p/N82E16817153455",
+      "checked_at": "2026-11-03T10:22:05-05:00",
+      "notes": "Sold and shipped by Newegg; part number PS-SPD-0750MNFABU-3, model SPD-750AH2CLB, 750W exact match.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Neutron USA",
+      "price": 103.05,
+      "url": "https://www.neutronusa.com/prod.cfm/4943678",
+      "checked_at": "2026-11-03T10:22:05-05:00",
+      "notes": "MPN PS-SPD-0750MNFABU-3, model SPD-750AH2CLB; 10 in stock, free shipping.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 59,
+  "posted_at": "2026-11-03T10:22:05-05:00",
+  "checked_at": "2026-11-03T10:22:05-05:00",
+  "writeup": "The Thermaltake Smart BM3 is a 750W 80 Plus Bronze semi-modular power supply (model SPD-750AH2CLB) with ATX 3.1 support and a native 16-pin GPU cable. Woot has it for $32.90, while Newegg sells the same unit for $81.99 and Neutron USA for $103.05. Woot showed only 2 left at this price, with a limit of 10 per customer.",
+  "amazon_asin": "B0CFXGFQNZ",
+  "amazon_match_notes": "Woot listing ASIN B0CFXGFQNZ matches Thermaltake Smart BM3 750W, MPN PS-SPD-0750MNFABU-3, per upstream verified check.",
+  "amazon_match_checked_at": "2026-11-03T10:22:05-05:00"
+}
