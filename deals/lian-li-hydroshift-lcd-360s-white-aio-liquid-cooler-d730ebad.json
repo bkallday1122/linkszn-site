@@ -1,0 +1,33 @@
+{
+  "title": "Lian Li HydroShift LCD 360S White AIO Liquid Cooler",
+  "woot_url": "https://sellout.woot.com/offers/lian-li-hydroshift-360s-white-aio-21",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/f37ad2eb-b132-403c-8035-1ab27ce62b18._AC_SR882,441_.png",
+  "price": 89.99,
+  "comparisons": [
+    {
+      "store": "Central Computers",
+      "price": 179.99,
+      "url": "https://www.centralcomputer.com/lian-li-hslcd36sw-hydroshift-360-aio-pre-installe-3-x-28mm-fans-side-mounted-coolant-pathway-2-88-inch-lcd-screen-480-x-480.html",
+      "checked_at": "2026-11-03T14:46:25-05:00",
+      "notes": "Model HSLCD36SW, White, listed in stock online.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CompuDevices",
+      "price": 258.0,
+      "url": "https://www.compudevices.com/hslcd36sw-lian-hydroshift-lcd-360s-aio-cooler-white",
+      "checked_at": "2026-11-03T14:46:25-05:00",
+      "notes": "MPN HSLCD36SW, UPC 840353046504, New, White, listed in stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-03T14:46:25-05:00",
+  "checked_at": "2026-11-03T14:46:25-05:00",
+  "writeup": "Lian Li's HydroShift LCD 360S in white (model HSLCD36SW) is a 360mm all-in-one liquid cooler with three 120mm fans and a 2.88-inch 480x480 screen on the pump head. Woot has it new for $89.99, about half the $179.99 Central Computers charges, and only a handful were left when we checked.",
+  "amazon_asin": "B0DD1VYM36",
+  "amazon_match_notes": "Exact match: Lian Li HydroShift LCD 360S White, MPN HSLCD36SW, UPC 840353046504.",
+  "amazon_match_checked_at": "2026-11-03T14:46:25-05:00"
+}
