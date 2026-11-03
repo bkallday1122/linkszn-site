@@ -1,0 +1,33 @@
+{
+  "title": "Linksys MX8000 Mesh WiFi Router (2-Pack) (Factory Reconditioned)",
+  "woot_url": "https://sellout.woot.com/offers/linksys-mx8000-mesh-wifi-router-2-pack-16",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1806ad87-821c-406a-beae-8d90e296eecf._AC_SR882,441_.jpg",
+  "price": 39.99,
+  "comparisons": [
+    {
+      "store": "Newegg (marketplace seller SIMPLIZED)",
+      "price": 161.99,
+      "url": "https://www.newegg.com/p/2RC-002P-00061",
+      "checked_at": "2026-11-03T10:09:27-05:00",
+      "notes": "Same title: Linksys MX8000 AX4000 Velop tri-band WiFi 6 mesh, 2-Pk. Add to cart shown, sold and shipped by SIMPLIZED.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "RetailMarket",
+      "price": 344.49,
+      "url": "https://www.retailmarket.net/products/linksys-mx8000-velop-mesh-wifi-6-system-router-replacement-tri-band-wireless-network-for-whole-home-coverage-5400-sq-ft-coverage-80-devices-speeds-up-to-ax4000-4-2gbps-2pk/",
+      "checked_at": "2026-11-03T10:09:27-05:00",
+      "notes": "UPC 745883809967 matches; MX8000 2PK, page says In Stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 75,
+  "posted_at": "2026-11-03T10:11:06-05:00",
+  "checked_at": "2026-11-03T10:09:27-05:00",
+  "writeup": "The Linksys Velop MX8000 is back at Woot, this time a factory reconditioned 2-pack for $39.99. It's a tri-band AX4000 WiFi 6 mesh system that covers up to 5,400 square feet with two nodes, while a Newegg marketplace seller wants $161.99 for the same set. Only 1 was left at last check, limit 3 per customer.",
+  "amazon_asin": "B08NCRC48P",
+  "amazon_match_notes": "Exact match by ASIN from Woot offer data, MPN MX8000 and UPC 745883809967 (verified by price check)",
+  "amazon_match_checked_at": "2026-11-03T10:09:27-05:00"
+}
