@@ -1,0 +1,42 @@
+{
+  "title": "ASUS TUF Gaming A620AM-PLUS WiFi Motherboard",
+  "woot_url": "https://sellout.woot.com/offers/tuf-gaming-a620am-plus-wifi-motherboard-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/0fe27149-3724-4e9c-a670-1ff87a50999d._AC_SR882,441_.png",
+  "price": 59.21,
+  "comparisons": [
+    {
+      "store": "Technology Galaxy",
+      "price": 185.19,
+      "url": "https://www.technologygalaxy.com/Asus-TUF-GAMING-A620AM-PLUS-WIFI/p/411906",
+      "checked_at": "2026-11-03T10:10:00-05:00",
+      "notes": "Part number TUF GAMING A620AM-PLUS WIFI, same specs (AM5, A620A, Wi-Fi 6, 2.5GbE), free shipping, listed as available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "MemoryC",
+      "price": 187.18,
+      "url": "https://www.memoryc.com/77617-asus-tuf-gaming-a620am-plus-wifi-amd-a620a-socket-am5-micro-atx.html",
+      "checked_at": "2026-11-03T10:10:00-05:00",
+      "notes": "ASUS TUF GAMING A620AM-PLUS WIFI, A620A AM5 mATX, page shows 1 in stock, ships in 9 days, free shipping.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Neutron USA",
+      "price": 215.1,
+      "url": "https://www.neutronusa.com/prod.cfm/5742368",
+      "checked_at": "2026-11-03T10:10:00-05:00",
+      "notes": "MPN TUF GAMING A620AM-PLUS WIFI, page shows In Stock: 1000.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 68,
+  "posted_at": "2026-11-03T10:10:08-05:00",
+  "checked_at": "2026-11-03T10:10:00-05:00",
+  "writeup": "The ASUS TUF Gaming A620AM-PLUS WiFi is a micro-ATX AM5 board for Ryzen builds, with the A620A chipset, Wi-Fi 6 and 2.5Gb Ethernet built in. Technology Galaxy lists the same board at $185.19 and MemoryC at $187.18. Woot has it new for $59.21, limit 1 per customer.",
+  "amazon_asin": "B0FNV33ZQY",
+  "amazon_match_notes": "ASIN matches MPN TUF GAMING A620AM-PLUS WIFI and UPC 199291231818 per verified check.",
+  "amazon_match_checked_at": "2026-11-03T10:10:00-05:00"
+}
