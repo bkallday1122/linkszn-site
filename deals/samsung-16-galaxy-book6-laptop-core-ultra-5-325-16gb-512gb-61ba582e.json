@@ -1,0 +1,33 @@
+{
+  "title": "Samsung 16\" Galaxy Book6 Laptop (Core Ultra 5 325, 16GB, 512GB)",
+  "woot_url": "https://sellout.woot.com/offers/samsung-16-galaxy-book6-laptop-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/78e19faa-37c4-4365-9b27-2ad60cc3d02a._AC_SR882,441_.png",
+  "price": 699.99,
+  "comparisons": [
+    {
+      "store": "Samsung",
+      "price": 1349.99,
+      "url": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-series/buy/galaxy-book6-16-intel-core-ultra-5-512gb-gray-sku-np760vjg-ka1us/",
+      "checked_at": "2026-11-03T10:14:11-05:00",
+      "notes": "Samsung's buy page for NP760VJG-KA1US: 16-inch non-touch, Core Ultra 5 325, 16GB, 512GB, Gray. Same hardware as Woot's NP760VJG-KA2US; only the channel suffix differs. No out-of-stock flag shown.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Connection",
+      "price": 1477.02,
+      "url": "https://www.connection.com/product/samsung-galaxy-book6-16gb-512gb-16-gray/np760vjg-ka1us--/42119023",
+      "checked_at": "2026-11-03T10:14:11-05:00",
+      "notes": "NP760VJG-KA1US: 16-inch 1920x1200, Core Ultra 5 325, 16GB LPDDR5X, 512GB SSD, Gray, Windows 11 Home. Page says Limited Quantity Available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 48,
+  "posted_at": "2026-11-03T10:14:11-05:00",
+  "checked_at": "2026-11-03T10:14:11-05:00",
+  "writeup": "Samsung's 16-inch Galaxy Book6 (NP760VJG) pairs an Intel Core Ultra 5 325 with 16GB of LPDDR5X memory, a 512GB SSD and a 1920x1200 display running Windows 11 Home. Woot has it new for $699.99, while Samsung's own store charges $1,349.99 and Connection lists it at $1,477.02, so you save about $650. Woot showed only 1 left, limit 3 per customer.",
+  "amazon_asin": "B0GND82D5T",
+  "amazon_match_notes": "ASIN B0GND82D5T matches Samsung Galaxy Book6 16-inch NP760VJG-KA2US per verified exact-match check; Woot's computers listing for the same ASIN says New.",
+  "amazon_match_checked_at": "2026-11-03T10:14:11-05:00"
+}
