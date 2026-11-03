@@ -1,0 +1,33 @@
+{
+  "title": "Fanatec Sim Racing CSL Cockpit V1.5, New",
+  "woot_url": "https://sellout.woot.com/offers/fanatec-sim-racing-csl-cockpit-v1-5z-12",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/910c4071-6843-4b74-8d68-226b2f4d016f._AC_SR882,441_.png",
+  "price": 124.99,
+  "comparisons": [
+    {
+      "store": "Fanatec",
+      "price": 299.99,
+      "url": "https://www.fanatec.com/us/en/p/cockpits/crd-9010009-ww/csl-cockpit-v1-5",
+      "checked_at": "2026-11-03T10:26:54-05:00",
+      "notes": "Fanatec's official US store page for CSL Cockpit V1.5, MPN CRD-9010009-WW, shown as Available at $299.99.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "6 Sigma Sim Racing",
+      "price": 299.99,
+      "url": "https://6sigmasimracing.com/products/fanatec-csl-cockpit-v1-5",
+      "checked_at": "2026-11-03T10:26:54-05:00",
+      "notes": "Fanatec CSL Cockpit V1.5 shown In stock at $299.99; package contents match Fanatec's listing.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 58,
+  "posted_at": "2026-11-03T10:31:32-05:00",
+  "checked_at": "2026-11-03T10:26:54-05:00",
+  "writeup": "Fanatec's CSL Cockpit V1.5 (model CRD-9010009-WW) is a sim racing rig with an aluminum frame and steel brackets, built to hold direct drive wheel bases. Woot has it new for $124.99, while Fanatec's own US store and 6 Sigma Sim Racing both charge $299.99. Woot showed only 1 left, limit 1 per customer.",
+  "amazon_asin": "B0FLQKN3J8",
+  "amazon_match_notes": "Woot listing ASIN B0FLQKN3J8 verified upstream as the exact Fanatec CSL Cockpit V1.5 (CRD-9010009-WW, UPC 840440404958).",
+  "amazon_match_checked_at": "2026-11-03T10:26:54-05:00"
+}
