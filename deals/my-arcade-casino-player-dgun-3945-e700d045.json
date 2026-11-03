@@ -1,0 +1,43 @@
+{
+  "title": "My Arcade Casino Player (DGUN-3945)",
+  "woot_url": "https://sellout.woot.com/offers/my-arcade-casino-player-11",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/58c66ba4-6510-4a5a-a3cb-2f5a0d37963e._AC_SR882,441_.png",
+  "price": 21.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "HyperMicro",
+      "price": 49.99,
+      "url": "https://hypermicro.com/products/my-arcade-casino-player-portable-arcade-gaming-system-dgun-3945",
+      "checked_at": "2026-11-03T10:33:30-05:00",
+      "notes": "Model DGUN-3945, UPC 845620039456, new condition, available at $49.99",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "My Arcade",
+      "price": 59.99,
+      "url": "https://myarcade.com/products/casino-player",
+      "checked_at": "2026-11-03T10:33:00-05:00",
+      "notes": "Brand's own store, SKU DGUN-3945, barcode 845620039456, available",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "GameTronex",
+      "price": 59.99,
+      "url": "https://www.gametronex.com/products/my-arcade-casino-player-retro-arcades-slot-machine-casino-games-poker-games-blackjack-roulette-includes-over-30-games",
+      "checked_at": "2026-11-03T10:33:00-05:00",
+      "notes": "SKU REO-DGUN-3945, barcode 845620039456, available",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 56,
+  "posted_at": "2026-11-03T10:34:26-05:00",
+  "checked_at": "2026-11-03T10:33:30-05:00",
+  "writeup": "Woot has the My Arcade Casino Player (model DGUN-3945) new for $21.99. It's a handheld with 30+ casino games, including Texas Hold'em, blackjack and roulette, on a 3.5-inch screen with a metal slot-machine lever on the side. HyperMicro charges $49.99 for the same unit, and My Arcade's own store and GameTronex both ask $59.99. Woot showed only one left, limit one per customer.",
+  "amazon_asin": "B0DSCMLJL2",
+  "amazon_match_notes": "ASIN from the Woot offer data, confirmed as the same My Arcade Casino Player DGUN-3945 by the price checker",
+  "amazon_match_checked_at": "2026-11-03T10:33:30-05:00"
+}
