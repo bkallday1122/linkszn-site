@@ -1,0 +1,24 @@
+{
+  "title": "JRL Ghost Cordless Hair Trimmer",
+  "woot_url": "https://www.woot.com/offers/jrl-ghost-cordless-hair-trimmer-9",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/516ee6a1-01cb-4eff-9d5e-42e0cb53c1f9._AC_SR882,441_.png",
+  "price": 69.99,
+  "pct_below": 57,
+  "posted_at": "2026-11-03T01:19:52-05:00",
+  "checked_at": "2026-11-03T01:15:38-05:00",
+  "comparisons": [
+    {
+      "store": "HaircutClippers",
+      "price": 162.95,
+      "url": "https://www.haircutclippers.com/products/jrl-ghost-clipper-white-ff2020c-w",
+      "checked_at": "2026-11-03T01:15:38-05:00",
+      "notes": "JRL Ghost 2020C clipper in white, SKU FF2020C-W, barcode 6935481304818, page shows In Stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot lists this as the JRL Ghost cordless trimmer, but the offer is tied to the JRL Ghost FF2020C-W cordless clipper in white, and Woot's own reviews describe a clipper with guards and an LED display. It is $69.99 new at Woot with a limit of 1 per customer and stock looked thin. HaircutClippers sells the same FF2020C-W clipper for $162.95, so Woot is about 57% less than that in-stock store price.",
+  "amazon_asin": "B0DX47MGRW",
+  "amazon_match_notes": "ASIN from the Woot offer data, verified by the price checker as the JRL Ghost FF2020C-W clipper (UPC 6935481304818).",
+  "amazon_match_checked_at": "2026-11-03T01:15:38-05:00"
+}
