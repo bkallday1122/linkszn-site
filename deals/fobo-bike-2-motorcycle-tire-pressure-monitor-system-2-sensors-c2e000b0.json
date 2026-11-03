@@ -1,0 +1,42 @@
+{
+  "title": "FOBO Bike 2 Motorcycle Tire Pressure Monitor System (2 sensors)",
+  "woot_url": "https://sellout.woot.com/offers/fobo-bike-tyre-pressure-monitor-system-3",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/57c5aff3-a641-4056-8fa0-fc478a1a82cb._AC_SR882,441_.png",
+  "price": 34.99,
+  "comparisons": [
+    {
+      "store": "Lamonster Garage",
+      "price": 99,
+      "url": "https://www.lamonstergarage.com/fobo-bike-2/",
+      "checked_at": "2026-11-03T10:29:00-05:00",
+      "notes": "FOBO Bike 2 TPMS 2-sensor set, black, same GTIN as the Woot listing's ASIN match; in stock, new condition, authorized FOBO dealer.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Brakecrafters",
+      "price": 99,
+      "url": "https://brakecrafters.com/products/fobo-bike-2-tpms-tire-pressure-monitoring-system",
+      "checked_at": "2026-11-03T10:29:00-05:00",
+      "notes": "Part number FM2410, 2 sensors; store data shows available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Journey Moto Gear",
+      "price": 99,
+      "url": "https://journeymotogear.com/products/fobo-tpms-bike2-blk",
+      "checked_at": "2026-11-03T10:29:00-05:00",
+      "notes": "FOBO Bike 2 2-wheel kit, black, SKU FOBO-FM2410; store data shows available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 64,
+  "posted_at": "2026-11-03T10:30:11-05:00",
+  "checked_at": "2026-11-03T10:29:00-05:00",
+  "writeup": "The FOBO Bike 2 is a motorcycle tire pressure monitoring kit with two Bluetooth 5 sensors that screw onto your valve stems and send pressure and slow-leak alerts to your phone or watch. Woot has the black 2-sensor set (MPN FM2410) new for $34.99, while Lamonster Garage, Brakecrafters and Journey Moto Gear all charge $99. Woot showed only 2 left at this price.",
+  "amazon_asin": "B07QB9ZR24",
+  "amazon_match_notes": "Woot listing ASIN B07QB9ZR24 matches FOBO Bike 2 black 2-sensor TPMS, MPN FM2410, per upstream verified check.",
+  "amazon_match_checked_at": "2026-11-03T10:29:00-05:00"
+}
