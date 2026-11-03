@@ -1,0 +1,51 @@
+{
+  "title": "HyperDrive Thunderbolt 3 Dual Monitor Dock (HDTB3TD), Open Box",
+  "woot_url": "https://sellout.woot.com/offers/hyperdrive-usb-c-thunderbolt-4-dual-monitor-dock-3",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/307d1e48-0bd7-4254-a561-b21998044001._AC_SR882,441_.png",
+  "price": 29.99,
+  "comparisons": [
+    {
+      "store": "ThinkEdu",
+      "price": 86.99,
+      "url": "https://thinkedu.com/products/hyper-hyperdrive-thunderbolt-3-mobile-dock-hdtb3td",
+      "checked_at": "2026-11-03T10:10:56-05:00",
+      "notes": "MPN HDTB3TD and barcode 817110015943 match; variant shows available",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Mac Connection",
+      "price": 90.1,
+      "url": "https://www.macconnection.com/product/targus-dual-monitor-thunderbolt-mobile-dock/hdtb3td/41851629",
+      "checked_at": "2026-11-03T10:10:56-05:00",
+      "notes": "Model HDTB3TD; In Stock, ships in 24-48 hours",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "B&H Photo",
+      "price": 149.99,
+      "url": "https://www.bhphotovideo.com/c/product/1724537-REG/hyper_hdtb3td_hyperdrive_thunderbolt_3_mobile.html",
+      "checked_at": "2026-11-03T10:10:56-05:00",
+      "notes": "MFR # HDTB3TD; In Stock, new",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg (NuoMan Shop marketplace)",
+      "price": 154.99,
+      "url": "https://www.newegg.com/p/3C6-002A-002J4",
+      "checked_at": "2026-11-03T10:10:56-05:00",
+      "notes": "Same HyperDrive dual-monitor 7-port Thunderbolt 3 dock from a third-party seller; Add to cart shown",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 65,
+  "posted_at": "2026-11-03T10:12:05-05:00",
+  "checked_at": "2026-11-03T10:10:56-05:00",
+  "writeup": "Woot has the HyperDrive dual-monitor Thunderbolt dock for $29.99. Woot's title says Thunderbolt 4, but the exact model is the Hyper HDTB3TD, a Thunderbolt 3 dock, and the Computers Warehouse Clean Out event lists these units as open box. ThinkEdu sells the same model for $86.99 and Mac Connection for $90.10, so this is about 65% less. Woot showed just 1 left, limit 3 per customer.",
+  "amazon_asin": "B0B94S5XYB",
+  "amazon_match_notes": "Exact-match ASIN verified by price checker",
+  "amazon_match_checked_at": "2026-11-03T10:10:56-05:00"
+}
