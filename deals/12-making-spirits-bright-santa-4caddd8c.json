@@ -1,0 +1,43 @@
+{
+  "title": "12\" Making Spirits Bright Santa",
+  "woot_url": "https://home.woot.com/offers/12-making-spirits-bright-santa-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/4b18d4e6-ed84-4301-80e3-2352d558793f._AC_SR882,441_.png",
+  "price": 21.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Art Brand Studios",
+      "price": 54,
+      "url": "https://www.artbrand.com/products/162829",
+      "checked_at": "2026-11-04T08:31:52-05:00",
+      "notes": "Same title and description, SKU 162829; product image file 5657.jpg (Santa's Workshop MPN 5657) visually matches the Woot image. Variant shows available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Wild Wings",
+      "price": 54,
+      "url": "https://www.wildwings.com/products/162829",
+      "checked_at": "2026-11-04T08:31:52-05:00",
+      "notes": "Same SKU 162829, same title and description. Variant shows available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Thomas Kinkade Studios",
+      "price": 54,
+      "url": "https://www.thomaskinkade.com/products/162829",
+      "checked_at": "2026-11-04T08:31:52-05:00",
+      "notes": "Same SKU 162829 (Art Brand Studios license), same title and description. Variant shows available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 59,
+  "posted_at": "2026-11-04T08:32:30-05:00",
+  "checked_at": "2026-11-04T08:31:52-05:00",
+  "writeup": "Santa's Workshop's 12-inch Making Spirits Bright Santa, a hand-painted resin figure in a plaid shirt holding a beer mug and pretzel, is $21.99 at Woot. Art Brand Studios, Wild Wings and Thomas Kinkade Studios all list the same piece at $54, so this is about 59% less. Woot limits it to 3 per order.",
+  "amazon_asin": "B0C1HQ5KBK",
+  "amazon_match_notes": "Matched by ASIN B0C1HQ5KBK, UPC 661565056576, MPN 5657 per verified checker.",
+  "amazon_match_checked_at": "2026-11-04T08:31:52-05:00"
+}
