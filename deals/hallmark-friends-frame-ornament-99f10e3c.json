@@ -1,0 +1,33 @@
+{
+  "title": "Hallmark Friends Frame Ornament",
+  "woot_url": "https://home.woot.com/offers/hallmark-friends-frame-ornament",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/65d03f4f-9eaa-4b0c-a3ce-510420cc048b._AC_SR882,441_.png",
+  "price": 4.99,
+  "comparisons": [
+    {
+      "store": "Steve's Hallmark",
+      "price": 11.49,
+      "url": "https://www.steveshallmark.com/products/hallmark-friends-frame-hallmark-ornament",
+      "checked_at": "2026-11-04T08:25:00-05:00",
+      "notes": "Exact title Hallmark Friends Frame ornament, barcode 763795775972, SKU 0003HCM0848, available, 2.81 x 3.29 x 0.27 in resin.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Ornament Shop",
+      "price": 13.95,
+      "url": "https://ornamentshop.com/products/hallmark-friends-frame-ornament",
+      "checked_at": "2026-11-04T08:25:00-05:00",
+      "notes": "Friends Frame Ornament, barcode 763795775972, Hallmark 3HCM0848, available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 56,
+  "posted_at": "2026-11-04T08:23:17-05:00",
+  "checked_at": "2026-11-04T08:25:00-05:00",
+  "writeup": "Woot has the new Hallmark Friends Frame ornament for $4.99. It's a small resin take on Monica's yellow peephole frame, about 2.8 by 3.3 inches, made to hang on the tree. Steve's Hallmark charges $11.49 and Ornament Shop $13.95 for the same ornament (UPC 763795775972). Only a few were left at last check, limit 3 per customer.",
+  "amazon_asin": "B09YT2BCV4",
+  "amazon_match_notes": "ASIN B09YT2BCV4 matches UPC 763795775972, the same Hallmark Friends Frame ornament, per the verified check.",
+  "amazon_match_checked_at": "2026-11-04T08:25:00-05:00"
+}
