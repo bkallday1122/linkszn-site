@@ -1,0 +1,42 @@
+{
+  "title": "Chuckit! Amphibious Bumper Dog Toy, Medium",
+  "woot_url": "https://sellout.woot.com/offers/pet-supplies-pet-chew-toys-chuckit",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/7b9f6f13-ce64-4d9a-888b-26b987053a6d._AC_SR882,441_.png",
+  "price": 6.99,
+  "comparisons": [
+    {
+      "store": "State Line Pet Supply",
+      "price": 13.8,
+      "url": "https://www.statelinepetsupply.com/chuckit-amphibious-bumper-dog-toy-medium.html",
+      "checked_at": "2026-11-04T08:23:59-05:00",
+      "notes": "Chuckit! Amphibious Bumper Dog Toy Medium; page says In stock; matched by title and size",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Petmate (Chuckit! brand site)",
+      "price": 15.99,
+      "url": "https://www.petmate.com/products/chuckit-amphibious-bumper-floating-dog-toy",
+      "checked_at": "2026-11-04T08:23:59-05:00",
+      "notes": "Bumper / Medium variant, SKU 18300, barcode 660048183006, available",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Klem's",
+      "price": 17.99,
+      "url": "https://klemsonline.com/p/petmate-chuckit-amphibious-bumper-dog-toy-660048183006",
+      "checked_at": "2026-11-04T08:23:59-05:00",
+      "notes": "Model 18300, Medium, UPC 660048183006; 2 in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 49,
+  "posted_at": "2026-11-04T08:23:59-05:00",
+  "checked_at": "2026-11-04T08:23:59-05:00",
+  "amazon_asin": "B001AQZ4FE",
+  "amazon_match_notes": "Exact match by ASIN B001AQZ4FE: Chuckit! Amphibious Bumper, Medium, model 18300, UPC 660048183006",
+  "amazon_match_checked_at": "2026-11-04T08:23:59-05:00",
+  "writeup": "The Chuckit! Amphibious Bumper in Medium (model 18300) is a floating fetch toy built for water-loving dogs, and Woot has it new for $6.99. State Line Pet Supply charges $13.80, Petmate's own Chuckit! store $15.99 and Klem's $17.99 for the same toy, so this is about 49% below the cheapest store. Woot showed only 1 left with a limit of 6 per customer."
+}
