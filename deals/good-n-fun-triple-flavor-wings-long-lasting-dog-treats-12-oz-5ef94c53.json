@@ -1,0 +1,60 @@
+{
+  "title": "Good 'n' Fun Triple Flavor Wings Long-Lasting Dog Treats, 12 oz",
+  "woot_url": "https://sellout.woot.com/offers/good-n-fun-wings-long-lasting-dog-treat",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/0444e56d-3057-4d6d-be6f-6bdd14d7f914._AC_SR882,441_.png",
+  "price": 4.99,
+  "pct_below": 52,
+  "posted_at": "2026-11-04T08:23:30-05:00",
+  "checked_at": "2026-11-04T08:23:00-05:00",
+  "writeup": "Good 'n' Fun Triple Flavor Wings are long-lasting dog chews made of rawhide wrapped in chicken, pork and beef. Woot has the 12 oz bag new for $4.99, while Dollar General charges $10.50 and Walgreens lists the same bag at $17.99. Woot limits it to 6 per customer and only a couple were left when we checked.",
+  "comparisons": [
+    {
+      "store": "Dollar General",
+      "price": 10.5,
+      "url": "https://www.dollargeneral.com/p/good-n-fun-triple-flavor-wings-dog-treats-12-oz/91093941301",
+      "checked_at": "2026-11-04T08:23:00-05:00",
+      "notes": "Same 12 oz Triple Flavor Wings; URL ID matches UPC 091093941301. In stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Cub",
+      "price": 14.69,
+      "url": "https://www.cub.com/store/cub/products/19091500-good-n-fun-snack-for-all-dogs-triple-flavor-wings-12-oz",
+      "checked_at": "2026-11-04T08:23:00-05:00",
+      "notes": "Triple Flavor Wings 12 oz variant, current price.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Pick 'n Save",
+      "price": 16.99,
+      "url": "https://www.picknsave.com/p/good-n-fun-triple-flavor-wings-12-oz/0009109394130",
+      "checked_at": "2026-11-04T08:23:00-05:00",
+      "notes": "12 oz; URL code matches UPC. Pickup available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Fry's Food Stores",
+      "price": 17.29,
+      "url": "https://www.frysfood.com/p/good-n-fun-triple-flavor-wings-12-oz/0009109394130",
+      "checked_at": "2026-11-04T08:23:00-05:00",
+      "notes": "12 oz; URL code matches UPC. Pickup available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walgreens",
+      "price": 17.99,
+      "url": "https://www.walgreens.com/store/c/good-'n'-fun-triple-flavor-wings/ID=300415455-product",
+      "checked_at": "2026-11-04T08:23:00-05:00",
+      "notes": "12.0 oz, UPC 09109394130. Pickup and same-day delivery.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B07BVLGZW6",
+  "amazon_match_notes": "Verified upstream by ASIN, UPC and MPN P-94130 (12 oz Triple Flavor Wings).",
+  "amazon_match_checked_at": "2026-11-04T08:23:00-05:00"
+}
