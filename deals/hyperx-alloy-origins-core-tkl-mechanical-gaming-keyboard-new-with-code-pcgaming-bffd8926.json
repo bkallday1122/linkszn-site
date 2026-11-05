@@ -1,0 +1,36 @@
+{
+  "title": "HyperX Alloy Origins Core TKL Mechanical Gaming Keyboard, New (with code PCGAMING)",
+  "woot_url": "https://computers.woot.com/offers/hyperx-alloy-origins-core-tkl-mechanical-gaming-keyboard-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/9276f48f-db6c-47e7-908e-f6a02cf0ec70._AC_SR882,441_.jpg",
+  "price": 47.99,
+  "woot_price": 59.99,
+  "promo_code": "PCGAMING",
+  "promo_expires": "2026-11-11T23:59:00-06:00",
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 104.99,
+      "url": "https://www.newegg.com/hp-hyperx-alloy-origins-core-mechanical-gaming-keyboard-hx-aqua-hyperx-aqua-black/p/N82E16823700319",
+      "checked_at": "2026-11-05T01:10:00-05:00",
+      "notes": "Exact match, sold by Official HP Store: model 4P5P1AA#ABA (HX-KB7AQX-US), HyperX Aqua switches, tenkeyless, US layout, black. Add to Cart shown.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "HyperX",
+      "price": 104.99,
+      "url": "https://hyperx.com/products/hyperx-alloy-origins-core-mechanical-gaming-keyboard",
+      "checked_at": "2026-11-05T01:11:00-05:00",
+      "notes": "Manufacturer page for the Alloy Origins Core TKL (Red Linear variant, which Woot also offers) at $104.99 with no sold-out notice.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 54,
+  "posted_at": "2026-11-05T01:16:49-05:00",
+  "checked_at": "2026-11-05T01:12:00-05:00",
+  "writeup": "Woot has the HyperX Alloy Origins Core TKL mechanical keyboard new for $59.99, and code PCGAMING drops it to $47.99 through 11/11. It has a full aluminum body, a detachable USB-C cable and a choice of HyperX Aqua tactile or Red linear switches. Newegg and HyperX's own site both charge $104.99, so the code price saves about $57. Limit 3 per customer and stock is very low.",
+  "amazon_asin": "B084GYSFDT",
+  "amazon_match_notes": "Exact item (Aqua, B084GYSFDT; MPN 4P5P1AA#ABA, UPC 196188049204) verified by the upstream checker.",
+  "amazon_match_checked_at": "2026-11-05T01:12:00-05:00"
+}
