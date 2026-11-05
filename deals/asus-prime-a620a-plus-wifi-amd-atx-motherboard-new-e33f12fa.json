@@ -1,0 +1,62 @@
+{
+  "title": "ASUS Prime A620A-PLUS WiFi AMD ATX Motherboard (New)",
+  "woot_url": "https://computers.woot.com/offers/asus-prime-a620a-plus-wifi-amd-atx-motherboard",
+  "cart_url": "https://wantone.woot.com/?itemId=f3280ba9-0f44-41cc-9fb8-39cff4b05b91",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/cff4090c-6724-469f-b694-8104149cf60f._AC_SR882,441_.png",
+  "price": 69.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "DirectDial",
+      "price": 141,
+      "url": "https://www.directdial.com/us/item/asus-prime-a620a-plus-wifi-gaming-desktop-motherboard/prime-a620a-plus-wifi",
+      "checked_at": "2026-11-05T01:22:00-05:00",
+      "notes": "MFG part PRIME A620A-PLUS WIFI, A620A AM5 ATX; page says Availability: In Stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg (sold by antonline)",
+      "price": 159.23,
+      "url": "https://www.newegg.com/asus-prime-atx-13-119-786-amd-a620a-am5/p/N82E16813119786",
+      "checked_at": "2026-11-05T01:22:00-05:00",
+      "notes": "Newegg item 13-119-786, ASUS PRIME A620A-PLUS WIFI, same title and specs; BeachAudio also sells it there at $159.43",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Aztek Computers",
+      "price": 161.43,
+      "url": "https://www.aztekcomputers.com/prime-a620a-plus-wif-prime-a620a-plus-wifi-asus/p",
+      "checked_at": "2026-11-05T01:22:00-05:00",
+      "notes": "UPC 199291479210 matches Amazon listing; New, 3 available",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "IT Parts Now",
+      "price": 161.99,
+      "url": "https://www.itpartsnow.com/products/asus-prime-a620a-plus-wifi-gaming-desktop-motherboard-amd-a620a-chipset-socket-am5-atx",
+      "checked_at": "2026-11-05T01:22:00-05:00",
+      "notes": "PRIME A620A-PLUS WIFI exact model; page shows Low stock: 3 left",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Neutron USA",
+      "price": 177.91,
+      "url": "https://www.neutronusa.com/prod.cfm/6107169",
+      "checked_at": "2026-11-05T01:22:00-05:00",
+      "notes": "MPN PRIME A620A-PLUS WIFI, retail box; price updated Nov 04, 2026",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-05T01:22:51-05:00",
+  "checked_at": "2026-11-05T01:22:00-05:00",
+  "writeup": "Woot has a new ASUS Prime A620A-PLUS WiFi AM5 ATX motherboard for $69.99, with only one left and a limit of one per customer. DirectDial sells the same board for $141, Newegg third-party sellers ask about $159, and Aztek Computers lists it at $161.43. It includes WiFi 6, an 8+2+1 power stage, and support for Ryzen 9000 CPUs, so it is a solid budget base for a new AM5 build.",
+  "amazon_asin": "B0H52TGPG1",
+  "amazon_match_notes": "Exact ASIN B0H52TGPG1 verified by upstream checker against the Woot offer; matching ASUS PRIME A620A-PLUS WIFI AM5 ATX board.",
+  "amazon_match_checked_at": "2026-11-05T01:22:00-05:00"
+}
