@@ -1,0 +1,33 @@
+{
+  "title": "S'well Stainless Steel Water Bottle, 17oz, Lilac Matcha",
+  "woot_url": "https://home.woot.com/offers/swell-stainless-steel-water-bottle-17oz-lilac-matcha-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1ac705ad-06af-478c-b5d6-956916382eeb._AC_SR882,441_.png",
+  "price": 16.99,
+  "comparisons": [
+    {
+      "store": "S'well",
+      "price": 35,
+      "url": "https://www.swell.com/products/original-bottle-17oz?variant=47478627860738",
+      "checked_at": "2026-11-05T01:04:52-05:00",
+      "notes": "Lilac Matcha variant, SKU 5341826, barcode 843461124584; available at $35.00.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "S'well Business",
+      "price": 35,
+      "url": "https://business.swell.com/products/original-bottle-17oz-lilac-matcha",
+      "checked_at": "2026-11-05T01:03:00-05:00",
+      "notes": "Exact Original Bottle 17oz Lilac Matcha listing at $35.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 51,
+  "posted_at": "2026-11-05T01:05:21-05:00",
+  "checked_at": "2026-11-05T01:04:52-05:00",
+  "writeup": "The S'well Original 17oz bottle in Lilac Matcha is $16.99 new at Woot, while S'well's own store charges $35 for this exact color (SKU 5341826). It has triple-layer insulation that keeps drinks cold for up to 36 hours without sweating on the outside. Woot limits it to 3 per customer.",
+  "amazon_asin": "B0GX1X77FS",
+  "amazon_match_notes": "UPC 843461124584 and MPN 5341826 match the Amazon ASIN.",
+  "amazon_match_checked_at": "2026-11-05T01:04:52-05:00"
+}
