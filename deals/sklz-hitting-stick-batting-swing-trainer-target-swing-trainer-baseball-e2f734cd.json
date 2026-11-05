@@ -1,0 +1,33 @@
+{
+  "title": "SKLZ Hitting Stick Batting Swing Trainer (Target Swing Trainer, Baseball)",
+  "woot_url": "https://sport.woot.com/offers/sklz-hitting-stick-batting-swing-trainer-8",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/2690393d-7a49-4c8e-9922-48c3762f28fa._AC_SR882,441_.png",
+  "price": 24.99,
+  "pct_below": 44,
+  "posted_at": "2026-11-05T03:19:08-05:00",
+  "checked_at": "2026-11-05T03:19:08-05:00",
+  "writeup": "The SKLZ Hitting Stick (sold by SKLZ as the Target Swing Trainer for baseball, model 0713) is $24.99 new on Woot Sport, with a three-per-customer limit. SKLZ's own store charges $44.99 for the same trainer and Walmart lists it at $60.75, so this is about 44 percent less. A coach holds the stick to set a target at any height, which makes it handy for drilling pitch locations in the backyard.",
+  "amazon_asin": "B0019GII3U",
+  "amazon_match_notes": "Exact match ASIN B0019GII3U, UPC 831345007139, MPN 0713; verified in upstream pass payload.",
+  "amazon_match_checked_at": "2026-11-05T03:19:08-05:00",
+  "comparisons": [
+    {
+      "store": "SKLZ",
+      "price": 44.99,
+      "url": "https://sklz.com/products/target-swing-trainer-baseball-0713",
+      "checked_at": "2026-11-05T03:19:08-05:00",
+      "notes": "Target Swing Trainer - Baseball, SKU 0713, barcode 831345007139 matches; variant available per store product JSON.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walmart",
+      "price": 60.75,
+      "url": "https://www.walmart.com/ip/SKLZ-Target-Swing-Trainer-Baseball-Batting-Aid/11026789",
+      "checked_at": "2026-11-05T03:19:08-05:00",
+      "notes": "SKLZ Target Swing Trainer Baseball Batting Aid, sold and shipped by Walmart.com; title/spec match to SKLZ 0713.",
+      "available": true,
+      "matching": true
+    }
+  ]
+}
