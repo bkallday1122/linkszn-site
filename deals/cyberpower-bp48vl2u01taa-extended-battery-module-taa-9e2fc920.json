@@ -1,0 +1,24 @@
+{
+  "title": "CyberPower BP48VL2U01TAA Extended Battery Module (TAA)",
+  "woot_url": "https://computers.woot.com/offers/cyberpower-bp48vl2u01-extended-battery-module-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/0a2de976-915f-4a0a-93b6-73a9f316040e._AC_SR882,441_.jpg",
+  "price": 849.99,
+  "comparisons": [
+    {
+      "store": "Neutron USA",
+      "price": 1805.9,
+      "url": "https://www.neutronusa.com/prod.cfm/6068168",
+      "checked_at": "2026-11-05T12:16:56-05:00",
+      "notes": "MPN BP48VL2U01TAA, TAA compliant, compatible with OL3KRTHDTAA/OL2K2RTHDTAA; In Stock/Mfg Direct Ship, page last updated Nov 04, 2026",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 52,
+  "posted_at": "2026-11-05T12:19:15-05:00",
+  "checked_at": "2026-11-05T12:16:56-05:00",
+  "amazon_asin": "B0GZSNYQP6",
+  "amazon_match_notes": "Exact ASIN from verified Woot payload; H1 identifies TAA model BP48VL2U01TAA, UPC 649532939329, condition New",
+  "amazon_match_checked_at": "2026-11-05T12:16:56-05:00",
+  "writeup": "Woot has the CyberPower BP48VL2U01TAA 2U extended battery module new for $849.99. This is the TAA-compliant pack with eight 12V/9Ah batteries for OL3KRTHDTAA and OL2K2RTHDTAA UPS units, not the non-TAA BP48VL2U01. Neutron USA lists the same TAA module in stock at $1,805.90, so Woot clears about 52% below with roughly $956 saved. Only 1 left and the purchase limit is 1."
+}
