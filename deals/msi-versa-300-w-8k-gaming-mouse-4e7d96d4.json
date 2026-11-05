@@ -1,0 +1,33 @@
+{
+  "title": "msi Versa 300 W 8K Gaming Mouse",
+  "woot_url": "https://computers.woot.com/offers/msi-versa-300-w-8k-gaming-mouse",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/5392e580-7d61-4116-a531-c417408c23d2._AC_SR882,441_.jpg",
+  "price": 29.99,
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 69.99,
+      "url": "https://www.newegg.com/versa3008k-versa-300-wireless-8k-2-4-ghz-wireless-msi-swiftspeed-bluetooth-5-3-usb-2-0/p/N82E16826554089",
+      "checked_at": "2026-11-05T01:12:47-05:00",
+      "notes": "Sold and shipped by Newegg, new. MSI VERSA 300 WIRELESS 8K, model VERSA3008K, PAW3395 sensor, 8000Hz polling, 66g. Exact model match. In stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "MSI US Official Store",
+      "price": 69.99,
+      "url": "https://us-store.msi.com/VERSA-300-W-8K",
+      "checked_at": "2026-11-05T01:12:47-05:00",
+      "notes": "New, in stock at $69.99. Manufacturer number VERSA 300 WIRELESS 8K, PAW3395 sensor, 26000 DPI, 8000Hz polling, 66g. Exact model match.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 57,
+  "posted_at": "2026-11-05T01:27:50-05:00",
+  "checked_at": "2026-11-05T01:12:47-05:00",
+  "writeup": "Woot has the MSI Versa 300 Wireless 8K gaming mouse new, with a 90-day Woot warranty, for $29.99. Newegg and MSI's own store both sell the same model for $69.99. It weighs 66g, uses the PixArt PAW3395 sensor with 8K polling, and connects over 2.4GHz, Bluetooth or wired. Quantity is limited, with a limit of 3 per customer.",
+  "amazon_asin": "B0GV3NTFVF",
+  "amazon_match_notes": "Woot offer ASIN B0GV3NTFVF verified by the price checker as the exact MSI Versa 300 Wireless 8K new unit.",
+  "amazon_match_checked_at": "2026-11-05T01:12:47-05:00"
+}
