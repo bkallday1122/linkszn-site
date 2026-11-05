@@ -1,0 +1,39 @@
+{
+  "title": "Collegiate Anatomic Girth, Brown, 48\"",
+  "woot_url": "https://sellout.woot.com/offers/collegiate-anatomic-girth-brown-48z",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/6d3b9596-2351-4622-b064-6a981926923f._AC_SR882,441_.png",
+  "price": 59.99,
+  "pct_below": 40,
+  "posted_at": "2026-11-05T10:35:22-05:00",
+  "checked_at": "2026-11-05T10:40:00-05:00",
+  "writeup": "The Collegiate Anatomic Girth in brown, 48 inches, is $59.99 new on Woot with only two left. Country Supply and State Line Tack both stock the matching WeatherBeeta model 1001351000 (item E223182 48 BRN, UPC 9329028995930) at $99.99, so this sits exactly 40% below those live tags. It is a curved anatomic design with internal elastic and stainless roller buckles, meant for even pressure under the saddle. Bony Pony and Western Ways either lacked the brown 48 or were sold out, so they do not set the floor.",
+  "comparisons": [
+    {
+      "store": "Country Supply",
+      "price": 99.99,
+      "url": "https://www.countrysupply.com/products/collegiate-anatomic-girth",
+      "checked_at": "2026-11-05T10:40:00-05:00",
+      "notes": "Brown / 48 variant, item E223182 48 BRN, UPC 9329028995930; variant available=true in product JSON",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "State Line Tack",
+      "price": 99.99,
+      "url": "https://www.statelinetack.com/products/collegiate-anatomic-girth",
+      "checked_at": "2026-11-05T10:40:00-05:00",
+      "notes": "Brown / 48 variant, UPC 9329028995930; variant available=true in product JSON",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "amazon_asin": "B075NT2LX4",
+  "amazon_match_notes": "Exact match by brown 48-inch variant and UPC 9329028995930 (WeatherBeeta model 1001351000 / E223182 48 BRN); ASIN B075NT2LX4 from Woot offer page",
+  "amazon_match_checked_at": "2026-11-05T10:40:00-05:00",
+  "cart_url": "https://wantone.woot.com/?itemId=7e005caf-d660-4ebe-88a2-5c9d76e289d1",
+  "qty_left": 2,
+  "purchase_limit": 3,
+  "condition": "New",
+  "kind": "new",
+  "first_seen": "2026-11-05T10:30:09-05:00"
+}
