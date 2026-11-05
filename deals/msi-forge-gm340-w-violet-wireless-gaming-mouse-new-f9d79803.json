@@ -1,0 +1,33 @@
+{
+  "title": "MSI Forge GM340 W Violet Wireless Gaming Mouse, New",
+  "woot_url": "https://computers.woot.com/offers/msi-forge-gm340-w-violet-gaming-mouse",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1effc7e3-295c-4261-90b2-3e35c988029c._AC_SR882,441_.png",
+  "price": 14.99,
+  "comparisons": [
+    {
+      "store": "MSI US Official Store",
+      "price": 29.99,
+      "url": "https://us-store.msi.com/FORGE-GM340-W-VIOLET",
+      "checked_at": "2026-11-05T01:17:21-05:00",
+      "notes": "Manufacturer number FORGE GM340 W VIOLET, condition new, limited-time $29.99 (was $39.99), in stock. Same specs: PAW3311 sensor, 12,000 DPI, 57g, 2.4GHz/Bluetooth/USB.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 37.99,
+      "url": "https://www.newegg.com/p/N82E16826554095",
+      "checked_at": "2026-11-05T01:17:21-05:00",
+      "notes": "MSI FORGE GM340 Wireless Gaming Mouse - Violet, sold by Newegg (item 26-554-095), $37.99, in stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-05T01:17:21-05:00",
+  "checked_at": "2026-11-05T01:17:21-05:00",
+  "writeup": "Woot has the MSI Forge GM340 W wireless gaming mouse in Violet new for $14.99. It weighs just 57 grams, uses a PAW3311 sensor at up to 12,000 DPI, and connects over 2.4GHz, Bluetooth or USB with up to 82 hours of battery. MSI's own store charges $29.99 and Newegg $37.99, so this is half off. Limit 3 per customer and stock is low.",
+  "amazon_asin": "B0GY81MWBZ",
+  "amazon_match_notes": "Exact item (ASIN B0GY81MWBZ, MPN FORGE GM340 W VIOLET, UPC 824142454480) verified by the upstream checker.",
+  "amazon_match_checked_at": "2026-11-05T01:17:21-05:00"
+}
