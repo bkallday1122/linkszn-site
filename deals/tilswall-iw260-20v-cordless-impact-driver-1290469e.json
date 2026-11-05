@@ -1,0 +1,25 @@
+{
+  "title": "TILSWALL IW260 20V Cordless Impact Driver",
+  "woot_url": "https://tools.woot.com/offers/tilswall-iw260-20v-cordless-impact-driver-17",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/e9969c09-3b98-4767-b4a4-041100f0c1a5._AC_SR882,441_.png",
+  "price": 59.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Tilswall",
+      "price": 99.99,
+      "url": "https://www.tilswall.com/products/tilswall-20v-cordless-impact-driver-260nm-torque-brushless-3-speed-0-3600-rpm",
+      "checked_at": "2026-11-05T12:10:00-05:00",
+      "notes": "Official brand store. Same 20V brushless impact driver with 260Nm torque and 0-3600 RPM, 4Ah battery and 2A charger in the description. Shopify product data shows available=true, SKU USPTWID01, single variant at $99.99. Free shipping over $49. Match by ASIN B0FGJSWK4L and model IW260; Woot In the Box lists the driver only.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 40,
+  "posted_at": "2026-11-05T12:10:37-05:00",
+  "checked_at": "2026-11-05T12:10:00-05:00",
+  "amazon_asin": "B0FGJSWK4L",
+  "amazon_match_notes": "ASIN B0FGJSWK4L verified by checker as the IW260 kit; Amazon list higher so Amazon bar does not block. Caveat: Woot In the Box lists only the driver while ASIN describes 4Ah battery and charger kit.",
+  "amazon_match_checked_at": "2026-11-05T12:10:00-05:00",
+  "writeup": "Tilswall's IW260 20V brushless cordless impact driver is $59.99 new on Woot, with about five left and a five-per-customer limit. Tilswall's own store sells the same IW260 (260Nm torque, 0-3600 RPM, SKU USPTWID01) for $99.99 in stock, so this clears about 40% below that live price. The listing matches by ASIN and model; Woot's In the Box line names only the driver itself."
+}
