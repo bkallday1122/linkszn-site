@@ -1,0 +1,36 @@
+{
+  "title": "Keychron K8 Wireless Mechanical Keyboard (with code PCGAMING)",
+  "woot_url": "https://computers.woot.com/offers/keychron-k8-wireless-mechanical-keyboard-35",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/e755b94a-3feb-46fd-b639-5329a918636a._AC_SR882,441_.jpg",
+  "price": 31.99,
+  "woot_price": 39.99,
+  "promo_code": "PCGAMING",
+  "promo_expires": "2026-11-11T23:58:00-06:00",
+  "comparisons": [
+    {
+      "store": "Keychron (official site)",
+      "price": 59.99,
+      "url": "https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=32018252202073",
+      "checked_at": "2026-11-05T03:35:00-05:00",
+      "notes": "Keychron K8 tenkeyless wireless, 9.99 on Keychron's site. The white backlight red-switch variant is sold out there; the brown-switch version of the same K8 is in stock at the same price.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "OneClick Warehouse",
+      "price": 105.99,
+      "url": "https://oneclickwarehouse.net/product/keychron-k8-tkl-mechanical-keyboard-white-backlight-red-switch/",
+      "checked_at": "2026-11-05T03:35:00-05:00",
+      "notes": "Keychron K8 TKL, white backlight, red switch, new, 10 in stock (MPN K8).",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 46,
+  "posted_at": "2026-11-05T03:36:01-05:00",
+  "checked_at": "2026-11-05T03:35:00-05:00",
+  "amazon_asin": "B08B5WBS2T",
+  "amazon_match_notes": "ASIN from the Woot offer, exact match verified by the price checker.",
+  "amazon_match_checked_at": "2026-11-05T03:35:00-05:00",
+  "writeup": "Woot has the Keychron K8 tenkeyless wireless mechanical keyboard new for $39.99, and code PCGAMING from Woot's Razer and Keychron gaming event takes another 20% off, bringing it to $31.99. Keychron's own site charges $59.99 for the K8, and OneClick Warehouse lists the white backlight red-switch version at $105.99. The code is limited to one use per customer and runs through November 11."
+}
