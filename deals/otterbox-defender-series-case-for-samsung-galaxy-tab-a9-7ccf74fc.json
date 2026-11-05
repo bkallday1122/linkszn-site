@@ -1,0 +1,33 @@
+{
+  "title": "OtterBox Defender Series Case for Samsung Galaxy Tab A9+",
+  "woot_url": "https://electronics.woot.com/offers/otterbox-defender-series-case-for-samsung-galaxy-tab-a9-4",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/3826704b-c475-4104-908b-e38854b3fc0d._AC_SR882,441_.png",
+  "price": 12.99,
+  "comparisons": [
+    {
+      "store": "CDW",
+      "price": 49.99,
+      "url": "https://www.cdw.com/product/otterbox-defender-rugged-carrying-case-holster-samsung-galaxy-tab-a9-tab/7800697",
+      "checked_at": "2026-11-05T11:36:08-05:00",
+      "notes": "MPN 77-95006, Black, Galaxy Tab A9+; In Stock, ships today",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "B&H Photo",
+      "price": 89.95,
+      "url": "https://www.bhphotovideo.com/c/product/1817110-REG/otterbox_77_95006_defender_series_case_for.html",
+      "checked_at": "2026-11-05T11:36:08-05:00",
+      "notes": "MPN 77-95006 Defender Series for Galaxy Tab A9+ (Black), In Stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 74,
+  "posted_at": "2026-11-05T11:36:08-05:00",
+  "checked_at": "2026-11-05T11:36:08-05:00",
+  "amazon_asin": "B0CRGQM6KM",
+  "amazon_match_notes": "Exact ASIN from verified Woot payload for MPN 77-95006 (UPC 840304755929)",
+  "amazon_match_checked_at": "2026-11-05T11:36:08-05:00",
+  "writeup": "Woot has the OtterBox Defender Series case for the Samsung Galaxy Tab A9+ (MPN 77-95006) new for $12.99. It pairs a multi-layer protective shell with a holster that doubles as a kickstand. CDW lists the same case at $49.99 and B&H Photo at $89.95, so this is about 74% below the cheapest store we checked. Stock is thin, with a limit of 3 per customer."
+}
