@@ -1,0 +1,33 @@
+{
+  "title": "VersaInk-Nano 65 MS MICR Black Ink",
+  "woot_url": "https://computers.woot.com/offers/versaink-nano-65-ms-micr-black-ink-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/8432a44b-16d4-400f-80e3-dcfbbd9fbb02._AC_SR882,441_.png",
+  "price": 16.41,
+  "comparisons": [
+    {
+      "store": "VersaCheck",
+      "price": 79.99,
+      "url": "https://versacheckstore.com/products/versaink-nano-hp-65ms-black-micr-cartridge",
+      "checked_at": "2026-11-05T01:02:00-05:00",
+      "notes": "Manufacturer store; SKU HP65M-5874 and barcode 816778014329 match exactly; listed as available",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "RetailMarket",
+      "price": 75.49,
+      "url": "https://www.retailmarket.net/products/versaink-nano-hp-65-ms-micr-black-ink-cartridge-for-check-printing-1/",
+      "checked_at": "2026-11-05T01:02:00-05:00",
+      "notes": "Exact title, single cartridge; GTIN 816778014329; schema InStock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 78,
+  "posted_at": "2026-11-05T01:04:17-05:00",
+  "checked_at": "2026-11-05T01:02:00-05:00",
+  "amazon_asin": "B0777XKFT3",
+  "amazon_match_notes": "Exact ASIN from Woot offer data; verified MPN HP65M-5874, UPC 816778014329",
+  "amazon_match_checked_at": "2026-11-05T01:02:00-05:00",
+  "writeup": "Woot has the VersaInk-Nano 65 MS MICR black ink cartridge new for $16.41. It is bank-compliant magnetic ink for printing your own checks on HP DeskJet 2655 and 3755 printers, rated for about 500 pages. VersaCheck's own store charges $79.99 and RetailMarket $75.49 for the same cartridge, with a limit of 10 per customer."
+}
