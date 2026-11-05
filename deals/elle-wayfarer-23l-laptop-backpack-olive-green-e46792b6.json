@@ -1,0 +1,33 @@
+{
+  "title": "ELLE Wayfarer 23L Laptop Backpack, Olive Green",
+  "woot_url": "https://computers.woot.com/offers/elle-wayfarer-backpack-11",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/4acb89e9-a7e9-4842-bc19-f27632719dca._AC_SR882,441_.png",
+  "price": 31.99,
+  "comparisons": [
+    {
+      "store": "ELLE Travel",
+      "price": 59.99,
+      "url": "https://elletravel.us/products/wayfarer-23l-monogram-travel-backpack",
+      "checked_at": "2026-11-05T12:04:00-05:00",
+      "notes": "Olive Green variant, SKU ELBPWFOG-EL, barcode 848484059394, shown available.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "House of Zazla",
+      "price": 59.99,
+      "url": "https://houseofzazla.com/products/wayfarer-23l-monogram-travel-backpack",
+      "checked_at": "2026-11-05T12:05:00-05:00",
+      "notes": "Olive Green, SKU ELBPWFOG, barcode 848484059394, shown available.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 46,
+  "posted_at": "2026-11-05T12:04:20-05:00",
+  "checked_at": "2026-11-05T12:05:00-05:00",
+  "writeup": "Woot has the ELLE Wayfarer 23L backpack in olive green, new, for $31.99. It holds a 15.6-inch laptop and has a trolley sleeve for sliding over a suitcase handle. ELLE's own store and House of Zazla both sell the same olive variant for $59.99, so this is about 46% less. Woot limits it to 3 per order.",
+  "amazon_asin": "B0DK436LRT",
+  "amazon_match_notes": "Exact olive green variant, MPN ELBPWFOG, UPC 848484059394, verified by upstream checker.",
+  "amazon_match_checked_at": "2026-11-05T12:05:00-05:00"
+}
