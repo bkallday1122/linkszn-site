@@ -1,0 +1,44 @@
+{
+  "title": "DBPOWER 5000A Jump Starter (New)",
+  "woot_url": "https://tools.woot.com/offers/dbpower-5000a-jump-starter-1",
+  "cart_url": "https://wantone.woot.com/?itemId=821b0cfd-90d4-46d3-a4ab-ea8ab2414ef8",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/a0c558dd-6fcf-4a19-921a-c8a213953a29._AC_SR882,441_.png",
+  "price": 34.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "AutoHive",
+      "price": 99.21,
+      "url": "https://autohiveshop.com/products/b0f42wc89k",
+      "checked_at": "2026-11-05T01:15:26-05:00",
+      "notes": "URL slug is the ASIN. Same title and specs (Z07, 5000A, 74Wh). Regular price $99.21, no sold-out notice. Free shipping only on orders $100+.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg (sold by Valuelink)",
+      "price": 129.99,
+      "url": "https://www.newegg.com/p/9SIAT7DM626824",
+      "checked_at": "2026-11-05T01:15:26-05:00",
+      "notes": "Item 9SIAT7DM626824. Model Z07, 5000A, 74Wh, yellow/black, same title. Quantity selector shown, free 30-day returns.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "DBPOWER's site",
+      "price": 129.99,
+      "url": "https://dbpowershop.com/products/dbpower-5000a-jump-starter-74wh-car-battery-jump-starter-for-up-to-10-0l-gas-and-8-0l-diesel-engine-12v-portable-jump-box-battery-pack-with-display-led-light-jumper-cables-and-storage-case",
+      "checked_at": "2026-11-05T01:15:26-05:00",
+      "notes": "Page lists ASIN B0F42WC89K and UPC 840164834819, model Z07. Add to cart available. Brand list-price anchor.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 64,
+  "posted_at": "2026-11-05T01:23:36-05:00",
+  "checked_at": "2026-11-05T01:15:26-05:00",
+  "writeup": "DBPOWER's Z07 5000A jump starter with a 74Wh pack, rated for up to 10.0L gas engines, is new on Woot for $34.99 with a limit of 3 per order. AutoHive sells the same unit for $99.21 and Newegg has it at $129.99, so Woot lands about 64% under the cheapest non-Amazon store we verified. Includes jumper cables, LED light, display, and a storage case.",
+  "amazon_asin": "B0F42WC89K",
+  "amazon_match_notes": "Exact ASIN verified by upstream checker; Woot also sells this ASIN new",
+  "amazon_match_checked_at": "2026-11-05T01:15:26-05:00"
+}
