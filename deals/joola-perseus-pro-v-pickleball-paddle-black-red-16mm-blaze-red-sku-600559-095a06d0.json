@@ -1,0 +1,42 @@
+{
+  "title": "JOOLA Perseus Pro V Pickleball Paddle (Black/Red, 16mm Blaze Red, SKU 600559)",
+  "woot_url": "https://sport.woot.com/offers/joola-perseus-pro-v-paddle-black-red",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/91892f8d-e6da-45fa-8ea2-e9977cf4b5c1._AC_SR882,441_.png",
+  "price": 149.99,
+  "pct_below": 49,
+  "posted_at": "2026-11-06T01:07:12-05:00",
+  "checked_at": "2026-11-06T01:05:57-05:00",
+  "amazon_asin": "B0GFXT3CRW",
+  "amazon_match_notes": "Exact match ASIN B0GFXT3CRW for JOOLA Perseus Pro V model 600559, 16mm Blaze Red, one paddle; title and variant confirmed by checker task 01a1af75-9450-76cf-8b4b-af07671060cd.",
+  "amazon_match_checked_at": "2026-11-06T01:05:57-05:00",
+  "writeup": "JOOLA's Perseus Pro V pickleball paddle in Black/Red (SKU 600559, 16mm Blaze Red) is $149.99 new on Woot, with three left and a three-per-customer limit. JOOLA's own store and Pickleball Warehouse both list the matching 600559 paddle in stock at $299.95, and Mason's Tennis has it at $310. That puts Woot about 49% below the cheapest live brand/specialty price and saves roughly $150 on a current top-line paddle.",
+  "comparisons": [
+    {
+      "store": "JOOLA",
+      "price": 299.95,
+      "url": "https://joola.com/products/joola-perseus-pro-v-pickleball-paddle?variant=47740605595862",
+      "checked_at": "2026-11-06T01:05:57-05:00",
+      "notes": "Manufacturer-direct listing for SKU 600559, 16mm, Blaze Red, one paddle; in stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Pickleball Warehouse",
+      "price": 299.95,
+      "url": "https://www.pickleballwarehouse.com/JOOLA_Perseus_Pro_V_Ben_Johns_Pickleball_Paddle/descpage-JPBJPV.html",
+      "checked_at": "2026-11-06T01:05:57-05:00",
+      "notes": "Red 16mm, stock number 600559; listing reports at least two in stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Mason's Tennis",
+      "price": 310.0,
+      "url": "https://masonstennis.com/collections/pickleball/products/joola-perseus-pro-v-ben-johns-blaze-red-16mm",
+      "checked_at": "2026-11-06T01:05:57-05:00",
+      "notes": "SKU 600559, barcode 4070116005592, 16mm Blaze Red; listing reports available.",
+      "available": true,
+      "matching": true
+    }
+  ]
+}
