@@ -1,0 +1,34 @@
+{
+  "title": "AprilAire Humidifier Control Humidistat",
+  "woot_url": "https://sellout.woot.com/offers/aprilaire-humidifier-control-humidistat",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1b0588c0-eb8e-44ac-99ea-cb5b18d11066._AC_SR882,441_.png",
+  "price": 31.73,
+  "condition": "New",
+  "pct_below": 73,
+  "posted_at": "2026-11-10T12:30:18-05:00",
+  "checked_at": "2026-11-10T12:29:15-05:00",
+  "amazon_asin": "B002T1189A",
+  "amazon_match_notes": "Verified exact match: ASIN B002T1189A is AprilAire model 56, the automatic whole-house humidifier control with outdoor temperature sensor.",
+  "amazon_match_checked_at": "2026-11-10T12:29:15-05:00",
+  "comparisons": [
+    {
+      "store": "HVACDirect",
+      "price": 119.95,
+      "url": "https://hvacdirect.com/aprilaire-autotrac-humidistat-controller-56.html",
+      "checked_at": "2026-11-10T12:29:15-05:00",
+      "notes": "Model 56, 24V, with included outdoor sensor; one ready to ship.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Appliance Factory Parts",
+      "price": 183.62,
+      "url": "https://www.appliancefactoryparts.com/search/part/276232/109065/",
+      "checked_at": "2026-11-10T12:29:15-05:00",
+      "notes": "Part 56, quantity one; listing identifies the outdoor-temperature humidistat.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new AprilAire 56 automatic whole-house humidifier control with the outdoor temperature sensor included for $31.73. HVACDirect has the matching model 56, a 24V AutoTrac humidistat controller with one ready to ship, at $119.95. Appliance Factory Parts also has part 56, quantity one, at $183.62. That is about 73 percent below HVACDirect and saves roughly $88. Woot showed 10+ left with a limit of ten per customer."
+}
