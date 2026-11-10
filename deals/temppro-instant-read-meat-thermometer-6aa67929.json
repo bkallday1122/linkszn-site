@@ -1,0 +1,24 @@
+{
+  "title": "TempPro Instant Read Meat Thermometer",
+  "woot_url": "https://sellout.woot.com/offers/temppro-instant-read-meat-thermometer",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/71cdb649-cadc-4c92-9a14-85454c1d10b6._AC_SR882,441_.png",
+  "price": 14.99,
+  "pct_below": 50,
+  "posted_at": "2026-11-09T16:55:13-05:00",
+  "checked_at": "2026-11-09T16:54:00-05:00",
+  "amazon_asin": "B07R18W3W1",
+  "amazon_match_notes": "Exact item matched by ASIN B07R18W3W1, model TP19 / TempSwift ELITE TP-19 (SKU IT-TP19), bright red, GTIN 04897099880202.",
+  "amazon_match_checked_at": "2026-11-09T16:54:00-05:00",
+  "comparisons": [
+    {
+      "store": "TempPro (official site)",
+      "price": 29.99,
+      "url": "https://temppro.com/products/tp19-instant-read-meat-thermometer",
+      "checked_at": "2026-11-09T16:54:00-05:00",
+      "notes": "Exact model TP19 (SKU IT-TP19), TempSwift ELITE, 0.5 sec thermocouple. Price is $29.99 (the $35.99 compare-at price was ignored). The store's product data shows available=true.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has the TempPro TP19 instant-read meat thermometer (TempSwift ELITE, SKU IT-TP19, bright red) for $14.99. It is a 0.5-second thermocouple thermometer with a rinse-safe waterproof body, matched to ASIN B07R18W3W1 and GTIN 04897099880202. TempPro's own site lists the same TP19 in stock at $29.99, which is 50 percent higher and about $15 more. Nearby models TP19H and TP19HW were left out as different units. Quantity is capped, with at least three left and a limit of three per customer."
+}
