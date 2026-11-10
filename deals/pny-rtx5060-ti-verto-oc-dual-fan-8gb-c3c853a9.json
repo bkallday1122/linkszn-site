@@ -1,0 +1,25 @@
+{
+  "title": "PNY RTX5060 TI Verto OC Dual Fan 8GB",
+  "woot_url": "https://sellout.woot.com/offers/pny-rtx5060-ti-verto-oc-dual-fan-8gb-7",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/eefcde9a-5e46-419c-b9e3-661812f1f8cf._AC_SR882,441_.png",
+  "price": 349.99,
+  "condition": "New",
+  "pct_below": 43,
+  "posted_at": "2026-11-10T12:23:51-05:00",
+  "checked_at": "2026-11-10T12:22:37-05:00",
+  "amazon_asin": "B0F9SZLWTR",
+  "amazon_match_notes": "Verified exact match: ASIN B0F9SZLWTR is the PNY GeForce RTX 5060 Ti 8GB OC dual-fan model VCG5060T8DFXPB1-O.",
+  "amazon_match_checked_at": "2026-11-10T12:22:37-05:00",
+  "comparisons": [
+    {
+      "store": "Staples",
+      "price": 614.99,
+      "url": "https://www.staples.com/pny-geforce-rtx-50-nvidia-geforce-pci-express-5-0-8gb-gddr7-gaming-graphics-card-2469mhz-core-28-0-mhz-black/product_24688881",
+      "checked_at": "2026-11-10T12:22:37-05:00",
+      "notes": "Exact model VCG5060T8DFXPB1-O; add to cart and US delivery shown.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new PNY GeForce RTX 5060 Ti 8GB OC dual-fan graphics card (model VCG5060T8DFXPB1-O) for $349.99. Staples lists the matching model in stock for $614.99, with add-to-cart and US delivery shown. That is about 43 percent below Staples and saves $265. Woot showed 1+ left with a limit of one per customer."
+}
