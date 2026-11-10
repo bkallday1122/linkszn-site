@@ -1,0 +1,25 @@
+{
+  "title": "SABRENT USB-C to 2.5Gbps Ethernet Adapter",
+  "woot_url": "https://computers.woot.com/offers/sabrent-usb-c-to-2-5gbps-ethernet-adapter-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/7de11e84-a11f-43a5-9c51-b24bebea9aa0._AC_SR882,441_.png",
+  "price": 9.99,
+  "condition": "New",
+  "pct_below": 61,
+  "posted_at": "2026-11-10T13:36:07-05:00",
+  "checked_at": "2026-11-10T13:35:03-05:00",
+  "amazon_asin": "B0CXBRNSC4",
+  "amazon_match_notes": "Verified exact match: ASIN B0CXBRNSC4 is the Sabrent NT-25GA USB-C to 2.5Gbps Ethernet adapter; the manufacturer page lists the same model.",
+  "amazon_match_checked_at": "2026-11-10T13:35:03-05:00",
+  "comparisons": [
+    {
+      "store": "Sabrent",
+      "price": 25.99,
+      "url": "https://sabrent.com/products/nt-25ga",
+      "checked_at": "2026-11-10T13:35:03-05:00",
+      "notes": "Manufacturer-direct US offer for one NT-25GA adapter; page shows Add to cart.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new Sabrent USB-C to 2.5Gbps Ethernet adapter, model NT-25GA, for $9.99. Sabrent lists the same single adapter in stock on its own site at $25.99, with Add to cart available. That is about 61 percent below the manufacturer's current price and saves roughly $16. Woot showed 3+ left with a limit of three per customer."
+}
