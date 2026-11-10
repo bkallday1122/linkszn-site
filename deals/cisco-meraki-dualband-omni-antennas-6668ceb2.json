@@ -1,0 +1,25 @@
+{
+  "title": "Cisco Meraki Dualband Omni Antennas",
+  "woot_url": "https://sellout.woot.com/offers/cisco-meraki-dualband-omni-antennas-4",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/841c3e15-acc4-4872-844a-e4f150eeb366._AC_SR882,441_.png",
+  "price": 36.39,
+  "condition": "New",
+  "pct_below": 78,
+  "posted_at": "2026-11-10T12:29:30-05:00",
+  "checked_at": "2026-11-10T12:28:48-05:00",
+  "amazon_asin": "B00YI4UYPK",
+  "amazon_match_notes": "Verified exact match: ASIN B00YI4UYPK is the Cisco Meraki MA-ANT-20 dual-band omni antenna set, UPC 810979012115, set of two.",
+  "amazon_match_checked_at": "2026-11-10T12:28:48-05:00",
+  "comparisons": [
+    {
+      "store": "NetworkTigers",
+      "price": 167.99,
+      "url": "https://www.networktigers.com/products/ma-ant-20-cisco-dual-band-omni-antenna-set-47-dbi-n-type-set-of-2-antenna-new",
+      "checked_at": "2026-11-10T12:28:48-05:00",
+      "notes": "MA-ANT-20, UPC 810979012115, new set of two; five in stock. Original packaging may have been opened for inspection.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new Cisco Meraki MA-ANT-20 dual-band omni antenna set for $36.39. NetworkTigers lists the matching new two-antenna set (UPC 810979012115, 4.7 dBi N-type) in stock for $167.99, with five available. That is about 78 percent below NetworkTigers and saves roughly $132. Woot showed 3+ left with a limit of three per customer."
+}
