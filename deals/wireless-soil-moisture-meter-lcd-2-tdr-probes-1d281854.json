@@ -1,0 +1,24 @@
+{
+  "title": "Wireless Soil Moisture Meter (LCD + 2 TDR probes)",
+  "woot_url": "https://sellout.woot.com/offers/wireless-soil-moisture-meter",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/0c1780a9-c8cd-47fc-9493-89451c9dfcf0._AC_SR882,441_.png",
+  "price": 19.99,
+  "pct_below": 56,
+  "posted_at": "2026-11-09T15:14:01-05:00",
+  "checked_at": "2026-11-09T15:09:00-05:00",
+  "amazon_asin": "B0GD5WXWMY",
+  "amazon_match_notes": "Exact ASIN B0GD5WXWMY matches the Woot listing; verified as a 1-display + 2 wireless TDR sensor kit (230ft RF, moisture/temp/light), white-label equivalent to the NexusLab-Garden 2-sensor kit.",
+  "amazon_match_checked_at": "2026-11-09T15:09:00-05:00",
+  "comparisons": [
+    {
+      "store": "Vodeson",
+      "price": 45.99,
+      "url": "https://vodesonshop.com/product/soil-detection-kit-1-display-2-sensors/",
+      "checked_at": "2026-11-09T15:09:00-05:00",
+      "notes": "1 display + 2 wireless TDR sensors, 230ft RF, moisture/temp/light; white-label equivalent to NexusLab-Garden 2-sensor kit. In stock and matching.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has this wireless soil moisture kit new for $19.99: an LCD receiver plus two wireless TDR probes that report moisture, temperature, and light over about 230 feet of RF, with no app required. Vodeson sells the same one-display, two-sensor setup for $45.99, so this is about 56 percent below that price and saves roughly $26. Quantity is capped, with 3 or more left and a limit of 3 per customer."
+}
