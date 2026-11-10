@@ -1,0 +1,25 @@
+{
+  "title": "Oil Pressure Sensor, 0-100 PSI",
+  "woot_url": "https://sellout.woot.com/offers/oil-pressure-sensor-0-100-psi-6",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/510a7123-f858-4620-94e7-28baebc66d8b._AC_SR882,441_.png",
+  "price": 67.23,
+  "condition": "New",
+  "pct_below": 60,
+  "posted_at": "2026-11-10T12:26:54-05:00",
+  "checked_at": "2026-11-10T12:25:52-05:00",
+  "amazon_asin": "B005IGO5UC",
+  "amazon_match_notes": "Exact match on Mercury Marine 0–100 PSI oil pressure sensor; the supplied current Amazon record identifies ASIN B005IGO5UC and UPC 745060661142, matching MPN 881879T11.",
+  "amazon_match_checked_at": "2026-11-10T12:25:52-05:00",
+  "comparisons": [
+    {
+      "store": "Marine Engine Parts",
+      "price": 170.99,
+      "url": "https://marineengineparts.com/mercury-marine-881879t11-pressure-sensor/",
+      "checked_at": "2026-11-10T12:25:52-05:00",
+      "notes": "Single Mercury Marine 0–100 PSI sensor; UPC 745060661142 matches. MPN 881879T11; two in stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new Mercury Marine 0–100 PSI oil pressure sensor (MPN 881879T11, UPC 745060661142) for $67.23. Marine Engine Parts lists the same UPC-matched single sensor in stock at $170.99, with two available. That is 60 percent below Marine Engine Parts and saves about $104. Woot showed 10+ left with a limit of ten per customer."
+}
