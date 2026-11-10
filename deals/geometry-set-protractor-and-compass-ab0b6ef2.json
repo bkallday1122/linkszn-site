@@ -1,0 +1,33 @@
+{
+  "title": "Geometry Set, Protractor and Compass",
+  "woot_url": "https://sellout.woot.com/offers/geometry-set-protractor-and-compass",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/9cda7b32-9a1f-4901-93ff-2f1f764fcad2._AC_SR882,441_.png",
+  "price": 6.99,
+  "pct_below": 56,
+  "posted_at": "2026-11-09T16:02:22-05:00",
+  "checked_at": "2026-11-09T16:01:00-05:00",
+  "amazon_asin": "B0C61FCL7Z",
+  "amazon_match_notes": "Exact item matched by ASIN B0C61FCL7Z, model 305101 and UPC 600609870198: YPLUS 12-piece geometry set with metal case, protractor, compass, and 0.5mm mechanical pencil.",
+  "amazon_match_checked_at": "2026-11-09T16:01:00-05:00",
+  "comparisons": [
+    {
+      "store": "YPLUS (brand site)",
+      "price": 15.99,
+      "url": "https://www.yplusworld.com/products/yplus-geometry-set-protractor-and-compass-set-for-students-12pcs-compass-drawing-tool-with-metal-case-rulers-protractor-mechanical-pen-back-to-school-supplies-for-students",
+      "checked_at": "2026-11-09T16:01:00-05:00",
+      "notes": "12pc variant (Shopify option 12pc); same 12-piece contents/model 305101 per manufacturer listing. In stock at $15.99.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "TrueDesk",
+      "price": 34.99,
+      "url": "https://www.true-desk.com/products/b0c61fcl7z",
+      "checked_at": "2026-11-09T16:01:00-05:00",
+      "notes": "ASIN B0C61FCL7Z product page; UPC 600609870198 / model 305101 12-piece set. In stock at $34.99.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has the YPLUS 12-piece geometry set (model 305101) for $6.99. The kit comes in a metal case and includes a protractor, compass, rulers, and a 0.5mm mechanical pencil, matching the brand's 12pc student set. YPLUS's own site lists that same 12-piece model at $15.99, and TrueDesk has it at $34.99, so this is about 56 percent below the brand's price and saves about $9. Quantity is capped, with at least one left and a limit of one per customer."
+}
