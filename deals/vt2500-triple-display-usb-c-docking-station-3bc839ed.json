@@ -1,0 +1,34 @@
+{
+  "title": "VT2500 Triple Display USB-C Docking Station",
+  "woot_url": "https://sellout.woot.com/offers/vt2500-triple-display-usb-c-docking-station-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/a4b56c11-3d2e-4e06-bc6a-94327704bbbe._AC_SR882,441_.jpg",
+  "price": 58.5,
+  "condition": "New",
+  "pct_below": 54,
+  "posted_at": "2026-11-10T12:26:25-05:00",
+  "checked_at": "2026-11-10T12:22:19-05:00",
+  "amazon_asin": "B082F6BL2X",
+  "amazon_match_notes": "Exact match on VisionTek VT2500 triple-display USB-C docking station; the supplied current Amazon record matches ASIN B082F6BL2X and MPN 901381.",
+  "amazon_match_checked_at": "2026-11-10T12:22:19-05:00",
+  "comparisons": [
+    {
+      "store": "Micro Center",
+      "price": 129.99,
+      "url": "https://www.microcenter.com/product/639745/visiontek-vt2500-triple-display-usb-c-docking-station-with-85w-power-delivery-for-usb-c?storeid=215",
+      "checked_at": "2026-11-10T12:22:19-05:00",
+      "notes": "New; exact MPN 901381 and UPC 784090040145; two in stock at the Austin store.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "VisionTek",
+      "price": 149.99,
+      "url": "https://visiontek.com/products/vt2500-triple-display-usb-c-docking-station-with-power-delivery",
+      "checked_at": "2026-11-10T12:22:19-05:00",
+      "notes": "Manufacturer-direct; exact MPN 901381; product data reports available. An older indexed page showed $109.99, superseded by the live product data.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new VisionTek VT2500 triple-display USB-C docking station with 85W power delivery (MPN 901381, UPC 784090040145) for $58.50. Micro Center lists the exact same new dock in stock at its Austin store for $129.99, and VisionTek's own store has it available for $149.99. That is 54 percent below Micro Center and saves about $71. Woot showed 5+ left with a limit of five per customer."
+}
