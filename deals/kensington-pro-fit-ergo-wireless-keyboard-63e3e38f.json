@@ -1,0 +1,34 @@
+{
+  "title": "Kensington Pro Fit Ergo Wireless Keyboard",
+  "woot_url": "https://computers.woot.com/offers/kensington-pro-fit-ergo-wireless-keyboard-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/90921fa2-0426-49a3-ad14-f457e5fcc450._AC_SR882,441_.png",
+  "price": 14.99,
+  "condition": "New",
+  "pct_below": 63,
+  "posted_at": "2026-11-10T13:36:55-05:00",
+  "checked_at": "2026-11-10T13:35:43-05:00",
+  "amazon_asin": "B0FX4NYF7T",
+  "amazon_match_notes": "Verified exact match: ASIN B0FX4NYF7T is the Kensington Pro Fit Ergo KB680 EQ rechargeable wireless keyboard (MPN K72485NA, UPC 085896724858).",
+  "amazon_match_checked_at": "2026-11-10T13:35:43-05:00",
+  "comparisons": [
+    {
+      "store": "DataBit",
+      "price": 41.0,
+      "url": "https://shop.databitinc.com/Products/overview/M026367561",
+      "checked_at": "2026-11-10T13:35:43-05:00",
+      "notes": "New, single black keyboard; exact MPN K72485NA and UPC 085896724858 match. The page labels it KM680, but its identifiers and keyboard specifications match.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "DirectDial",
+      "price": 47.0,
+      "url": "https://www.directdial.com/us/item/kensington-pro-fit-ergo-kb680-eq-rechargeable-ergonomic-keyboard/k72485na",
+      "checked_at": "2026-11-10T13:35:43-05:00",
+      "notes": "Exact MPN K72485NA and keyboard variant; in stock. Condition is not explicitly stated on the retrieved page.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new Kensington Pro Fit Ergo KB680 EQ rechargeable wireless keyboard for $14.99. This is the split-layout ergonomic model with a built-in wrist rest plus Bluetooth and 2.4GHz connectivity, matching MPN K72485NA and UPC 085896724858. DataBit lists the same new black keyboard in stock for $41.00, and DirectDial has the matching MPN at $47. That is about 63 percent below DataBit and saves about $26. Woot showed 1+ left with a limit of one per customer."
+}
