@@ -1,0 +1,25 @@
+{
+  "title": "Razer Kiyo V2 X Streaming Webcam",
+  "woot_url": "https://computers.woot.com/offers/razer-kiyo-v2-x-streaming-webcam-7",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/fb72adb3-2232-42ce-9f12-0e915c137ef5._AC_SR882,441_.png",
+  "price": 34.99,
+  "condition": "New",
+  "pct_below": 65,
+  "posted_at": "2026-11-10T13:34:17-05:00",
+  "checked_at": "2026-11-10T13:32:53-05:00",
+  "amazon_asin": "B0FNBNZPBH",
+  "amazon_match_notes": "Verified exact match: ASIN B0FNBNZPBH identifies the Quartz model RZ19-05380200-R3U1.",
+  "amazon_match_checked_at": "2026-11-10T13:32:53-05:00",
+  "comparisons": [
+    {
+      "store": "Razer",
+      "price": 99.99,
+      "url": "https://www.razer.com/streaming-cameras/razer-kiyo-v2-x/RZ19-05380200-R3U1",
+      "checked_at": "2026-11-10T13:32:53-05:00",
+      "notes": "Manufacturer-direct US offer for one Quartz webcam, model RZ19-05380200-R3U1; page reports USD price and in-stock status.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has a new Razer Kiyo V2 X streaming webcam in Quartz for $34.99. This is model RZ19-05380200-R3U1, which records at 1440p and 60 frames per second. Razer's own US store lists the same Quartz model in stock for $99.99. That is about 65 percent below Razer and saves $65. Woot showed 1+ left with a limit of one per customer."
+}
