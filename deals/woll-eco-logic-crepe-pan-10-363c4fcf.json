@@ -1,0 +1,43 @@
+{
+  "title": "Woll ECO LOGIC CREPE PAN 10\"",
+  "woot_url": "https://home.woot.com/offers/woll-eco-logic-crepe-pan-10z-4",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/974710d6-0281-4805-8d6c-9c49c48b48d3._AC_SR882,441_.png",
+  "price": 74.99,
+  "condition": "New",
+  "pct_below": 58,
+  "posted_at": "2026-11-10T01:12:35-05:00",
+  "checked_at": "2026-11-10T01:10:00-05:00",
+  "amazon_asin": "B0FYHD7J66",
+  "amazon_match_notes": "New item. Exact match on model WO226LCIQ, MPN 226LCI-Q, EAN/UPC 4054359044563. Verified ASIN B0FYHD7J66 from the checker payload.",
+  "amazon_match_checked_at": "2026-11-10T01:10:00-05:00",
+  "comparisons": [
+    {
+      "store": "Woll USA",
+      "price": 179.95,
+      "url": "https://www.woll-usa.com/products/ecologic-ph-crepe-pan-10",
+      "checked_at": "2026-11-10T01:10:00-05:00",
+      "notes": "ECO LOGIC PH CREPE PAN 10\", SKU WO226LCIQ, barcode 4054359044563, fixed phenolic handle. Shopify product data shows available=true, no compare-at price. Checked 2026-11-10T01:10:00-05:00.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "eKitchenWorld",
+      "price": 179.95,
+      "url": "https://www.ekitchenworld.com/products/woll-ecologic-ph-nonstick-crepe-pan-10-inch-pfoa-free-ceramic-effect-low-sided-german-made-crepes-pan",
+      "checked_at": "2026-11-10T01:10:00-05:00",
+      "notes": "Woll Ecologic PH 10-inch crepe pan, SKU WO226LCIQ, barcode 4054359044563. Shopify product data shows available=true. Checked 2026-11-10T01:10:00-05:00.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Target",
+      "price": 179.95,
+      "url": "https://www.target.com/p/woll-ecologic-nonstick-crepes-pan-10-inch/-/A-1011662247",
+      "checked_at": "2026-11-10T01:10:00-05:00",
+      "notes": "Woll Ecologic Nonstick Crepes Pan 10-Inch, sold and shipped by eKitchenWorld (marketplace seller). The $179.95 price and In Stock status come from the indexed listing; the live page fetch showed the listing but did not render the price. Checked 2026-11-10T01:10:00-05:00.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has Woll's Eco Logic 10-inch crepe pan (model WO226LCIQ, MPN 226LCI-Q, UPC 4054359044563) for $74.99. The German-made pan uses PFAS-free Diamond QXR nonstick, has a fixed phenolic handle, and works on induction. Woll's own US store lists the matching Eco Logic PH 10-inch crepe pan, SKU WO226LCIQ and barcode 4054359044563, in stock at $179.95. eKitchenWorld has the same WO226LCIQ pan in stock at $179.95, and Target lists it at $179.95 through eKitchenWorld. That is 58 percent below the lowest verified store price and saves about $105. Woot showed 3+ left with a limit of three per customer."
+}
