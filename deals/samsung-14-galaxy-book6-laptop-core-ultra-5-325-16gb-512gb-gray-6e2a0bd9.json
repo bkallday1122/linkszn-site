@@ -1,0 +1,25 @@
+{
+  "title": "Samsung 14\" Galaxy Book6 Laptop (Core Ultra 5 325, 16GB, 512GB, Gray)",
+  "woot_url": "https://computers.woot.com/offers/samsung-14-galaxy-book6-laptop-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/70e6f5d0-78e2-4794-87d0-ba4a93529ffd._AC_SR882,441_.png",
+  "price": 749.99,
+  "condition": "New",
+  "pct_below": 45,
+  "posted_at": "2026-11-13T11:40:57-05:00",
+  "checked_at": "2026-11-13T11:36:21-05:00",
+  "amazon_asin": "B0GNCF2QHX",
+  "amazon_match_notes": "Verified exact match: ASIN B0GNCF2QHX is the New Samsung Galaxy Book6 14-inch, MPN NP740VJG-KA2US, UPC 198957323478; Core Ultra 5 325, 16GB/512GB, Gray.",
+  "amazon_match_checked_at": "2026-11-13T11:36:21-05:00",
+  "comparisons": [
+    {
+      "store": "Connection",
+      "price": 1367.61,
+      "url": "https://www.connection.com/product/samsung-galaxy-book6-14-gray-512gb-16g/np740vjg-ka1us/42119026",
+      "checked_at": "2026-11-13T11:36:21-05:00",
+      "notes": "NP740VJG-KA1US: Galaxy Book6 14-inch, Core Ultra 5 325, 16GB LPDDR5X, 512GB SSD, Gray, Windows 11 Home. Page says In Stock, ships in 24-48 hours. Same specs as the Woot and Amazon NP740VJG-KA2US.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Samsung's 14-inch Galaxy Book6 (MPN NP740VJG-KA2US, UPC 198957323478) is a new gray model with an Intel Core Ultra 5 325, 16GB of memory and a 512GB SSD. Woot has it for $749.99. Samsung's own store lists this same configuration at $1,249.99, and Connection has the retail sibling NP740VJG-KA1US in stock at $1,367.61, so you save about $500. Woot is showing only 1 left."
+}
