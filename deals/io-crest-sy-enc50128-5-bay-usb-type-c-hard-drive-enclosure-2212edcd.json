@@ -1,0 +1,33 @@
+{
+  "title": "IO Crest SY-ENC50128 5-Bay USB Type-C Hard Drive Enclosure",
+  "woot_url": "https://computers.woot.com/offers/io-crest-5-bay-usb-type-c-hard-drive-enclosure-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/0f1051ac-068d-4cbb-9810-3554e54af903._AC_SR882,441_.png",
+  "price": 59.99,
+  "pct_below": 64,
+  "posted_at": "2026-11-13T11:42:33-05:00",
+  "checked_at": "2026-11-13T11:41:20-05:00",
+  "amazon_asin": "B0FBZWDSL7",
+  "amazon_match_notes": "Verified exact match: Woot ASIN B0FBZWDSL7 is the IO Crest / Syba SY-ENC50128 5-bay USB 3.2 Gen2 Type-C DAS enclosure, UPC 850039353437.",
+  "amazon_match_checked_at": "2026-11-13T11:41:20-05:00",
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 168.99,
+      "url": "https://www.newegg.com/syba-sy-enc50128-2-5-3-5/p/N82E16817801152",
+      "checked_at": "2026-11-13T11:41:20-05:00",
+      "notes": "Syba SY-ENC50128, 5-bay USB 3.2 Gen2 Type-C, UPC 850039353437. In stock and matching.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Beach Audio",
+      "price": 193.89,
+      "url": "https://www.beachaudio.com/syba-sy-enc50128-hard-syba-sy-enc50128-r/",
+      "checked_at": "2026-11-13T11:41:20-05:00",
+      "notes": "MPN sy-enc50128, same 5-bay USB-C DAS enclosure. In stock and matching.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "IO Crest's SY-ENC50128 5-bay USB-C DAS enclosure, also sold as Syba (UPC 850039353437), is a 10Gbps Type-C box with software RAID and a 120TB capacity cap. Woot has it new for $59.99. Newegg lists that same enclosure at $168.99, and Beach Audio has it at $193.89, so this is about 64% below Newegg, or roughly $109 off. Woot is showing 3+ left, with a limit of 3 per customer, and did not list a condition on the offer."
+}
