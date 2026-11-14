@@ -1,0 +1,34 @@
+{
+  "title": "Rheem Accumulator Kit 83-22537-73",
+  "woot_url": "https://sellout.woot.com/offers/rheem-accumulator-kit-83-22537-73-room-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/3b663738-47e2-4005-ae97-b534ea8e6da2._AC_SR882,441_.png",
+  "price": 86.99,
+  "condition": "New",
+  "pct_below": 64,
+  "posted_at": "2026-11-14T02:24:48-05:00",
+  "checked_at": "2026-11-14T02:19:59-05:00",
+  "amazon_asin": "B009AXDA28",
+  "amazon_match_notes": "Verified exact match: Woot ASIN B009AXDA28 is the Rheem Accumulator Kit 83-22537-73.",
+  "amazon_match_checked_at": "2026-11-14T02:19:59-05:00",
+  "comparisons": [
+    {
+      "store": "SupplyHouse",
+      "price": 241.9,
+      "url": "https://www.supplyhouse.com/Rheem-83-22537-73-Accumulator-Kit",
+      "checked_at": "2026-11-14T02:19:59-05:00",
+      "notes": "Current product page identifies the exact Rheem OEM kit and lists one in stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Sears PartsDirect",
+      "price": 352.17,
+      "url": "https://www.searspartsdirect.com/product/5gpgpoo8u3-0064-879/id-83-22537-73",
+      "checked_at": "2026-11-14T02:19:59-05:00",
+      "notes": "Current product page lists the exact OEM part in stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Rheem's 83-22537-73 is an OEM accumulator kit. Woot has this new kit for $86.99. SupplyHouse currently lists that same OEM kit in stock at $241.90, and Sears PartsDirect has it in stock at $352.17, so this is 64% below the lowest live store price, or about $155 off. Woot is showing only 1 left, with a limit of 3 per customer, and did not list a condition on the offer."
+}
