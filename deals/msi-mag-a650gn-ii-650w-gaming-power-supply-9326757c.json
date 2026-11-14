@@ -1,0 +1,25 @@
+{
+  "title": "MSI MAG A650GN II 650W Gaming Power Supply",
+  "woot_url": "https://computers.woot.com/offers/msi-mag-a650gn-ii-650w-gaming-power-supply",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/f48e992c-4da8-44de-8a4e-2448fa56d8f5._AC_SR882,441_.png",
+  "price": 24.99,
+  "condition": "New",
+  "pct_below": 50,
+  "posted_at": "2026-11-14T01:05:48-05:00",
+  "checked_at": "2026-11-14T01:03:48-05:00",
+  "amazon_asin": "B0GZJ6CMMP",
+  "amazon_match_notes": "Verified exact match: Woot ASIN B0GZJ6CMMP is the MSI MAG A650GN II 650W power supply, MPN MAGA650GNII.",
+  "amazon_match_checked_at": "2026-11-14T01:03:48-05:00",
+  "comparisons": [
+    {
+      "store": "MSI US Store",
+      "price": 49.99,
+      "url": "https://us-store.msi.com/Power-Supply/MAG-A650GN-II?limit=12&order=ASC&sort=rating",
+      "checked_at": "2026-11-14T01:03:48-05:00",
+      "notes": "Manufacturer-direct offer; MPN MAGA650GNII, 650W, new, one unit. In stock and matching.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "MSI's MAG A650GN II is a 650W 80 Plus Gold power supply sold under MPN MAGA650GNII. Woot has this new unit for $24.99. MSI's own US store still lists that same new 650W PSU in stock at $49.99, so this is 50% below the manufacturer's price, or about $25 off. Woot is showing 2+ left, with a limit of 2 per customer, and did not list a condition on the offer."
+}
