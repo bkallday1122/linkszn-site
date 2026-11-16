@@ -1,0 +1,52 @@
+{
+  "title": "Chef Works Half Bistro Apron Indigo",
+  "woot_url": "https://home.woot.com/offers/chef-works-half-bistro-apron-indigo-10",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/a484f5b8-627e-4893-a7d1-353c4880d9e8._AC_SR882,441_.png",
+  "price": 15.99,
+  "condition": "New",
+  "pct_below": 67,
+  "posted_at": "2026-11-16T01:22:06-05:00",
+  "checked_at": "2026-11-16T01:19:50-05:00",
+  "amazon_asin": "B0FVHD6NMJ",
+  "amazon_match_notes": "Verified exact match: Woot ASIN B0FVHD6NMJ is the Chef Works Craftsman Half Bistro apron indigo, model AHN12-IBL-0, UPC 888106239766.",
+  "amazon_match_checked_at": "2026-11-16T01:19:50-05:00",
+  "comparisons": [
+    {
+      "store": "Chef Works",
+      "price": 48.99,
+      "url": "https://www.chefworks.com/craftsman-half-bistro-ahn12",
+      "checked_at": "2026-11-16T01:19:50-05:00",
+      "notes": "Exact Craftsman Half Bistro AHN12 indigo; same features/dims as Woot/Amazon AHN12-IBL-0",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "ApronWarehouse",
+      "price": 48.99,
+      "url": "https://www.apronwarehouse.com/products/craftsman-half-bistro-apron",
+      "checked_at": "2026-11-16T01:19:50-05:00",
+      "notes": "Craftsman Half Bistro Indigo Blue; 19\"L x 31.5\"W; ships within 24 hours",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Chef's Emporium",
+      "price": 48.99,
+      "url": "https://www.chefsemporium.net/craftsman-half-bistro-apron.html",
+      "checked_at": "2026-11-16T01:19:50-05:00",
+      "notes": "SKU AHN12IBL Craftsman Half Bistro Indigo; usually ships within 48 hours",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Aprons.com",
+      "price": 48.99,
+      "url": "https://www.aprons.com/craftsman-half-bistro-ahn12",
+      "checked_at": "2026-11-16T01:19:50-05:00",
+      "notes": "Item AHN12IBL0 Craftsman Half Bistro indigo blue only",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has Chef Works' Craftsman half-bistro apron in indigo, model AHN12-IBL-0 and UPC 888106239766, new for $15.99. It is indigo denim, about 19 inches long by 31.5 inches wide, with a snap pocket and a hidden zip. Chef Works still sells that same AHN12 apron at $48.99, and ApronWarehouse, Chef's Emporium, and Aprons.com are at the same price. That is 67% below the brand's own store, or about $33 off. Only 3 are left, with a limit of 3 per customer."
+}
