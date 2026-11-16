@@ -1,0 +1,34 @@
+{
+  "title": "Restaurantware Pastry Tek Chocolate Shaping Mold",
+  "woot_url": "https://home.woot.com/offers/restaurantware-pastry-tek-chocolate-shaping-mold-4",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/dc6e7d5e-ade3-4264-a632-c258b0d9ef37._AC_SR882,441_.png",
+  "price": 7.99,
+  "condition": "New",
+  "pct_below": 53,
+  "posted_at": "2026-11-16T01:34:37-05:00",
+  "checked_at": "2026-11-16T01:18:25-05:00",
+  "amazon_asin": "B0CSG65NM5",
+  "amazon_match_notes": "Verified exact match: ASIN B0CSG65NM5 is Restaurantware Pastry Tek SKU RWP1352C-1, GTIN 10840125746356, polycarbonate 3D cube candy/chocolate mold, 3-compartment, 1-count.",
+  "amazon_match_checked_at": "2026-11-16T01:18:25-05:00",
+  "comparisons": [
+    {
+      "store": "Restaurantware",
+      "price": 17.3,
+      "url": "https://www.restaurantware.com/products/pastry-tek-polycarbonate-3d-cube-candy-chocolate-mold-3-compartment-1-count-box",
+      "checked_at": "2026-11-16T01:18:25-05:00",
+      "notes": "Exact SKU RWP1352C-1, barcode 10840125746356; Pastry Tek polycarbonate 3D cube, 3-compartment, 1-count; available=true via product JSON",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Restaurantware Jet Fresh",
+      "price": 17.3,
+      "url": "https://jetfresh.restaurantware.com/products/pastry-tek-polycarbonate-3d-cube-candy-chocolate-mold-3-compartment-1-count-box",
+      "checked_at": "2026-11-16T01:18:25-05:00",
+      "notes": "Same SKU RWP1352C-1 / barcode 10840125746356; 1-count 3D cube mold; available=true via product JSON",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has Restaurantware's Pastry Tek chocolate shaping mold, new, for $7.99. This is the exact RWP1352C-1 1-count mold: clear polycarbonate, three 3D cube cavities, dishwashable, GTIN 10840125746356. Restaurantware's own site and Restaurantware Jet Fresh both have it in stock at $17.30. That is 53% below the lowest verified non-Amazon price, or about $9 off. Only 2 are left, with a limit of 3 per customer."
+}
