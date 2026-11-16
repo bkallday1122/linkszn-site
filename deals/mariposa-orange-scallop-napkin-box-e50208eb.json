@@ -1,0 +1,43 @@
+{
+  "title": "MARIPOSA Orange Scallop Napkin Box",
+  "woot_url": "https://home.woot.com/offers/mariposa-orange-scallop-napkin-box-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/8c22a01a-64be-465a-bae4-0e9c75698416._AC_SR882,441_.png",
+  "price": 19.99,
+  "condition": "New",
+  "pct_below": 59,
+  "posted_at": "2026-11-16T01:25:18-05:00",
+  "checked_at": "2026-11-16T01:14:04-05:00",
+  "amazon_asin": "B0GVVQHSGX",
+  "amazon_match_notes": "Verified exact match: Woot ASIN B0GVVQHSGX is the Mariposa Orange Scallop Napkin Box with Insert, MPN 7028OR-C, UPC 808813067292.",
+  "amazon_match_checked_at": "2026-11-16T01:14:04-05:00",
+  "comparisons": [
+    {
+      "store": "Mariposa",
+      "price": 49,
+      "url": "https://mariposa.com/products/orange-scallop-napkin-box-with-insert",
+      "checked_at": "2026-11-16T01:14:04-05:00",
+      "notes": "MPN 7028OR-C UPC 808813067292; exact Orange Scallop Napkin Box with Insert; available=true",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Lifelong Collectibles",
+      "price": 49,
+      "url": "https://www.lifelongcollectibles.com/products/mariposa-orange-scallop-napkin-box-with-insert",
+      "checked_at": "2026-11-16T01:14:04-05:00",
+      "notes": "SKU MAR-7028OR-C barcode 808813067292; exact title; ships 1-2 days",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Charles Mayer",
+      "price": 49,
+      "url": "https://www.charlesmayer.com/products/mariposa-scallop-orange-napkin-box",
+      "checked_at": "2026-11-16T01:14:04-05:00",
+      "notes": "title/dims 5.75x5.75x1.75 acrylic orange scallop; store SKU 7080OR vs brand MPN 7028OR-C",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has Mariposa's orange acrylic scallop napkin box with insert, model 7028OR-C and UPC 808813067292, new for $19.99. It measures 5.75 by 5.75 by 1.75 inches. Mariposa still sells that same box at $49, and Lifelong Collectibles and Charles Mayer are at the same price. That is 59% below the brand's own site, or about $29 off. Only 3 are left, with a limit of 3 per customer."
+}
