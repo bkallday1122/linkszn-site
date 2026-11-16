@@ -1,0 +1,34 @@
+{
+  "title": "Lenox Homespun Hors d'Oeuvres Tray",
+  "woot_url": "https://home.woot.com/offers/lenox-home-and-kitchen-homespun-hors-doeuvres-tray-7",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/62c70721-6a13-4054-8475-75278935c2c3._AC_SR882,441_.png",
+  "price": 14.99,
+  "condition": "New",
+  "pct_below": 66,
+  "posted_at": "2026-11-16T01:15:19-05:00",
+  "checked_at": "2026-11-16T01:12:36-05:00",
+  "amazon_asin": "B0GKSWH8MW",
+  "amazon_match_notes": "Verified exact match: Woot ASIN B0GKSWH8MW is Lenox Homespun Hors d'Oeuvres Tray, model 898651, UPC 194372042505.",
+  "amazon_match_checked_at": "2026-11-16T01:12:36-05:00",
+  "comparisons": [
+    {
+      "store": "Lenox",
+      "price": 44.95,
+      "url": "https://www.lenox.com/products/homespun-hors-doeuvres-tray",
+      "checked_at": "2026-11-16T01:12:36-05:00",
+      "notes": "Exact match model 898651 / UPC 194372042505 Homespun Hors d'Oeuvres Tray; cart add succeeded at $44.95",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Zola",
+      "price": 44.99,
+      "url": "https://www.zola.com/shop/product/lenox_homespun_hors_doeuvre_tray",
+      "checked_at": "2026-11-16T01:12:36-05:00",
+      "notes": "Exact title Homespun Hors d'Oeuvre Tray by Lenox; schema.org InStock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has Lenox's Homespun Hors d'Oeuvres Tray, model 898651 and UPC 194372042505, new for $14.99. It is white stoneware with the line's thistle carving, and it is dishwasher and microwave safe. Lenox's own site has that same tray in stock at $44.95, and Zola lists it at $44.99. That is 66% below Lenox, or about $30 off. Only 3 are left, with a limit of 3 per customer."
+}
