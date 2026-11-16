@@ -1,0 +1,43 @@
+{
+  "title": "Gourmia Vacuum Sealer",
+  "woot_url": "https://home.woot.com/offers/gourmia-vacuum-sealer-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/78411a46-e17d-44eb-8e91-8f8064b05528._AC_SR882,441_.png",
+  "price": 34.99,
+  "condition": "New",
+  "pct_below": 41,
+  "posted_at": "2026-11-16T02:10:56-05:00",
+  "checked_at": "2026-11-16T02:04:39-05:00",
+  "amazon_asin": "B0DVJNJQZB",
+  "amazon_match_notes": "Verified exact match: model GVS1415, UPC 810002866685, ASIN B0DVJNJQZB.",
+  "amazon_match_checked_at": "2026-11-16T02:04:39-05:00",
+  "comparisons": [
+    {
+      "store": "Gourmia Shop",
+      "price": 59.99,
+      "url": "https://www.gourmiashop.com/product/gourmia-vacuum-sealer-food-preservation-system-with-marinate-mode-and-vacuum-hose-pulse-control-led-display-built-in-cutter-gentle-normal-vacuum-options-stainless-steel/",
+      "checked_at": "2026-11-16T02:04:39-05:00",
+      "notes": "Exact match: model GVS1415, UPC 810002866685, ASIN B0DVJNJQZB; schema.org InStock; current price $59.99",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Gourmia Cook",
+      "price": 59.99,
+      "url": "https://www.gourmiacook.com/Gourmia20Vacuum20Sealer2020Food20Preservation20System20with20Marinate20Mode20and20Vacuum20Hose20Pulse20Control20LED20Display20BuiltIn20Cutter20Gentle20Normal20Vacuum20Options20Stainless20Steel/p/164953/",
+      "checked_at": "2026-11-16T02:04:39-05:00",
+      "notes": "Exact match: model GVS1415, UPC 810002866685, ASIN B0DVJNJQZB; Add to Cart / Buy Now live at $59.99",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Gourmia Factory Store",
+      "price": 76.99,
+      "url": "https://www.melorafeast.com/Gourmia_Vacuum_Sealer_Food_Preservation_System_with_Marinate_Mode_and_Vacuum_Hose_Pulse_Control_LED_Display_Built_In_Cutter_Gentle_and_Normal_Vacuum_Options_Stainless_Steel/p/336003/",
+      "checked_at": "2026-11-16T02:04:39-05:00",
+      "notes": "Exact match: model GVS1415, UPC 810002866685, ASIN B0DVJNJQZB; page In Stock badge + schema.org InStock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "writeup": "Woot has the Gourmia GVS1415 vacuum sealer new for $34.99. It is the food preservation system with a built-in cutter, marinate mode, vacuum hose, pulse control, and an LED display, matching UPC 810002866685. Gourmia Shop and Gourmia Cook both still sell this exact model in stock for $59.99, and the Gourmia Factory Store has it at $76.99. That is 41% below the lowest verified non-Amazon market price, or about $25 off. Stock is tight, with only 2 left and a limit of 3 per customer."
+}
