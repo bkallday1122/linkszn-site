@@ -1,0 +1,34 @@
+{
+  "title": "Ausic Portable Air Pump",
+  "woot_url": "https://sellout.woot.com/offers/ausic-portable-air-pump-3",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/457b8ed3-8387-43e5-bc17-1232101ba3ab._AC_SR882,441_.png",
+  "price": 12.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 44.99,
+      "url": "https://www.newegg.com/basic-ap910/p/2YV-00Z6-001R5",
+      "checked_at": "2026-11-17T13:24:34-05:00",
+      "notes": "Exact Amazon/Woot title string; 6000mAh/400L/min/5kPa AP900B-01 (UPC 763344550494); product photo identical to Woot/Amazon (palm scale + 4 nozzles + USB-C). Marketplace metadata lists Brand Basic / Model AP910 but Compatibility Ausic; single-unit Buy box $44.99, in stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 45.99,
+      "url": "https://www.newegg.com/basic-ap910/p/2YV-00Z6-001X4",
+      "checked_at": "2026-11-17T13:24:34-05:00",
+      "notes": "Same exact title and identical product image as Woot/Amazon AP900B-01 listing; 6000mAh/400L/min/5kPa. Seller Soundex vie; Newegg metadata wrongly shows Item Count 12 pack / Basic AP910 — treated as single-unit street price $45.99, in stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 71,
+  "posted_at": "2026-11-17T13:26:00-05:00",
+  "checked_at": "2026-11-17T13:24:34-05:00",
+  "writeup": "Woot has the Ausic AP900B-01 portable air pump, new, for $12.99. It is a 6000mAh USB-C unit that inflates or deflates at 400L/min (5kPa) and ships with four nozzles (UPC 763344550494). Newegg has the same pump in stock at $44.99 and $45.99, so this is 71 percent and $32 below the lowest verified street price. Stock is tight: Woot showed 3+ left, with a limit of three per customer.",
+  "amazon_asin": "B0GGR3G624",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0GGR3G624 as an exact match for the Ausic AP900B-01 portable air pump (UPC 763344550494). Woot condition field was null (verifier marked new).",
+  "amazon_match_checked_at": "2026-11-17T13:24:34-05:00"
+}
