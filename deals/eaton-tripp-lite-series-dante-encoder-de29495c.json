@@ -1,0 +1,61 @@
+{
+  "title": "Eaton Tripp Lite Series Dante Encoder",
+  "woot_url": "https://sellout.woot.com/offers/eaton-tripp-lite-series-dante-encoder-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/54deb536-8cae-47ae-ad7d-80b78a416acb._AC_SR882,441_.png",
+  "price": 63.67,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Provantage",
+      "price": 191.1,
+      "url": "https://www.provantage.com/eaton-a130-dnt-enc~7EPW9ALJ.htm",
+      "checked_at": "2026-11-17T13:40:31-05:00",
+      "notes": "A130-DNT-ENC UPC 037332296443; 140 in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CompSource",
+      "price": 197.42,
+      "url": "https://www.compsource.com/buy/A130DNTENC/Eaton-1191/Tripp-Lite-series-A130DNTENC-Dante-2Channel-Analog-Audio-Encoder--Functions-Audio-Encoder-Vide-A130DNTENC/",
+      "checked_at": "2026-11-17T13:40:31-05:00",
+      "notes": "A130-DNT-ENC UPC 037332296443; 140 real-time availability; New",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "NeutronUSA",
+      "price": 222.48,
+      "url": "https://www.neutronusa.com/prod.cfm/5820029",
+      "checked_at": "2026-11-17T13:40:31-05:00",
+      "notes": "A130-DNT-ENC; In Stock 140; updated Nov 16 2026",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Camcor",
+      "price": 246.99,
+      "url": "https://www.camcor.com/cat/Tripp-Lite-series-A130-DNT-ENC-Dante-2-Channel-Analog-Audio-Encoder.html",
+      "checked_at": "2026-11-17T13:40:31-05:00",
+      "notes": "A130-DNT-ENC Camcor item 224009808; IN STOCK",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "SHI",
+      "price": 253,
+      "url": "https://www.shi.com/product/50698567/Eaton-Tripp-Lite-Series",
+      "checked_at": "2026-11-17T13:40:31-05:00",
+      "notes": "Mfr Part A130-DNT-ENC; Stock 10 Low Stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 66,
+  "posted_at": "2026-11-17T13:45:29-05:00",
+  "checked_at": "2026-11-17T13:40:31-05:00",
+  "writeup": "Woot has the Eaton Tripp Lite A130-DNT-ENC Dante analog audio encoder, new, for $63.67. It is a 2-channel encoder that sends analog audio into a Dante network and is powered over Ethernet (UPC 037332296443). Provantage has the same unit in stock at $191.10, with CompSource at $197.42, NeutronUSA at $222.48, Camcor at $246.99, and SHI at $253, so this is 66 percent and about $127 below the lowest verified street price. Stock is tight: Woot showed only 1 left, with a limit of 10 per customer.",
+  "amazon_asin": "B0GBYX514C",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0GBYX514C as an exact match for the Eaton Tripp Lite A130-DNT-ENC Dante 2-channel analog audio encoder (UPC 037332296443). Woot condition field was null (verifier marked new).",
+  "amazon_match_checked_at": "2026-11-17T13:40:31-05:00"
+}
