@@ -1,0 +1,34 @@
+{
+  "title": "HUGO Bel Bucket Bag (Open Box)",
+  "woot_url": "https://sellout.woot.com/offers/hugo-bel-bucket-bag-3",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/9c93a0b2-5587-42f7-afc9-d1dbcda8d377._AC_SR882,441_.png",
+  "price": 39.99,
+  "condition": "Open Box",
+  "comparisons": [
+    {
+      "store": "Zalando",
+      "price": 132.26,
+      "url": "https://en.zalando.de/hugo-bel-bucket-handbag-medium-red-hu751h0hn-g11.html",
+      "checked_at": "2026-11-17T13:25:07-05:00",
+      "notes": "€119.99 (~$132.26 at 1.1023 EURUSD) HUGO BEL BUCKET medium red; article HU751H0HN-G11; faux leather; ~32x12x30cm; sold by VAN GRAAF; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Zalando",
+      "price": 132.26,
+      "url": "https://www.zalando.fr/hugo-bel-bucket-sac-a-main-medium-red-hu751h0hn-g11.html",
+      "checked_at": "2026-11-17T13:25:07-05:00",
+      "notes": "€119.99 (~$132.26) same HU751H0HN-G11 medium red Bel Bucket; in stock via VAN GRAAF",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 69,
+  "posted_at": "2026-11-17T13:30:46-05:00",
+  "checked_at": "2026-11-17T13:25:07-05:00",
+  "writeup": "This open-box HUGO Bel Bucket in Merry Red is $39.99. The same medium faux-leather bag, article HU751H0HN-G11, is listed at $132.26 on Zalando in Germany and France, with a carabiner clasp and roughly 32x12x30cm dimensions. That is 69 percent and about $92 below Zalando's current price, and only two are left.",
+  "amazon_asin": "B0F67BNNPT",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0F67BNNPT as an exact match for the HUGO Women's Bel Bucket Bag (Merry Red, medium, article HU751H0HN-G11). Woot condition field was null (verifier marked open box).",
+  "amazon_match_checked_at": "2026-11-17T13:25:07-05:00"
+}
