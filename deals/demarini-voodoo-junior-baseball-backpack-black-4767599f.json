@@ -1,0 +1,42 @@
+{
+  "title": "DeMarini Voodoo Junior Baseball Backpack Black",
+  "woot_url": "https://sport.woot.com/offers/demarini-voodoo-junior-baseball-backpack-black-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/fe0feb94-6fbe-48d7-a1c8-0ea185ae117a._AC_SR882,441_.png",
+  "price": 14.99,
+  "comparisons": [
+    {
+      "store": "Red Stitch Sports",
+      "price": 44.99,
+      "url": "https://redstitchsports.com/products/demarini-voodoo-junior-backpack",
+      "checked_at": "2026-11-17T01:46:07-05:00",
+      "notes": "Exact SKU WTD9106BL Black; available=true; title DeMarini Voodoo Junior Backpack",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Dick's Sporting Goods",
+      "price": 44.99,
+      "url": "https://www.dickssportinggoods.com/p/demarini-youth-voodoo-junior-bat-pack-19demyvdjr20xxxxxbbg/19demyvdjr20xxxxxbbg",
+      "checked_at": "2026-11-17T01:46:07-05:00",
+      "notes": "Style WTD9106 Youth Voodoo Junior Bat Pack; same dims 11.5x9x17; Black listed in category at $44.99",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Sports Basement",
+      "price": 45,
+      "url": "https://www.sportsbasement.com/products/voodoo-jr-backpack",
+      "checked_at": "2026-11-17T01:46:07-05:00",
+      "notes": "Black / One Size; inventory_quantity=2; same feature set (mesh bat sleeves, fence hook, valuables pocket)",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 66,
+  "posted_at": "2026-11-17T01:48:01-05:00",
+  "checked_at": "2026-11-17T01:46:07-05:00",
+  "writeup": "The DeMarini Voodoo Junior baseball backpack in black (model WTD9106BL) is a youth bat bag with two mesh bat sleeves, a fence hook, and a valuables pocket. Woot has this new pack at $14.99, with 10 or more left and a 10-per-customer limit. Red Stitch Sports and Dick's Sporting Goods both list the same WTD9106 bag in stock at $44.99, and Sports Basement has the black one-size version at $45, which puts this about 66 percent and $30 below the live street price.",
+  "amazon_asin": "B07VMV2GRH",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B07VMV2GRH as an exact match to the black DeMarini Voodoo Junior backpack (WTD9106BL); Woot condition field was null (treated as new).",
+  "amazon_match_checked_at": "2026-11-17T01:46:07-05:00"
+}
