@@ -1,0 +1,25 @@
+{
+  "title": "darkFlash C280 Black E-ATX Case (4 PWM Fans)",
+  "woot_url": "https://computers.woot.com/offers/c280-e-atx-dual-chamber-420mm-radiator",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/5b1f0177-5924-4006-850d-39ab786e1fdc._AC_SR882,441_.png",
+  "price": 54.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "darkFlash",
+      "price": 109.99,
+      "url": "https://www.darkflash.us/products/darkflash-c280-e-atx-pc-case-4-x-pwm-fans-included?variant=48942310588666",
+      "checked_at": "2026-11-18T01:32:57-05:00",
+      "notes": "Exact match: C280 Black 4x PWM, SKU DF-C280-EBKR4BK, available=true at $109.99",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-18T01:34:23-05:00",
+  "checked_at": "2026-11-18T01:32:57-05:00",
+  "writeup": "The darkFlash C280 is a black E-ATX dual-chamber case with four PWM fans, a vertical GPU mount, and support for a 420mm radiator, and it is $54.99 new. darkFlash currently sells this exact C280 Black 4x PWM configuration (SKU DF-C280-EBKR4BK) on its site for $109.99, so this lands 50% below — about $55 less than the brand's live price. About 10 were left when we checked, with a limit of 10 per customer.",
+  "amazon_asin": "B0GL27D6L7",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0GL27D6L7 as an exact match for the darkFlash C280 Black 4x PWM, SKU DF-C280-EBKR4BK.",
+  "amazon_match_checked_at": "2026-11-18T01:32:57-05:00"
+}
