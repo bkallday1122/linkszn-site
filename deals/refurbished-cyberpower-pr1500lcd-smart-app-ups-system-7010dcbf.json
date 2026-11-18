@@ -1,0 +1,70 @@
+{
+  "title": "Refurbished CyberPower PR1500LCD Smart App UPS System",
+  "woot_url": "https://computers.woot.com/offers/cyberpower-smart-app-ups-system-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/67f50f73-552a-42fa-b3a1-ed6c1e1b5a74._AC_SR882,441_.png",
+  "price": 349.99,
+  "condition": "Refurbished",
+  "comparisons": [
+    {
+      "store": "B&H",
+      "price": 700.95,
+      "url": "https://www.bhphotovideo.com/c/product/1647744-REG/cyberpower_pr1500lcd_1500va_ups_smart_app.html",
+      "checked_at": "2026-11-18T02:26:00-05:00",
+      "notes": "Exact PR1500LCD new; UPC/ASIN match; In Stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 700.95,
+      "url": "https://www.newegg.com/cyberpower-pr1500lcd-nema-5-15r/p/N82E16842102145",
+      "checked_at": "2026-11-18T02:26:00-05:00",
+      "notes": "Exact model PR1500LCD; sold/shipped by Newegg",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Dell",
+      "price": 700.95,
+      "url": "https://www.dell.com/en-us/shop/clientpower/apd/cyberpower-pr1500lcd-smart-app-sinewave-ups-systems/hgr1pj/pr1500lcd",
+      "checked_at": "2026-11-18T02:26:00-05:00",
+      "notes": "Manufacturer part PR1500LCD; Dell price $700.95",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CDW",
+      "price": 700.95,
+      "url": "https://www.cdw.com/product/cyberpower-pr1500lcd-smart-app-sinewave-ups-systems/2734467",
+      "checked_at": "2026-11-18T02:26:00-05:00",
+      "notes": "Exact PR1500LCD; advertised $700.95 (list $754)",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Micro Center",
+      "price": 700.99,
+      "url": "https://www.microcenter.com/product/709041/cyberpower-systems-pr1500lcd-ups",
+      "checked_at": "2026-11-18T02:26:00-05:00",
+      "notes": "Exact PR1500LCD UPC 649532602513; in-store pickup only",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Aztek Computers",
+      "price": 754,
+      "url": "https://www.aztekcomputers.com/pr1500lcd-smart-app-lcd-1000va-sinewave-ups-with-avr-cyberpower/p",
+      "checked_at": "2026-11-18T02:26:00-05:00",
+      "notes": "Exact PR1500LCD ASIN B0083TXNMM UPC 649532602513; 2 available new",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-18T02:27:30-05:00",
+  "checked_at": "2026-11-18T02:26:00-05:00",
+  "writeup": "This refurbished CyberPower PR1500LCD Smart App sinewave UPS is a 1500VA unit with automatic voltage regulation and an LCD status display. Woot has it for $349.99, while B&H, Newegg, Dell, and CDW all list the same model new at $700.95 — 50% below, a savings of about $351. Micro Center has it at $700.99 for in-store pickup, and Aztek Computers is at $754. Only 3 remain, with a limit of 3 per customer.",
+  "amazon_asin": "B0083TXNMM",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0083TXNMM as an exact match for CyberPower PR1500LCD (UPC 649532602513).",
+  "amazon_match_checked_at": "2026-11-18T02:26:00-05:00"
+}
