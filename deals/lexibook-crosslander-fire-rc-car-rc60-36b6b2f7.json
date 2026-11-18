@@ -1,0 +1,34 @@
+{
+  "title": "Lexibook Crosslander Fire RC Car (RC60)",
+  "woot_url": "https://home.woot.com/offers/lexibook-crosslander-fire-rc-car-rc60-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/c1f66241-43aa-439a-9146-f203ffaa3b72._AC_SR882,441_.png",
+  "price": 34.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Toys R Us",
+      "price": 69.99,
+      "url": "https://www.toysrus.com/products/lexibook-crosslander-rc60",
+      "checked_at": "2026-11-18T13:18:52-05:00",
+      "notes": "Exact match: SKU RC60, barcode/UPC 841874023746; available:true via product JSON; photo matches red/black Crosslander Fire with mecanum wheels",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Magic Cars",
+      "price": 122.48,
+      "url": "https://www.magiccars.com/products/lexibook-crosslander-fire-remote-control-car-up-to-12km-h-4-wheel-drive-smok-37760",
+      "checked_at": "2026-11-18T13:18:52-05:00",
+      "notes": "Title/specs match Crosslander Fire (12 km/h, 1:16, gesture bracelet, water smoke); available:true; product photos match same red/black RC60 body and remote; base variant $122.48",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-18T13:20:06-05:00",
+  "checked_at": "2026-11-18T13:18:52-05:00",
+  "writeup": "Lexibook's Crosslander Fire RC60 is a 1:16 four-wheel-drive remote-control car with mecanum wheels, a gesture-control bracelet, and a water-smoke effect (UPC 841874023746). Woot has the red/black RC60 new for $34.99, which is $35 less than Toys R Us' in-stock $69.99 for the same SKU. Magic Cars lists the identical Crosslander Fire at $122.48. That is 50% under the lowest verified street price, with 3 or more left and a limit of 3 per customer.",
+  "amazon_asin": "B09FDVCSGZ",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B09FDVCSGZ as an exact match for the new Lexibook Crosslander Fire RC Car (SKU RC60, UPC 841874023746).",
+  "amazon_match_checked_at": "2026-11-18T13:18:52-05:00"
+}
