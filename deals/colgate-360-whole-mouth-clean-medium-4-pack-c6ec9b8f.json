@@ -1,0 +1,43 @@
+{
+  "title": "Colgate 360 Whole Mouth Clean Medium 4-Pack",
+  "woot_url": "https://www.woot.com/offers/colgate-360-whole-mouth-clean-medium-t-4",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/8ce2594e-f330-4aac-8817-c126a1c94ba0._AC_SR882,441_.png",
+  "price": 4.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Target",
+      "price": 8.99,
+      "url": "https://www.target.com/p/colgate-360-toothbrush-with-tongue-and-cheek-cleaner-medium-4ct/-/A-82827119",
+      "checked_at": "2026-11-18T01:50:14-05:00",
+      "notes": "UPC 035000687432; Colgate 360 Deep Clean Medium 4ct; package qty 4; current_retail $8.99; in stock; matching",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Shipabob",
+      "price": 12.99,
+      "url": "https://shipabob.com/products/colgate-toothbrush-4x",
+      "checked_at": "2026-11-18T01:50:14-05:00",
+      "notes": "UPC/GTIN 035000687432; Colgate 360 Deep Clean Medium 4 Pack; InStock; matching",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "WiserMerchant",
+      "price": 18.15,
+      "url": "https://www.wisermerchant.com/colgate-360-adult-toothbrush-medium",
+      "checked_at": "2026-11-18T01:50:14-05:00",
+      "notes": "UPC 035000687432; Colgate 360 Adult Medium 4 Ea; In Stock; matching",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 44,
+  "posted_at": "2026-11-18T01:52:32-05:00",
+  "checked_at": "2026-11-18T01:50:14-05:00",
+  "writeup": "This new Colgate 360 Whole Mouth Clean medium 4-pack is $4.99. The verifier matched it to UPC 035000687432, the same four medium brushes Target sells as Colgate 360 Deep Clean, each with the cheek and tongue cleaner. Target has that pack in stock at $8.99, Shipabob lists it at $12.99, and WiserMerchant at $18.15, so this is 44% and about $4 below the lowest store price. Woot showed 3 left, with a limit of 3 per customer.",
+  "amazon_asin": "B01LZ8CQ0N",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B01LZ8CQ0N as an exact match for the new Colgate 360 Whole Mouth Clean medium 4-pack, UPC 035000687432.",
+  "amazon_match_checked_at": "2026-11-18T01:50:14-05:00"
+}
