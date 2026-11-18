@@ -1,0 +1,43 @@
+{
+  "title": "darkFlash PMT1050 1050W Gold ATX 3.1, White",
+  "woot_url": "https://computers.woot.com/offers/pmt1050-1050w-gold-atx-3-1-pcie-5-1-white",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/166f9d8d-d264-4b6d-8001-bdbfa393e640._AC_SR882,441_.png",
+  "price": 59.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 119.99,
+      "url": "https://www.newegg.com/darkflash-pmt650-atx-650-w-80-plus-gold-certified-power-supplies-black/p/1HU-0396-00008",
+      "checked_at": "2026-11-18T01:16:54-05:00",
+      "notes": "Title/color: darkFlash PMT1050 1050W white; ATX 3.1 PCIe 5.1; sold by darkFlash Official Store",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "darkFlash",
+      "price": 129.99,
+      "url": "https://www.darkflash.com/us/product/pmt-series-white",
+      "checked_at": "2026-11-18T01:16:54-05:00",
+      "notes": "PMT Series White Edition; 1050W wattage option; model PMT1050 white ATX 3.1",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "darkFlash Official",
+      "price": 144.99,
+      "url": "https://www.darkflash.us/products/pmt1050-gold-fully-modular-power-supply",
+      "checked_at": "2026-11-18T01:16:54-05:00",
+      "notes": "PMT1050 Gold fully modular; page shows $144.99–$149.99 variant range (color not isolated in fetch)",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-18T01:18:35-05:00",
+  "checked_at": "2026-11-18T01:16:54-05:00",
+  "writeup": "This new white darkFlash PMT1050 is a fully modular 1050W 80 Plus Gold ATX 3.1 power supply with native 12V-2x6 / PCIe 5.1, now $59.99. Newegg has the same white 1050W unit in stock at $119.99, and darkFlash's site lists it at $129.99, so this is 50% and about $60 below the lowest store price. Woot showed 10 or more left, with a limit of 10 per customer.",
+  "amazon_asin": "B0F87J87CN",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0F87J87CN as an exact match for the new white darkFlash PMT1050 1050W Gold ATX 3.1 / PCIe 5.1.",
+  "amazon_match_checked_at": "2026-11-18T01:16:54-05:00"
+}
