@@ -1,0 +1,43 @@
+{
+  "title": "AIRTOK AP2801 Pet Air Purifier",
+  "woot_url": "https://home.woot.com/offers/airtok-pet-air-purifier-3",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/0e0383b1-e4ed-4228-af06-89db0f51ba23._AC_SR882,441_.png",
+  "price": 49.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Othercenter",
+      "price": 138.61,
+      "url": "https://othercenter.com/products/airtok-pet-air-purifier-for-large-rooms-ap2801-with-true-hepa-filter",
+      "checked_at": "2026-11-18T02:05:28-05:00",
+      "notes": "Model AP2801; same 165 CFM CADR, 2240 ft², 13x7x16 in, washable pre-filter + HEPA + carbon",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 148.99,
+      "url": "https://www.newegg.com/airtok-ap2801/p/0NW-020G-003E3",
+      "checked_at": "2026-11-18T02:05:28-05:00",
+      "notes": "Brand AIRTOK, Model/Part Number AP2801; identical CADR/coverage/dims/weight 7.7 lb",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Filtrielle",
+      "price": 160.98,
+      "url": "https://shopfiltrielle.com/products/b0gypd639l",
+      "checked_at": "2026-11-18T02:05:28-05:00",
+      "notes": "ASIN B0GYPD639L and model AP2801 on product page; same title/specs as Woot offer",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 63,
+  "posted_at": "2026-11-18T02:06:50-05:00",
+  "checked_at": "2026-11-18T02:05:28-05:00",
+  "writeup": "This new AIRTOK AP2801 pet HEPA air purifier is $49.99. The verifier matched the same model: 165 CFM CADR, 2240 square feet of coverage, 13 by 7 by 16 inches, and 7.7 pounds, with a washable pre-filter plus HEPA and carbon. Othercenter has the same AP2801 in stock at $138.61, Newegg at $148.99, and Filtrielle at $160.98, so this is 63% and about $89 below the lowest non-Amazon store price. Woot showed only 3 left, with a limit of 3 per customer.",
+  "amazon_asin": "B0GYPD639L",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0GYPD639L as an exact match for the new AIRTOK AP2801 pet air purifier.",
+  "amazon_match_checked_at": "2026-11-18T02:05:28-05:00"
+}
