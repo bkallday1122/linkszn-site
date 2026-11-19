@@ -1,0 +1,61 @@
+{
+  "title": "Monoprice DisplayPort 1.2 to DisplayPort MST Hub (21972)",
+  "woot_url": "https://sellout.woot.com/offers/monoprice-displayport-1-2-to-displayport-mst-hub-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/1042e1e5-68b9-4be6-83b2-6fa16feefaa5._AC_SR882,441_.png",
+  "price": 18.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "A Network Integrators",
+      "price": 42.8,
+      "url": "https://anetworkintegrators.com/monoprice-21972-displayport-cable-2x-displayport-black-21972.html",
+      "checked_at": "2026-11-19T12:10:52-05:00",
+      "notes": "Exact match: SKU 21972, EAN 0889028052792 (UPC 889028052792); in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Monoprice",
+      "price": 44.99,
+      "url": "https://www.monoprice.com/product?p_id=21972",
+      "checked_at": "2026-11-19T12:10:52-05:00",
+      "notes": "Exact match: Monoprice P/N 21972 / model 121972, 2-Port DP 1.2 to DP MST Hub; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "NeutronUSA",
+      "price": 46.57,
+      "url": "https://www.neutronusa.com/prod.cfm/3657323",
+      "checked_at": "2026-11-19T12:10:52-05:00",
+      "notes": "Exact match: MPN/model 21972; 1175 in stock; last updated Nov 18, 2026",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "CompSource",
+      "price": 49.94,
+      "url": "https://www.compsource.com/buy/21972/Monoprice-5418/Monoprice-2Port-DisplayPort-12-to-DisplayPort-MultiStream-Transport-MST-Hub--1-x-DisplayPort-1/",
+      "checked_at": "2026-11-19T12:10:52-05:00",
+      "notes": "Exact match: MPN 21972, UPC 889028052792; 1175 real-time availability; updated Nov 19, 2026",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "PCNation",
+      "price": 53.52,
+      "url": "https://www.pcnation.com/monoprice-inc-21972-8626as",
+      "checked_at": "2026-11-19T12:10:52-05:00",
+      "notes": "Exact match: Monoprice 21972 2-Port DP 1.2 MST Hub; new/factory fresh; in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 55,
+  "posted_at": "2026-11-19T12:15:23-05:00",
+  "checked_at": "2026-11-19T12:10:52-05:00",
+  "writeup": "Woot has a new Monoprice DisplayPort 1.2 to DisplayPort MST hub for $18.99. It is part number 21972 (model 121972, UPC 889028052792), a 2-port hub that takes one DisplayPort 1.2 input and drives two monitors at up to 4K at 30Hz each. A Network Integrators currently sells the same 21972 for $42.80, and Monoprice's site has it at $44.99, so this is 55 percent and about $24 below the lowest verified store price. Stock shows 3+ left, with a purchase limit of 3 per customer.",
+  "amazon_asin": "B075754ZYC",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B075754ZYC as an exact match for the Monoprice 21972 / 121972 2-Port DP 1.2 to DP MST Hub, UPC 889028052792.",
+  "amazon_match_checked_at": "2026-11-19T12:10:52-05:00"
+}
