@@ -1,0 +1,34 @@
+{
+  "title": "Thetis FIDO2 Security Key [Folding Design] (MB000368)",
+  "woot_url": "https://sellout.woot.com/offers/fido2-security-key-folding-design-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/d29b960e-9025-4a83-8329-e2b31dd690ca._AC_SR882,441_.png",
+  "price": 10.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Thetis",
+      "price": 26.99,
+      "url": "https://thetis.io/products/fido2-key",
+      "checked_at": "2026-11-19T12:04:13-05:00",
+      "notes": "Exact match SKU MB000368 / UPC 600231109321; Shopify available=true, cart add succeeded",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 53.99,
+      "url": "https://www.newegg.com/p/3C6-012R-02716",
+      "checked_at": "2026-11-19T12:04:13-05:00",
+      "notes": "Exact title Folding Design Thetis FIDO2; marketplace seller GoBeRotie; listed with shipping on Newegg MFA category",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 59,
+  "posted_at": "2026-11-19T12:10:39-05:00",
+  "checked_at": "2026-11-19T12:04:13-05:00",
+  "writeup": "Woot has a new Thetis folding FIDO2 security key (SKU MB000368, UPC 600231109321) for $10.99. The key uses a rotating cover to protect the USB connector and works as hardware two-factor authentication. Thetis still sells this exact model in stock on its site for $26.99, and Newegg lists it at $53.99, so this is 59 percent and about $16 below the current brand price. Stock shows only 3 left, with a purchase limit of 10 per customer.",
+  "amazon_asin": "B07RL99HZ6",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B07RL99HZ6 as an exact match for the Thetis folding FIDO2 security key, SKU MB000368 / UPC 600231109321.",
+  "amazon_match_checked_at": "2026-11-19T12:04:13-05:00"
+}
