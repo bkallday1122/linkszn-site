@@ -1,0 +1,43 @@
+{
+  "title": "Post Bran Flakes Cereal, 16 oz",
+  "woot_url": "https://www.woot.com/offers/post-bran-flakes-cereal-16-oz",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/50388371-d330-4115-aeb2-a3b6886df7f3._AC_SR882,441_.png",
+  "price": 2.91,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Acme",
+      "price": 5.19,
+      "url": "https://www.acmestores.com/product/00884912113139/bran-flakes-cereal",
+      "checked_at": "2026-11-19T01:08:50-05:00",
+      "notes": "UPC 884912113139; 16 oz Bran Flakes; sale $5.19 (was $6.99); in stock; matching",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Lunds & Byerlys",
+      "price": 5.99,
+      "url": "https://www.lundsandbyerlys.com/product/post-bran-flakes-cereal-id-00884912113139",
+      "checked_at": "2026-11-19T01:08:50-05:00",
+      "notes": "Post Bran Flakes Cereal 16 oz; UPC 884912113139; aisle listed; in stock; matching",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Shipt (Strack & Van Til)",
+      "price": 6.79,
+      "url": "https://www.shipt.com/shop/products/09ef1049-9330-10eb-0297-e2b4a37df9a3",
+      "checked_at": "2026-11-19T01:08:50-05:00",
+      "notes": "Post Bran Flakes 16 oz exact title/size; marked available; matching",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 43,
+  "posted_at": "2026-11-19T01:11:59-05:00",
+  "checked_at": "2026-11-19T01:08:50-05:00",
+  "writeup": "Woot has a new 16 oz box of Post Bran Flakes, the whole-grain wheat bran cereal, at $2.91. Acme is selling the same 16 oz box (UPC 884912113139) in stock at $5.19, while Lunds & Byerlys has it at $5.99 and Shipt (Strack & Van Til) is at $6.79. That is about $2.28 and 43 percent below the lowest verified street price. Three or more are left, with a limit of 3 per customer.",
+  "amazon_asin": "B0014CTU8G",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0014CTU8G as an exact match for Post Bran Flakes Cereal 16 oz (UPC 884912113139).",
+  "amazon_match_checked_at": "2026-11-19T01:08:50-05:00"
+}
