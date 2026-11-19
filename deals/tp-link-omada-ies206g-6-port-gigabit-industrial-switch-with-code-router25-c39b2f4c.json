@@ -1,0 +1,46 @@
+{
+  "title": "TP-Link Omada IES206G 6-Port Gigabit Industrial Switch (with code ROUTER25)",
+  "woot_url": "https://computers.woot.com/offers/tp-link-tp-link-omada-5-port-gigabit-industrial-8",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/af2a713e-ffa4-41e8-85a9-fb7abf6890e1._AC_SR882,441_.png",
+  "price": 37.49,
+  "woot_price": 49.99,
+  "promo_code": "ROUTER25",
+  "promo_expires": "2026-11-20T23:58:00-06:00",
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "B&H",
+      "price": 99.99,
+      "url": "https://www.bhphotovideo.com/c/product/1971953-REG/tp_link_ies206g_omada_6_port_gigabit.html",
+      "checked_at": "2026-11-19T01:15:36-05:00",
+      "notes": "MFR# IES206G, UPC 840460600934, 6-port industrial Omada; In Stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Omada Networks",
+      "price": 124.99,
+      "url": "https://store.omadanetworks.com/products/omada-6-port-gigabit-industrial-easy-managed-switch-ies206g",
+      "checked_at": "2026-11-19T01:15:36-05:00",
+      "notes": "Official store Model Name IES206G exact match; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "NeutronUSA",
+      "price": 179.49,
+      "url": "https://www.neutronusa.com/prod.cfm/5977588",
+      "checked_at": "2026-11-19T01:15:36-05:00",
+      "notes": "Manufacturer Part Number IES206G Omada 6-Port Gigabit Industrial Easy Managed Switch; in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 62,
+  "posted_at": "2026-11-19T01:25:51-05:00",
+  "checked_at": "2026-11-19T01:15:36-05:00",
+  "writeup": "Woot has a new TP-Link Omada IES206G 6-port gigabit industrial easy managed switch for $49.99, or $37.49 after code ROUTER25, an extra 25 percent off valid through November 20 at 11:58 PM CT. The switch is an IP40 aluminum unit rated for -40 to 75°C. B&H has the same IES206G (UPC 840460600934) in stock at $99.99, so the after-code price is 62 percent below that street price and saves about $62. The official Omada store lists it at $124.99, and NeutronUSA is at $179.49. Woot shows 5+ left with a limit of 5 per customer.",
+  "amazon_asin": "B0GTS3K9FN",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0GTS3K9FN as an exact match for the TP-Link Omada IES206G 6-port gigabit industrial easy managed switch (UPC 840460600934).",
+  "amazon_match_checked_at": "2026-11-19T01:15:36-05:00"
+}
