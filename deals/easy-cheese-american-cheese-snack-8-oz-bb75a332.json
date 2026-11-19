@@ -1,0 +1,61 @@
+{
+  "title": "Easy Cheese American Cheese Snack, 8 oz",
+  "woot_url": "https://www.woot.com/offers/easy-cheese-american-cheese-snack-8-oz-31",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/a6dc0b06-cb12-414f-8128-950f97b5c788._AC_SR882,441_.png",
+  "price": 1.91,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Walmart",
+      "price": 5.92,
+      "url": "https://www.walmart.com/ip/Easy-Cheese-American-Cheese-Snack-8-oz/10292086",
+      "checked_at": "2026-11-19T01:05:40-05:00",
+      "notes": "Exact title Easy Cheese American Cheese Snack 8 oz; UPC 044000045524 / model 00044000045524; SKU 10292086; sold by Walmart; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Cub",
+      "price": 6.09,
+      "url": "https://www.cub.com/product/easy-cheese-cheese-snack-american-00044000045524",
+      "checked_at": "2026-11-19T01:05:40-05:00",
+      "notes": "Exact American 8 oz; product id/UPC 00044000045524; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "ShopRite",
+      "price": 6.09,
+      "url": "https://www.shoprite.com/product/nabisco-easy-cheese-american-pasteurized-cheese-snack-8-oz-id-00044000045524",
+      "checked_at": "2026-11-19T01:05:40-05:00",
+      "notes": "Exact Nabisco Easy Cheese American Pasteurized Cheese Snack 8 oz; UPC 00044000045524; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Kroger",
+      "price": 6.39,
+      "url": "https://www.kroger.com/p/easy-cheese-american-cheese-snack/0004400004552",
+      "checked_at": "2026-11-19T01:05:40-05:00",
+      "notes": "Exact Easy Cheese American Cheese Snack 8 oz; UPC/product 0004400004552; pickup available; in stock",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Acme",
+      "price": 6.49,
+      "url": "https://www.acmestores.com/product/00044000045524/easy-cheese-american-cheese-snack",
+      "checked_at": "2026-11-19T01:05:40-05:00",
+      "notes": "Exact Easy Cheese American Cheese Snack 8.0 oz; UPC 00044000045524; in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 67,
+  "posted_at": "2026-11-19T01:07:54-05:00",
+  "checked_at": "2026-11-19T01:05:40-05:00",
+  "writeup": "Woot has a new 8 oz can of Easy Cheese American cheese snack at $1.91, the shelf-stable spray that does not need a fridge. Walmart is selling the same 8 oz can (UPC 044000045524, SKU 10292086) in stock at $5.92, while Cub and ShopRite both have it at $6.09 and Kroger is at $6.39. That is about $4.01 and 67 percent below the lowest verified street price. Three or more are left, with a limit of 3 per customer.",
+  "amazon_asin": "B000S5PHJ6",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B000S5PHJ6 as an exact match for Easy Cheese American Cheese Snack 8 oz (UPC 044000045524).",
+  "amazon_match_checked_at": "2026-11-19T01:05:40-05:00"
+}
