@@ -1,0 +1,43 @@
+{
+  "title": "Jonathan Adler Sirena Teacup",
+  "woot_url": "https://sellout.woot.com/offers/jonathan-adler-sirena-teacup-5",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/e73b8e02-80f4-4efb-9d14-847577a89424._AC_SR882,441_.png",
+  "price": 18.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Matho Home",
+      "price": 35,
+      "url": "https://mathohome.com/products/sirena-teacup-yellow-35249",
+      "checked_at": "2026-11-19T12:19:51-05:00",
+      "notes": "Exact Sirena Teacup yellow; SKU JDA35249 / item #35249; sale $35 (was $47); in stock, ships 10-14 days",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Jonathan Adler",
+      "price": 45,
+      "url": "https://jonathanadler.com/products/sirena-teacup-yellow-35249",
+      "checked_at": "2026-11-19T12:19:51-05:00",
+      "notes": "Official brand page; Item #35249; Yellow Sirena Teacup; in stock and available to ship",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Codeso Living",
+      "price": 58.32,
+      "url": "https://www.codeso-living.de/en/products/jonathan-adler-teetasse-sirena",
+      "checked_at": "2026-11-19T12:19:51-05:00",
+      "notes": "EU listing EUR 54.00 (~$58.32); same Sirena Teacup dims/description; orderable, 2-4 week delivery",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 45,
+  "posted_at": "2026-11-19T12:21:28-05:00",
+  "checked_at": "2026-11-19T12:19:51-05:00",
+  "writeup": "Woot has the new Jonathan Adler Sirena Teacup in yellow for $18.99. It is item #35249 (SKU JDA35249), the same yellow Sirena teacup currently sold at Matho Home for $35 and on Jonathan Adler's site for $45. Codeso Living lists it at $58.32 with multi-week delivery. That is about $16 and 45 percent below the lowest verified street price at Matho Home. Quantity is capped, with 3+ left and a limit of 3 per customer.",
+  "amazon_asin": "B0GPH9W327",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0GPH9W327 as an exact match for the new Jonathan Adler Sirena Teacup (item #35249 / SKU JDA35249, yellow).",
+  "amazon_match_checked_at": "2026-11-19T12:19:51-05:00"
+}
