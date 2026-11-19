@@ -1,0 +1,52 @@
+{
+  "title": "Astro Tools 82ULB Underhood Light Bar",
+  "woot_url": "https://tools.woot.com/offers/astro-tools-82ulb-underhood-light-bar-6",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/0cd1ac33-c73d-4e7a-b4e5-cc39f3d6ef56._AC_SR882,441_.png",
+  "price": 24.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Tool Shack",
+      "price": 84.25,
+      "url": "https://www.toolshackweb.com/Underhood-Light-Bar-p/ast82ulb.htm",
+      "checked_at": "2026-11-19T04:13:33-05:00",
+      "notes": "Exact MFR Part No 82ULB; qty in stock 1; same expandable underhood light bar specs",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Smith Tool & Supply",
+      "price": 92.88,
+      "url": "https://www.smithtoolsupply.com/Lighting-Electrical/Work-Lights/AO-82ULB.html",
+      "checked_at": "2026-11-19T04:13:33-05:00",
+      "notes": "MFRPART 82ULB / SMITHTOOL AO-82ULB; live price shown, no OOS flag",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Selectum",
+      "price": 100,
+      "url": "https://selectumllc.com/i/astro-pneumatic-82ulb",
+      "checked_at": "2026-11-19T04:13:33-05:00",
+      "notes": "Exact Part # 82ULB Astro Pneumatic underhood light bar; listed $100 each",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Penn Tool",
+      "price": 110.78,
+      "url": "https://www.penntoolco.com/AO82ULB/",
+      "checked_at": "2026-11-19T04:13:33-05:00",
+      "notes": "SKU AO82ULB / MPN 82ULB; schema.org InStock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 70,
+  "posted_at": "2026-11-19T04:13:33-05:00",
+  "checked_at": "2026-11-19T04:13:33-05:00",
+  "writeup": "The Astro Tools 82ULB is a new aluminum underhood light bar that expands from 33.5 inches to 82.5 inches. Woot has it for $24.99. Tool Shack lists the same 82ULB in stock at $84.25, Smith Tool & Supply has it at $92.88, Selectum at $100, and Penn Tool at $110.78, which makes this price about 70 percent below the lowest of those, or $59 less than Tool Shack. Woot shows 5 left with a limit of 5 per customer.",
+  "amazon_asin": "B01JBI2CMK",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B01JBI2CMK as an exact match for the Astro Tools 82ULB underhood light bar.",
+  "amazon_match_checked_at": "2026-11-19T04:13:33-05:00"
+}
