@@ -1,0 +1,46 @@
+{
+  "title": "Linksys AX3200 Wi-Fi 6 Router (with code ROUTER25)",
+  "woot_url": "https://computers.woot.com/offers/linksys-ax3200-wi-fi-6-router-11",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/abca13d0-b246-445e-80f6-2dc5de8a6105._AC_SR882,441_.jpg",
+  "price": 20.24,
+  "woot_price": 26.99,
+  "promo_code": "ROUTER25",
+  "promo_expires": "2026-11-20T23:58:00-06:00",
+  "condition": "Factory reconditioned",
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 64.95,
+      "url": "https://www.newegg.com/p/3CS-0006-000F7",
+      "checked_at": "2026-11-19T01:18:59-05:00",
+      "notes": "Refurbished/open-box Linksys E8450 AX3200; same model/MPN as Woot ASIN B0998C9T97. In stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "eBay",
+      "price": 99.0,
+      "url": "https://www.ebay.com/itm/146045822609",
+      "checked_at": "2026-11-19T01:18:59-05:00",
+      "notes": "New Linksys E8450; UPC 745883809639 / MPN E8450. In stock.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 179.0,
+      "url": "https://www.newegg.com/p/0E6-0029-006V5",
+      "checked_at": "2026-11-19T01:18:59-05:00",
+      "notes": "New Linksys E8450 AX3200; same model. In stock.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 68,
+  "posted_at": "2026-11-19T01:25:12-05:00",
+  "checked_at": "2026-11-19T01:18:59-05:00",
+  "writeup": "Woot has a factory-reconditioned Linksys E8450 AX3200 Wi-Fi 6 router for $26.99, or $20.24 after code ROUTER25, an extra 25 percent off valid through November 20 at 11:58 PM CT. The same refurbished E8450 is $64.95 at Newegg, so the after-code price is 68 percent below that street price and saves about $45. A new E8450 is $99 on eBay and $179 at Newegg. Woot shows 1+ left with a limit of one per customer.",
+  "amazon_asin": "B0998C9T97",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0998C9T97 as an exact match (image-matched) for the factory-reconditioned Linksys E8450 AX3200.",
+  "amazon_match_checked_at": "2026-11-19T01:18:59-05:00"
+}
