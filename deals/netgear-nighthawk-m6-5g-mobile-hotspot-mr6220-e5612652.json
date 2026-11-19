@@ -1,0 +1,43 @@
+{
+  "title": "NETGEAR Nighthawk M6 5G Mobile Hotspot (MR6220)",
+  "woot_url": "https://computers.woot.com/offers/netgear-mr6220-netgear-nighthawk-m6-5g-mobile-hotspot-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/6e6b6e37-c4cf-4744-9818-4411f1fd59d6._AC_SR882,441_.png",
+  "price": 253.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Camcor",
+      "price": 525,
+      "url": "https://www.camcor.com/cat/Netgear-Nighthawk-M6-MR6220-Wi-Fi-6-IEEE-802-11ax-Ethernet-Cellular-Modem-Wireless-Router-MR6220G-111NAS.html",
+      "checked_at": "2026-11-19T03:17:44-05:00",
+      "notes": "Exact MPN MR6220G-111NAS / model MR6220; page shows IN STOCK",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Neutron USA",
+      "price": 576.47,
+      "url": "https://www.neutronusa.com/prod.cfm/5794590",
+      "checked_at": "2026-11-19T03:17:44-05:00",
+      "notes": "Exact MPN MR6220G-111NAS / model MR6220; In Stock/Mfg Direct Ship; last updated Nov 18, 2026",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Powerful Signal",
+      "price": 599.99,
+      "url": "https://powerfulsignal.com/netgear-nighthawk-m6/",
+      "checked_at": "2026-11-19T03:17:44-05:00",
+      "notes": "SKU MR6220; lists Nighthawk M6 router MR6220 in box; In stock—fast shipping",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 51,
+  "posted_at": "2026-11-19T03:19:40-05:00",
+  "checked_at": "2026-11-19T03:17:44-05:00",
+  "writeup": "Woot has a new NETGEAR Nighthawk M6 5G mobile hotspot, model MR6220 and MPN MR6220G-111NAS, for $253.99. This Wi-Fi 6 hotspot can share a 5G connection with up to 32 devices. Camcor has the same MR6220G-111NAS in stock at $525, which makes Woot's price 51 percent below that street price and about $271 less. Neutron USA lists the same model at $576.47, and Powerful Signal has it at $599.99. Woot shows 3+ left with a limit of 3 per customer.",
+  "amazon_asin": "B0HNPP32B9",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0HNPP32B9 as an exact match for the NETGEAR Nighthawk M6 MR6220 / MPN MR6220G-111NAS 5G mobile hotspot.",
+  "amazon_match_checked_at": "2026-11-19T03:17:44-05:00"
+}
