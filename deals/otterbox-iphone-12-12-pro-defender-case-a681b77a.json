@@ -1,0 +1,52 @@
+{
+  "title": "OtterBox iPhone 12/12 Pro Defender Case",
+  "woot_url": "https://electronics.woot.com/offers/otterbox-iphone-12-12-pro-defender-case-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/a5eba8ac-9351-4df4-b703-4fa3ba65e814._AC_SR882,441_.png",
+  "price": 6.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "CDW",
+      "price": 36.99,
+      "url": "https://www.cdw.com/product/otterbox-defender-rugged-carrying-case-holster-apple-iphone-12-iphone-12/6300325",
+      "checked_at": "2026-11-20T01:29:42-05:00",
+      "notes": "Exact MPN 77-66179 ProPack black for iPhone 12/12 Pro; advertised price on product page",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "OtterBox",
+      "price": 41.97,
+      "url": "https://www.otterbox.com/products/iphone-12-and-iphone-12-pro-defender-series-case",
+      "checked_at": "2026-11-20T01:29:42-05:00",
+      "notes": "Defender Series for iPhone 12/12 Pro black; same case family as Woot ProPack 77-66179 (retail packaging)",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Newegg",
+      "price": 53.96,
+      "url": "https://www.newegg.com/otterbox-iphone-12-and-iphone-12-pro-case-black/p/N82E16875944337",
+      "checked_at": "2026-11-20T01:29:42-05:00",
+      "notes": "Retail MPN 77-65401 black Defender for iPhone 12/12 Pro; same case as ProPack 77-66179, retail packaging; sold by Newegg",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "SHI",
+      "price": 59.95,
+      "url": "https://www.shi.com/product/40338571/OtterBox-Defender-Series",
+      "checked_at": "2026-11-20T01:29:42-05:00",
+      "notes": "Exact MPN 77-66179 ProPack; stock ~309+ shown in stock",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 81,
+  "posted_at": "2026-11-20T01:31:15-05:00",
+  "checked_at": "2026-11-20T01:29:42-05:00",
+  "writeup": "Woot has a new OtterBox Defender Series case for iPhone 12 and iPhone 12 Pro (ProPack MPN 77-66179, black, with holster) for $6.99. CDW currently lists the same rugged multi-layer case at $36.99, OtterBox's site has it at $41.97, and Newegg and SHI are higher at $53.96 and $59.95. That is 81 percent and about $30 below CDW. Quantity is 3+ left, with a limit of 3 per customer.",
+  "amazon_asin": "B08D6X1L8H",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B08D6X1L8H as an exact match for the OtterBox iPhone 12/12 Pro Defender Case (ProPack MPN 77-66179).",
+  "amazon_match_checked_at": "2026-11-20T01:29:42-05:00"
+}
