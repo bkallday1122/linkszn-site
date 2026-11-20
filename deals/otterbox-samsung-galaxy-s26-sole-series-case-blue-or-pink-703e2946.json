@@ -1,0 +1,43 @@
+{
+  "title": "OtterBox Samsung Galaxy S26 Sole Series Case (Blue or Pink)",
+  "woot_url": "https://electronics.woot.com/offers/otterbox-samsung-galaxy-s26-sole-series-case-blue-or-pink-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/5685e9ef-555f-4933-bfd1-f2aeb463ffdb._AC_SR882,441_.png",
+  "price": 4.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "OtterBox",
+      "price": 41.99,
+      "url": "https://www.otterbox.com/products/galaxy-s26-sole-series-case",
+      "checked_at": "2026-11-20T01:42:00-05:00",
+      "notes": "Official Galaxy S26 Sole Series; Real Quiet Blue and Xtra Hot Pink variants both available at $41.99 (compare_at $59.99 ignored) via product.js; exact title/model match to Woot colors",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "SHI",
+      "price": 54.99,
+      "url": "https://www.shi.com/product/51130190/OtterBox-Sole-Series",
+      "checked_at": "2026-11-20T01:42:00-05:00",
+      "notes": "OtterBox Sole Series blue for Samsung Galaxy S26; Mfr Part 77-000046; stock 22; same series/device/color family as Woot blue (Amazon MPN 77-000498)",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "TrueGether",
+      "price": 64.6,
+      "url": "https://www.truegether.com/otterbox-samsung-galaxy-s26-sole-series-case-real-quiet-blue-grippy-phone-c-/USER.7afe0b5a-9596-4261-8b90-ba79b8340c58/listing.html",
+      "checked_at": "2026-11-20T01:42:00-05:00",
+      "notes": "Real Quiet Blue; Model/Part 77-000498; UPC 840434760114; available stock 1; exact MPN match to Amazon ASIN B0GFB8PWPP",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 88,
+  "posted_at": "2026-11-20T02:09:38-05:00",
+  "checked_at": "2026-11-20T01:42:00-05:00",
+  "amazon_asin": "B0GFB8PWPP",
+  "amazon_match_notes": "Verifier marked amazon_asin_verified B0GFB8PWPP as an exact match for the Galaxy S26 Sole Series (blue MPN 77-000498 / UPC 840434760114).",
+  "amazon_match_checked_at": "2026-11-20T01:42:00-05:00",
+  "writeup": "Woot has relisted the OtterBox Sole Series case for the Samsung Galaxy S26 in Real Quiet Blue or Xtra Hot Pink for $4.99, a drop from the earlier $6.99 listing. This is the fabric-back shell with a removable finger loop and built-in magnets for fast charging. OtterBox's own site currently sells the same Blue and Pink Sole Series cases for $41.99, and SHI lists the blue at $54.99, so this is 88% and about $37 below the lowest verified store price. Stock is thin, with 3+ left and a limit of 3 per customer."
+}
