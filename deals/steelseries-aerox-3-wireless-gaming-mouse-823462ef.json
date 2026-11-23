@@ -1,0 +1,33 @@
+{
+  "title": "SteelSeries Aerox 3 Wireless Gaming Mouse",
+  "woot_url": "https://sellout.woot.com/offers/steelseries-aerox-3-wireless-gaming-mouse-7",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/b25b88c1-fbca-4824-8238-74c2a1658e76._AC_SR882,441_.jpg",
+  "price": 29.99,
+  "comparisons": [
+    {
+      "store": "Newegg",
+      "price": 73.89,
+      "url": "https://www.newegg.com/steelseries-62608-aerox-3-wireless-2022-edition-2-4ghz-bluetooth-5-0/p/N82E16826249262",
+      "checked_at": "2026-11-23T11:18:50-05:00",
+      "notes": "Restock of prior verified deal: Aerox 3 Wireless 2022 Edition, model 62608, same MPN; lowest offer from a marketplace seller. Prior verdict reused (restock_prior_verdict, no new market check).",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Micro Center",
+      "price": 109.99,
+      "url": "https://www.microcenter.com/product/643176/steelseries-aerox-3-wireless-ultra-lightweight-gaming-mouse-snow",
+      "checked_at": "2026-11-23T11:18:50-05:00",
+      "notes": "Restock of prior verified deal: Mfr part 62608, UPC 850014119522 exact match; can be shipped. Prior verdict reused (restock_prior_verdict, no new market check).",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 59,
+  "posted_at": "2026-11-23T11:18:50-05:00",
+  "checked_at": "2026-11-23T11:18:50-05:00",
+  "amazon_asin": "B0BL3XTT19",
+  "amazon_match_notes": "Exact ASIN from the verified Woot restock payload / prior listing for model 62608.",
+  "amazon_match_checked_at": "2026-11-23T11:18:50-05:00",
+  "writeup": "Woot relisted the SteelSeries Aerox 3 Wireless (model 62608) at $29.99, the same price as the November 3 run that sold out. It is a 68g ultralight gaming mouse with a perforated shell, dual 2.4GHz and Bluetooth connectivity, and up to 200 hours of battery life. When we verified this deal earlier, Newegg sellers asked $73.89 and Micro Center listed it at $109.99, so this is about 59% below the lowest of those prices. Condition was not confirmed on the offer page, and Woot limits it to 3 per customer."
+}
