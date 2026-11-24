@@ -1,0 +1,25 @@
+{
+  "title": "Ring Battery Doorbell Plus",
+  "woot_url": "https://sellout.woot.com/offers/ring-battery-doorbell-plus-1",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/3bcbc4b9-edec-4110-8d65-0b7e131cbf39._AC_SR882,441_.png",
+  "price": 49.99,
+  "condition": "New",
+  "comparisons": [
+    {
+      "store": "Ring",
+      "price": 89.99,
+      "url": "https://ring.com/products/battery-doorbell-plus-2nd-gen",
+      "checked_at": "2026-11-24T11:31:26-05:00",
+      "notes": "Live page fetch of Ring Battery Doorbell Plus; in stock and matching.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 44,
+  "posted_at": "2026-11-24T11:38:56-05:00",
+  "checked_at": "2026-11-24T11:31:26-05:00",
+  "amazon_asin": "B09WZBPX7K",
+  "amazon_match_notes": "ASIN from the Woot offer data, confirmed exact-match by the price checker (amazon_asin_verified B09WZBPX7K).",
+  "amazon_match_checked_at": "2026-11-24T11:31:26-05:00",
+  "writeup": "Woot has the Ring Battery Doorbell Plus at $49.99. Ring currently lists the same doorbell in stock at $89.99, so this is 44 percent below the brand's own price and a savings of $40. Quantity is tight: only 1 left, with a limit of 3 per customer."
+}
