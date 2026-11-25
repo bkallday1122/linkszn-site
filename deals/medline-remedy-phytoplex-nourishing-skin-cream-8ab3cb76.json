@@ -1,0 +1,24 @@
+{
+  "title": "Medline Remedy Phytoplex Nourishing Skin Cream",
+  "woot_url": "https://www.woot.com/offers/medline-remedy-phytoplex-nourishing-skin-cream-4",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/a6f8ae73-30b4-4900-bbd2-271a1efc2974._AC_SR882,441_.png",
+  "price": 20.99,
+  "comparisons": [
+    {
+      "store": "Vitality Medical",
+      "price": 72.49,
+      "url": "https://www.vitalitymedical.com/medline-remedy-phytoplex-nourishing-skin-cream-care.html",
+      "checked_at": "2026-11-25T01:13:46-05:00",
+      "notes": "Exact title match; in-stock at Vitality Medical per the price checker (tool fetch_page).",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 71,
+  "posted_at": "2026-11-25T01:29:55-05:00",
+  "checked_at": "2026-11-25T01:13:46-05:00",
+  "amazon_asin": "B07VFDMZ9Y",
+  "amazon_match_notes": "ASIN from the Woot offer data, confirmed exact-match by the price checker (amazon_asin_verified B07VFDMZ9Y).",
+  "amazon_match_checked_at": "2026-11-25T01:13:46-05:00",
+  "writeup": "Woot has Medline Remedy Phytoplex Nourishing Skin Cream at $20.99, new. Vitality Medical lists the same in-stock cream at $72.49, so this is 71 percent below that price and a savings of about $51. Ten or more are left, with a purchase limit of 10 per customer."
+}
