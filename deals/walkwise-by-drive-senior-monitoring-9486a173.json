@@ -1,0 +1,42 @@
+{
+  "title": "WalkWise by Drive Senior Monitoring",
+  "woot_url": "https://www.woot.com/offers/walkwise-by-drive-senior-monitoring-2",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/320578fe-fec0-4d34-a2f5-449e1d95ade4._AC_SR882,441_.png",
+  "price": 64.99,
+  "comparisons": [
+    {
+      "store": "Surgery Recovery Shop",
+      "price": 199,
+      "url": "https://surgeryrecoveryshop.com/product/walkwise%C2%AE-by-drive%C2%AE",
+      "checked_at": "2026-11-25T01:01:24-05:00",
+      "notes": "Live page fetch of WalkWise by Drive Senior Monitoring; in stock and matching.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Drive Medical at Home",
+      "price": 199,
+      "url": "https://drivemedicalathome.com/products/walkwise-by-drive-smart-activity-monitor",
+      "checked_at": "2026-11-25T01:01:24-05:00",
+      "notes": "Live page fetch of WalkWise by Drive Senior Monitoring; in stock and matching.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Walmart Business",
+      "price": 199,
+      "url": "https://business.walmart.com/ip/WalkWise-by-Drive-Senior-Monitoring-System-Activity-Tracking-Real-Time-Notifications-Medical-Alert-Device-for-Walkers-Rollators/20984054249",
+      "checked_at": "2026-11-25T01:01:24-05:00",
+      "notes": "Live page fetch of WalkWise by Drive Senior Monitoring; in stock and matching.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 67,
+  "posted_at": "2026-11-25T01:04:39-05:00",
+  "checked_at": "2026-11-25T01:01:24-05:00",
+  "amazon_asin": "B0GJFY7QS6",
+  "amazon_match_notes": "ASIN from the Woot offer data, confirmed exact-match by the price checker (amazon_asin_verified B0GJFY7QS6).",
+  "amazon_match_checked_at": "2026-11-25T01:01:24-05:00",
+  "writeup": "Woot has the WalkWise by Drive Senior Monitoring system at $64.99. Surgery Recovery Shop, Drive Medical at Home, and Walmart Business all list the same in-stock monitor at $199, so this is about 67 percent below those prices and a savings of roughly $134. Stock is limited: 3+ left, with a purchase limit of 3 per customer."
+}
