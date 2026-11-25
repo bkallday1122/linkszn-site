@@ -1,0 +1,51 @@
+{
+  "title": "McFarlane Toys - DC Multiverse Camouflage Tumbler",
+  "woot_url": "https://sellout.woot.com/offers/mcfarlane-toys-dc-multiverse-camouflage-tumbler-4",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/37fa19e4-1691-4cef-a7b3-5d85e225e6b5._AC_SR882,441_.png",
+  "price": 24.15,
+  "comparisons": [
+    {
+      "store": "Toywiz",
+      "price": 47.49,
+      "url": "https://toywiz.com/mcfarlane-toys-dc-multiverse-gold-label-collection-camouflage-tumbler-exclusive-vehicle-the-dark-knight-rises/",
+      "checked_at": "2026-11-25T10:25:19-05:00",
+      "notes": "Exact match; in stock per live page fetch in the verified payload (lowest comparison).",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Figurineforall",
+      "price": 89.95,
+      "url": "https://figurineforall.ca/products/dc-multiverse-the-dark-knight-rises-camouflage-tumbler-vehicle-gold-label-7-inch-scale",
+      "checked_at": "2026-11-25T10:25:19-05:00",
+      "notes": "Exact match; in stock per live page fetch in the verified payload.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Cmdstore",
+      "price": 98.99,
+      "url": "https://cmdstore.com/products/dc-multiverse-batman-the-dark-knight-camouflage-tumbler-gold-label-787926172966",
+      "checked_at": "2026-11-25T10:25:19-05:00",
+      "notes": "Exact match; in stock per live page fetch in the verified payload.",
+      "available": true,
+      "matching": true
+    },
+    {
+      "store": "Figurine Collector",
+      "price": 109.9,
+      "url": "https://www.figurine-collector.com/batman-vehicle/22517-mc-farlane-dc-multiverse-tumbler-camouflage-1-12-the-dark-knight-gold-label-787926172966.html",
+      "checked_at": "2026-11-25T10:25:19-05:00",
+      "notes": "Exact match; in stock per live page fetch in the verified payload.",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 49,
+  "posted_at": "2026-11-25T10:32:30-05:00",
+  "checked_at": "2026-11-25T10:25:19-05:00",
+  "amazon_asin": "B0CXZH8PLQ",
+  "amazon_match_notes": "ASIN from the Woot offer data, confirmed exact-match by the price checker (amazon_asin_verified B0CXZH8PLQ).",
+  "amazon_match_checked_at": "2026-11-25T10:25:19-05:00",
+  "writeup": "Woot dropped the McFarlane Toys DC Multiverse Camouflage Tumbler to $24.15, down from $34.15. This is the Gold Label The Dark Knight Rises 1:12 scale vehicle. Toywiz has the same in-stock item at $47.49, which is 49 percent higher — a savings of about $23. Cmdstore lists it at $98.99, and only 9 are left."
+}
