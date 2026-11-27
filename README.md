@@ -28,7 +28,7 @@ python3 publish_deal.py /absolute/path/to/deal.json
 
 The script validates input, takes a local lock, pulls main with fast-forward only, writes one file in `deals/`, commits only that file, and pushes. A successful push queues the hosting build; it does not prove deployment is live. Check the Cloudflare deployment and public URL. If a push fails after committing, rerun the same input after resolving connectivity; identical content is safe to retry. Concurrent remote updates may require a normal Git rebase before retrying.
 
-Required fields: `title`, `woot_url`, `image`, `price`, `comparisons`, `pct_below`, `posted_at`, `checked_at`, `writeup`. Each comparison needs `store`, `price`, `url`, `checked_at`, `notes`, `available: true`, and `matching: true`. Use timezone-aware ISO timestamps and numeric USD prices. Optional fields: `category`, `condition`, `notes`, `expires_at`. Existing deals illustrate the format.
+Required fields: `title`, `image`, `price`, `comparisons`, `pct_below`, `posted_at`, `checked_at`, `writeup`. Woot deals also need `woot_url`. Amazon-source deals set `"source": "amazon"`, `amazon_asin`, and `source_url` as `https://www.amazon.com/dp/<ASIN>?tag=linksznn-20` (the buy link; the deal price may be shown, but Amazon comparison prices must never appear). Each comparison needs `store`, `price`, `url`, `checked_at`, `notes`, `available: true`, and `matching: true`. Use timezone-aware ISO timestamps and numeric USD prices. Optional fields: `category`, `condition`, `notes`, `expires_at`. Existing deals illustrate the format.
 
 `pct_below` is the whole percentage rounded down against the **lowest** qualifying comparison. All checks must be within 24 hours. A publisher's assertions cannot replace actually checking matching model, variant, pack size, condition and availability. Compare current sale prices, account for advertised promotions, and disclose shipping and warranty differences. Do not use inflated MSRP as market price. The publisher rejects savings below 40%.
 
@@ -40,6 +40,10 @@ The external Woot alert process can call this script after its own verification 
 
 About, Contact, Affiliate Disclosure, Privacy, Terms, sitemap and robots are included. Affiliate approval remains a decision of each program. The site includes ten researched recent Woot offers. Comparison notes distinguish direct checks from public search-accessible retailer listings and disclose shipping, variant and warranty differences. Prices and stock can change. The HealthSmart diffuser was published with publish_deal.py and its public deal page was verified live on October 30, 2026.
 
-### Amazon comparison links
+### Amazon-source deals
 
-Optional `amazon_asin` and `amazon_match_notes` fields add a clearly disclosed “Check price on Amazon” link on the deal page. Verify the exact model, color, size and pack quantity before supplying the ASIN; record the match date in `amazon_match_checked_at`. The template uses public Associates tag `linksznn-20` centrally in `src/lib/affiliates.ts`. Do not put Amazon prices in this field or the write-up; approved price-data integration is required before displaying Amazon prices. Amazon links do not affect the existing savings calculation. `publish_deal.py` preserves these fields and rejects malformed ASINs.
+Amazon-origin deals use `"source": "amazon"` with the Associates buy link above. Templates label the price “at Amazon”, keep the standard affiliate disclosure, and do not render a separate “Compare at Amazon” block. Internal fields such as `reference_price` are stripped before the public JSON is committed.
+
+### Amazon comparison links (Woot deals)
+
+Optional `amazon_asin` and `amazon_match_notes` fields add a clearly disclosed “Check price on Amazon” link on Woot deal pages. Verify the exact model, color, size and pack quantity before supplying the ASIN; record the match date in `amazon_match_checked_at`. The template uses public Associates tag `linksznn-20` centrally in `src/lib/affiliates.ts`. Do not put Amazon prices in this field or the write-up; approved price-data integration is required before displaying Amazon prices. Amazon links do not affect the existing savings calculation. `publish_deal.py` preserves these fields and rejects malformed ASINs.

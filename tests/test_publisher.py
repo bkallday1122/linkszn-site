@@ -37,4 +37,43 @@ class ValidationTests(unittest.TestCase):
    with self.assertRaises(ValueError): p.validate(d)
   self.d['price']=float('nan')
   with self.assertRaises(ValueError): p.validate(self.d)
+
+ def test_amazon_source_deal(self):
+  d=copy.deepcopy(self.d)
+  d.pop('woot_url')
+  d.update(source='amazon', source_url='https://www.amazon.com/dp/B00EO96LL0?tag=linksznn-20', amazon_asin='B00EO96LL0', kind='new')
+  slug=p.validate(d)
+  self.assertTrue(slug.startswith('a-useful-product-'))
+  self.assertEqual(d['source_url'],'https://www.amazon.com/dp/B00EO96LL0?tag=linksznn-20')
+  public=p.public_deal(d)
+  self.assertEqual(public['source'],'amazon')
+  self.assertNotIn('woot_url', public)
+  self.assertNotIn('amazon_price', public)
+  self.assertNotIn('reference_price', public)
+ def test_amazon_buy_link_normalized_and_wrong_tag_rejected(self):
+  d=copy.deepcopy(self.d)
+  d.pop('woot_url')
+  d.update(source='amazon', source_url='https://amazon.com/dp/B00EO96LL0', amazon_asin='B00EO96LL0')
+  p.validate(d)
+  self.assertEqual(d['source_url'],'https://www.amazon.com/dp/B00EO96LL0?tag=linksznn-20')
+  d=copy.deepcopy(self.d); d.pop('woot_url')
+  d.update(source='amazon', source_url='https://www.amazon.com/dp/B00EO96LL0?tag=other-20', amazon_asin='B00EO96LL0')
+  with self.assertRaises(ValueError): p.validate(d)
+ def test_rejects_amazon_named_comparison(self):
+  self.d['comparisons'][0]['store']='Amazon'
+  with self.assertRaises(ValueError): p.validate(self.d)
+ def test_amazon_source_allows_named_manufacturer_comparison(self):
+  d=copy.deepcopy(self.d)
+  d.pop('woot_url')
+  d.update(source='amazon', source_url='https://www.amazon.com/dp/B0DWS4QD67?tag=linksznn-20', amazon_asin='B0DWS4QD67')
+  d['comparisons'][0].update(store='LiTHELi Official Store', url='https://www.amazon.com/dp/B0DWS4QD67', notes='Manufacturer official store offer, new and in stock')
+  p.validate(d)
+ def test_strips_internal_fields(self):
+  d=copy.deepcopy(self.d)
+  d.update(amazon_price=3.2, reference_price=5.45, comparison={'verdict':'pass'})
+  pub=p.public_deal(d)
+  self.assertNotIn('amazon_price', pub)
+  self.assertNotIn('reference_price', pub)
+  self.assertNotIn('comparison', pub)
+
 if __name__=='__main__': unittest.main()
