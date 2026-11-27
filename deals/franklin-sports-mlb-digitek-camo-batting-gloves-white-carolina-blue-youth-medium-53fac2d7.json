@@ -1,0 +1,25 @@
+{
+  "title": "Franklin Sports MLB Digitek Camo Batting Gloves, White/Carolina Blue, Youth Medium",
+  "source": "amazon",
+  "source_url": "https://www.amazon.com/dp/B07XT8FYRH?tag=linksznn-20",
+  "image": "https://m.media-amazon.com/images/I/812qdu1djGL.jpg",
+  "price": 7.19,
+  "comparisons": [
+    {
+      "store": "Walmart",
+      "price": 14.39,
+      "url": "https://www.walmart.com/ip/Franklin-Sports-MLB-Batting-Gloves-Digitek-Camo-Baseball-Softball-Batting-Gloves-Premium-Leather-Baseball-Batting-Gloves-Batting-Glove-Pair-White-C-B/11150468727",
+      "checked_at": "2026-11-27T17:35:30-05:00",
+      "notes": "gtin 025725594788 match, in stock, new",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-27T17:35:57-05:00",
+  "checked_at": "2026-11-27T17:35:41-05:00",
+  "writeup": "Franklin Sports MLB Digitek camo batting gloves in white and Carolina blue, youth medium, are back in stock at $7.19. They are a premium leather pair for baseball or softball. Walmart lists the exact same pair, matched by UPC, at $14.39, so this is about half off. Condition is new.",
+  "condition": "new",
+  "amazon_asin": "B07XT8FYRH",
+  "kind": "restock"
+}
