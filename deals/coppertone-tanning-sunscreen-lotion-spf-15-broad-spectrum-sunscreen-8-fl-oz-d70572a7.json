@@ -1,0 +1,25 @@
+{
+  "title": "Coppertone Tanning Sunscreen Lotion, SPF 15 Broad Spectrum Sunscreen, 8 Fl Oz",
+  "source": "amazon",
+  "source_url": "https://www.amazon.com/dp/B005UNUS7W?tag=linksznn-20",
+  "image": "https://m.media-amazon.com/images/I/71dlJdAOtkL.jpg",
+  "price": 3.99,
+  "comparisons": [
+    {
+      "store": "Walmart",
+      "price": 7.98,
+      "url": "https://www.walmart.com/ip/Coppertone-Tanning-Sunscreen-Lotion-Broad-Spectrum-SPF-15-Sunscreen-8-fl-oz/490556707",
+      "checked_at": "2026-11-27T04:00:26+00:00",
+      "notes": "gtin",
+      "available": true,
+      "matching": true
+    }
+  ],
+  "pct_below": 50,
+  "posted_at": "2026-11-27T04:01:00.475+00:00",
+  "checked_at": "2026-11-27T04:00:45+00:00",
+  "writeup": "Coppertone Tanning Sunscreen Lotion in SPF 15 broad spectrum, the 8 fl oz bottle, is back in stock at $3.99 as new. Walmart sells the exact same bottle, matched by UPC, for $7.98, so this is about half price. Stock on low-priced sunscreen can disappear quickly, so grab it while it lasts.",
+  "condition": "new",
+  "amazon_asin": "B005UNUS7W",
+  "kind": "restock"
+}
