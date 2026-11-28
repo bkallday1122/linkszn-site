@@ -76,4 +76,31 @@ class ValidationTests(unittest.TestCase):
   self.assertNotIn('reference_price', pub)
   self.assertNotIn('comparison', pub)
 
+ def test_useful_pick_amazon_no_discount_fields(self):
+  d=copy.deepcopy(self.d)
+  d.pop('woot_url'); d.pop('pct_below'); d['comparisons']=[]
+  d.update(source='amazon', source_url='https://www.amazon.com/dp/B0HFSDPVQ1?tag=linksznn-20', amazon_asin='B0HFSDPVQ1', kind='useful_pick')
+  slug=p.validate(d)
+  self.assertTrue(slug.startswith('a-useful-product-'))
+  self.assertEqual(d['comparisons'],[])
+  self.assertNotIn('pct_below', d)
+  pub=p.public_deal(d)
+  self.assertEqual(pub['kind'],'useful_pick')
+  self.assertEqual(pub['comparisons'],[])
+  self.assertNotIn('pct_below', pub)
+  self.assertNotIn('amazon_price', pub)
+ def test_useful_pick_rejects_pct_below_and_comparisons(self):
+  d=copy.deepcopy(self.d)
+  d.pop('woot_url')
+  d.update(source='amazon', source_url='https://www.amazon.com/dp/B0HFSDPVQ1?tag=linksznn-20', amazon_asin='B0HFSDPVQ1', kind='useful_pick')
+  with self.assertRaises(ValueError): p.validate(d)
+  d=copy.deepcopy(self.d)
+  d.pop('woot_url'); d.pop('pct_below'); d['comparisons']=[]
+  d.update(source='amazon', source_url='https://www.amazon.com/dp/B0HFSDPVQ1?tag=linksznn-20', amazon_asin='B0HFSDPVQ1', kind='useful_pick', pct_below=31)
+  with self.assertRaises(ValueError): p.validate(d)
+ def test_useful_pick_rejects_unknown_kind(self):
+  self.d['kind']='pick'
+  with self.assertRaises(ValueError): p.validate(self.d)
+
+
 if __name__=='__main__': unittest.main()

@@ -4,6 +4,7 @@ export const deals = fs.readdirSync('deals').filter(f=>f.endsWith('.json')).map(
 export const money=(n:number)=>new Intl.NumberFormat('en-US',{style:'currency',currency:'USD'}).format(n);
 export const date=(s:string)=>new Intl.DateTimeFormat('en-US',{dateStyle:'medium',timeStyle:'short',timeZone:'America/New_York'}).format(new Date(s))+' ET';
 export const isAmazonSource=(d:{source?:string})=>String(d.source||'').toLowerCase()==='amazon';
+export const isUsefulPick=(d:{kind?:string})=>String(d.kind||'').toLowerCase()==='useful_pick';
 export const sourceName=(d:{source?:string})=>isAmazonSource(d)?'Amazon':'Woot';
 export const buyUrl=(d:{source?:string,source_url?:string,woot_url?:string})=>isAmazonSource(d)?d.source_url:d.woot_url;
 export const buyLabel=(d:{source?:string})=>isAmazonSource(d)?'Buy at Amazon ↗':'Buy at Woot ↗';

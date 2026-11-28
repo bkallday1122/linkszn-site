@@ -130,11 +130,15 @@ def validate(d):
     src=source_of(d)
     if src=='amazon':
         normalize_amazon(d)
-        required=('title','source_url','image','price','comparisons','pct_below','posted_at','writeup','checked_at')
+        required=('title','source_url','image','price','posted_at','writeup','checked_at')
         strings=('title','writeup','image','source_url','posted_at','checked_at')
+        if str(d.get('kind') or '').strip().lower()!='useful_pick':
+            required=required+('comparisons','pct_below')
     else:
-        required=('title','woot_url','image','price','comparisons','pct_below','posted_at','writeup','checked_at')
+        required=('title','woot_url','image','price','posted_at','writeup','checked_at')
         strings=('title','writeup','image','woot_url','posted_at','checked_at')
+        if str(d.get('kind') or '').strip().lower()!='useful_pick':
+            required=required+('comparisons','pct_below')
     for k in required:
         if k not in d: raise ValueError(f'Missing {k}')
     for k in strings:
@@ -150,8 +154,9 @@ def validate(d):
                 raise ValueError('Describe the verified Amazon model, variant and quantity in amazon_match_notes')
     if d.get('kind') is not None:
         kind=str(d.get('kind') or '').strip().lower()
-        if kind not in ('new','restock'): raise ValueError('kind must be new or restock')
+        if kind not in ('new','restock','useful_pick'): raise ValueError('kind must be new, restock, or useful_pick')
         d['kind']=kind
+    useful=str(d.get('kind') or '')=='useful_pick'
     now = dt.datetime.now(dt.timezone.utc)
     for k in ('posted_at','checked_at'):
         t=timestamp(d[k])
@@ -159,28 +164,37 @@ def validate(d):
     if now-timestamp(d['checked_at']) > dt.timedelta(hours=24):
         raise ValueError('Recheck prices before publishing: checked_at is over 24 hours old')
     if len(d['writeup'].split()) < 30: raise ValueError('Provide an original 2–4 sentence write-up (at least 30 words)')
-    if not isinstance(d['comparisons'],list) or not d['comparisons']: raise ValueError('At least one verified retailer comparison is required')
-    for c in d['comparisons']:
-        for k in ('store','price','url','checked_at','notes'):
-            if k not in c: raise ValueError(f'Comparison missing {k}')
-        price(c['price']); url(c['url'])
-        store=str(c.get('store') or '').strip()
-        if not store: raise ValueError('Comparison is missing a store name')
-        if re.fullmatch(r'amazon', store, re.I):
-            raise ValueError('Do not list Amazon as a comparison store or show Amazon comparison prices')
-        if amazon_host(c['url']) and src!='amazon':
-            raise ValueError('Do not use Amazon URLs as comparison prices')
-        if amazon_host(c['url']) and src=='amazon':
-            # Manufacturer/official-store references may live on Amazon, but must be named as that store, never "Amazon".
-            if not re.search(r'official|manufacturer|brand store', str(c.get('notes') or ''), re.I):
-                raise ValueError('An Amazon-hosted comparison must be a named official/manufacturer store, not an Amazon price')
-        if c.get('available') is not True: raise ValueError('Comparison must explicitly confirm available: true')
-        if c.get('matching') is not True: raise ValueError('Comparison must explicitly confirm matching: true')
-        t=timestamp(c['checked_at'])
-        if t > now+dt.timedelta(minutes=5) or now-t > dt.timedelta(hours=24): raise ValueError('Comparison price check must be within 24 hours')
-    pct=math.floor((1-d['price']/min(c['price'] for c in d['comparisons']))*100+1e-9)
-    if pct < 40: raise ValueError(f'Deal is only {pct}% below the lowest comparison; minimum is 40%')
-    if d['pct_below'] != pct: raise ValueError(f'pct_below must be {pct}, rounded down from the lowest comparison')
+    if useful:
+        if d.get('comparisons') not in (None, []):
+            if not isinstance(d.get('comparisons'), list) or d['comparisons']:
+                raise ValueError('Useful picks cannot include store comparisons; publish as a deal if it clears the bar')
+        d['comparisons']=[]
+        if 'pct_below' in d and d['pct_below'] is not None:
+            raise ValueError('Useful picks cannot include pct_below; that would display a fake discount')
+        d.pop('pct_below', None)
+    else:
+        if not isinstance(d['comparisons'],list) or not d['comparisons']: raise ValueError('At least one verified retailer comparison is required')
+        for c in d['comparisons']:
+            for k in ('store','price','url','checked_at','notes'):
+                if k not in c: raise ValueError(f'Comparison missing {k}')
+            price(c['price']); url(c['url'])
+            store=str(c.get('store') or '').strip()
+            if not store: raise ValueError('Comparison is missing a store name')
+            if re.fullmatch(r'amazon', store, re.I):
+                raise ValueError('Do not list Amazon as a comparison store or show Amazon comparison prices')
+            if amazon_host(c['url']) and src!='amazon':
+                raise ValueError('Do not use Amazon URLs as comparison prices')
+            if amazon_host(c['url']) and src=='amazon':
+                # Manufacturer/official-store references may live on Amazon, but must be named as that store, never "Amazon".
+                if not re.search(r'official|manufacturer|brand store', str(c.get('notes') or ''), re.I):
+                    raise ValueError('An Amazon-hosted comparison must be a named official/manufacturer store, not an Amazon price')
+            if c.get('available') is not True: raise ValueError('Comparison must explicitly confirm available: true')
+            if c.get('matching') is not True: raise ValueError('Comparison must explicitly confirm matching: true')
+            t=timestamp(c['checked_at'])
+            if t > now+dt.timedelta(minutes=5) or now-t > dt.timedelta(hours=24): raise ValueError('Comparison price check must be within 24 hours')
+        pct=math.floor((1-d['price']/min(c['price'] for c in d['comparisons']))*100+1e-9)
+        if pct < 40: raise ValueError(f'Deal is only {pct}% below the lowest comparison; minimum is 40%')
+        if d['pct_below'] != pct: raise ValueError(f'pct_below must be {pct}, rounded down from the lowest comparison')
     slug=re.sub(r'[^a-z0-9]+','-',d['title'].lower()).strip('-')[:90]
     if not slug: raise ValueError('Title must produce a valid slug')
     return slug+'-'+hashlib.sha256(slug_hash_url(d).encode()).hexdigest()[:8]
@@ -230,7 +244,8 @@ def main():
             if (ROOT/'public'/'img'/f"{slug}.jpg").exists(): extra=[f"public/img/{slug}.jpg"]
         except Exception as e: print('Card image skipped:',type(e).__name__)
         run('git','add','--',rel,'shortlinks.json',*extra)
-        run('git','commit','-m',f'Publish deal: {d["title"]}','--',rel,'shortlinks.json',*extra)
+        label='useful pick' if d.get('kind')=='useful_pick' else 'deal'
+        run('git','commit','-m',f'Publish {label}: {d["title"]}','--',rel,'shortlinks.json',*extra)
         schedule_push()
         print(f'Pushed {run("git","rev-parse","HEAD").strip()} (committed; batched push within ~45s)')
         print(f'Deployment queued; verify https://linkszn.com/deals/{slug}/ before calling it live.')
