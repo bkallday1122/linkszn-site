@@ -1,0 +1,15 @@
+{
+  "title": "BOSGAME E5 11 Pro Mini PC, AMD Ryzen 5300U 4C/8T",
+  "source": "amazon",
+  "source_url": "https://www.amazon.com/dp/B0GQ43833C?tag=linksznn-20",
+  "image": "https://m.media-amazon.com/images/I/81PR5XfY6rL.jpg",
+  "price": 199.49,
+  "comparisons": [],
+  "posted_at": "2026-11-28T01:50:00-05:00",
+  "checked_at": "2026-11-28T01:47:00-05:00",
+  "writeup": "This BOSGAME E5 is a small Windows 11 Pro desktop for office work, browsing and a home server or router box. BOSGAME lists a Ryzen 3 5300U (4 cores, 8 threads, up to 3.8GHz), two 2.5GbE ports and an extra M.2 slot. A SFFMetric lab test of a 16GB unit measured 2.37 Gbps over LAN and about 8W idle. It is the Prime price, $199.49. The Ryzen chip dates to 2021, and the 16GB tested ran single-channel, so graphics are limited. Check the memory size selected on the listing.",
+  "category": "Useful pick",
+  "condition": "New",
+  "amazon_asin": "B0GQ43833C",
+  "kind": "useful_pick"
+}
